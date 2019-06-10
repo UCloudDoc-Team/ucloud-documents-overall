@@ -1,0 +1,3 @@
+[submodule "UCloud-document"]
+	path = UCloud-document
+	url = git@github.com:UCloudDocs/UCloud-document.git
