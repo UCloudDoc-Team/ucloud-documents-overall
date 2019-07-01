@@ -1,3 +1,297 @@
 [submodule "UCloud-document"]
 	path = UCloud-document
 	url = git@github.com:UCloudDocs/UCloud-document.git
+[submodule "compute_UHybrid"]
+	path = compute_UHybrid
+	url = git@github.com:UCloudDocs/compute_UHybrid.git
+[submodule "compute_UHost"]
+	path = compute_UHost
+	url = git@github.com:UCloudDocs/compute_UHost.git
+[submodule "compute_UDHost"]
+	path = compute_UDHost
+	url = git@github.com:UCloudDocs/compute_UDHost.git
+[submodule "compute_UDocker"]
+	path = compute_UDocker
+	url = git@github.com:UCloudDocs/compute_UDocker.git
+[submodule "compute_UGC"]
+	path = compute_UGC
+	url = git@github.com:UCloudDocs/compute_UGC.git
+[submodule "compute_UHub"]
+	path = compute_UHub
+	url = git@github.com:UCloudDocs/compute_UHub.git
+[submodule "compute_UK8S"]
+	path = compute_UK8S
+	url = git@github.com:UCloudDocs/compute_UK8S.git
+[submodule "compute_Terraform"]
+	path = compute_Terraform
+	url = git@github.com:UCloudDocs/compute_Terraform.git
+[submodule "network_UNet"]
+	path = network_UNet
+	url = git@github.com:UCloudDocs/network_UNet.git
+[submodule "network_VPC"]
+	path = network_VPC
+	url = git@github.com:UCloudDocs/network_VPC.git
+[submodule "network_Firewall"]
+	path = network_Firewall
+	url = git@github.com:UCloudDocs/network_Firewall.git
+[submodule "network_VIP"]
+	path = network_VIP
+	url = git@github.com:UCloudDocs/network_VIP.git
+[submodule "network_UDPN"]
+	path = network_UDPN
+	url = git@github.com:UCloudDocs/network_UDPN.git
+[submodule "network_PathX"]
+	path = network_PathX
+	url = git@github.com:UCloudDocs/network_PathX.git
+[submodule "network_VPN"]
+	path = network_VPN
+	url = git@github.com:UCloudDocs/network_VPN.git
+[submodule "network_UDEE"]
+	path = network_UDEE
+	url = git@github.com:UCloudDocs/network_UDEE.git
+[submodule "network_IPv6"]
+	path = network_IPv6
+	url = git@github.com:UCloudDocs/network_IPv6.git
+[submodule "network_Rome"]
+	path = network_Rome
+	url = git@github.com:UCloudDocs/network_Rome.git
+[submodule "network_ULB"]
+	path = network_ULB
+	url = git@github.com:UCloudDocs/network_ULB.git
+[submodule "Storage_UDisk"]
+	path = Storage_UDisk
+	url = git@github.com:UCloudDocs/Storage_UDisk.git
+[submodule "Storage_UFile"]
+	path = Storage_UFile
+	url = git@github.com:UCloudDocs/Storage_UFile.git
+[submodule "Storage_UDataArk"]
+	path = Storage_UDataArk
+	url = git@github.com:UCloudDocs/Storage_UDataArk.git
+[submodule "Storage_UArchive"]
+	path = Storage_UArchive
+	url = git@github.com:UCloudDocs/Storage_UArchive.git
+[submodule "Storage_UFS"]
+	path = Storage_UFS
+	url = git@github.com:UCloudDocs/Storage_UFS.git
+[submodule "Storage_MySQL"]
+	path = Storage_MySQL
+	url = git@github.com:UCloudDocs/Storage_MySQL.git
+[submodule "Storage_MongoDB"]
+	path = Storage_MongoDB
+	url = git@github.com:UCloudDocs/Storage_MongoDB.git
+[submodule "Storage_PostgreSQL"]
+	path = Storage_PostgreSQL
+	url = git@github.com:UCloudDocs/Storage_PostgreSQL.git
+[submodule "Storage_Memcache"]
+	path = Storage_Memcache
+	url = git@github.com:UCloudDocs/Storage_Memcache.git
+[submodule "Storage_Redis"]
+	path = Storage_Redis
+	url = git@github.com:UCloudDocs/Storage_Redis.git
+[submodule "Storage_UDDB"]
+	path = Storage_UDDB
+	url = git@github.com:UCloudDocs/Storage_UDDB.git
+[submodule "Storage_TiDB"]
+	path = Storage_TiDB
+	url = git@github.com:UCloudDocs/Storage_TiDB.git
+[submodule "CDN_UCDN"]
+	path = CDN_UCDN
+	url = git@github.com:UCloudDocs/CDN_UCDN.git
+[submodule "CDN_UODN"]
+	path = CDN_UODN
+	url = git@github.com:UCloudDocs/CDN_UODN.git
+[submodule "CDN_UEDN"]
+	path = CDN_UEDN
+	url = git@github.com:UCloudDocs/CDN_UEDN.git
+[submodule "Multimedia_UMedia"]
+	path = Multimedia_UMedia
+	url = git@github.com:UCloudDocs/Multimedia_UMedia.git
+[submodule "Multimedia_ULive"]
+	path = Multimedia_ULive
+	url = git@github.com:UCloudDocs/Multimedia_ULive.git
+[submodule "Multimedia_UVideo"]
+	path = Multimedia_UVideo
+	url = git@github.com:UCloudDocs/Multimedia_UVideo.git
+[submodule "Multimedia_UVideoSDK"]
+	path = Multimedia_UVideoSDK
+	url = git@github.com:UCloudDocs/Multimedia_UVideoSDK.git
+[submodule "Multimedia_URTC"]
+	path = Multimedia_URTC
+	url = git@github.com:UCloudDocs/Multimedia_URTC.git
+[submodule "Security_DDos"]
+	path = Security_DDos
+	url = git@github.com:UCloudDocs/Security_DDos.git
+[submodule "Security_USSA"]
+	path = Security_USSA
+	url = git@github.com:UCloudDocs/Security_USSA.git
+[submodule "Security_UDDoS"]
+	path = Security_UDDoS
+	url = git@github.com:UCloudDocs/Security_UDDoS.git
+[submodule "Security_UClean"]
+	path = Security_UClean
+	url = git@github.com:UCloudDocs/Security_UClean.git
+[submodule "Security_UADS"]
+	path = Security_UADS
+	url = git@github.com:UCloudDocs/Security_UADS.git
+[submodule "Security_UHIDS"]
+	path = Security_UHIDS
+	url = git@github.com:UCloudDocs/Security_UHIDS.git
+[submodule "Security_UAuditHost"]
+	path = Security_UAuditHost
+	url = git@github.com:UCloudDocs/Security_UAuditHost.git
+[submodule "Security_UWAF"]
+	path = Security_UWAF
+	url = git@github.com:UCloudDocs/Security_UWAF.git
+[submodule "Security_UWS"]
+	path = Security_UWS
+	url = git@github.com:UCloudDocs/Security_UWS.git
+[submodule "Security_USSL"]
+	path = Security_USSL
+	url = git@github.com:UCloudDocs/Security_USSL.git
+[submodule "Security_UAuditDB"]
+	path = Security_UAuditDB
+	url = git@github.com:UCloudDocs/Security_UAuditDB.git
+[submodule "Security_UDBCP"]
+	path = Security_UDBCP
+	url = git@github.com:UCloudDocs/Security_UDBCP.git
+[submodule "ai_GPUUHost"]
+	path = ai_GPUUHost
+	url = git@github.com:UCloudDocs/ai_GPUUHost.git
+[submodule "ai_Inference"]
+	path = ai_Inference
+	url = git@github.com:UCloudDocs/ai_Inference.git
+[submodule "ai_Train"]
+	path = ai_Train
+	url = git@github.com:UCloudDocs/ai_Train.git
+[submodule "ai_Censor"]
+	path = ai_Censor
+	url = git@github.com:UCloudDocs/ai_Censor.git
+[submodule "ai_OCR"]
+	path = ai_OCR
+	url = git@github.com:UCloudDocs/ai_OCR.git
+[submodule "analysis_UHadoop"]
+	path = analysis_UHadoop
+	url = git@github.com:UCloudDocs/analysis_UHadoop.git
+[submodule "analysis_Elasticsearch"]
+	path = analysis_Elasticsearch
+	url = git@github.com:UCloudDocs/analysis_Elasticsearch.git
+[submodule "analysis_UDW"]
+	path = analysis_UDW
+	url = git@github.com:UCloudDocs/analysis_UDW.git
+[submodule "analysis_UKafka"]
+	path = analysis_UKafka
+	url = git@github.com:UCloudDocs/analysis_UKafka.git
+[submodule "analysis_UScheduler"]
+	path = analysis_UScheduler
+	url = git@github.com:UCloudDocs/analysis_UScheduler.git
+[submodule "analysis_USQL"]
+	path = analysis_USQL
+	url = git@github.com:UCloudDocs/analysis_USQL.git
+[submodule "analysis_UFlink"]
+	path = analysis_UFlink
+	url = git@github.com:UCloudDocs/analysis_UFlink.git
+[submodule "IoT_iotcore"]
+	path = IoT_iotcore
+	url = git@github.com:UCloudDocs/IoT_iotcore.git
+[submodule "account_register"]
+	path = account_register
+	url = git@github.com:UCloudDocs/account_register.git
+[submodule "account_verification"]
+	path = account_verification
+	url = git@github.com:UCloudDocs/account_verification.git
+[submodule "account_remind"]
+	path = account_remind
+	url = git@github.com:UCloudDocs/account_remind.git
+[submodule "account_login"]
+	path = account_login
+	url = git@github.com:UCloudDocs/account_login.git
+[submodule "account_security"]
+	path = account_security
+	url = git@github.com:UCloudDocs/account_security.git
+[submodule "middleware_StepFlow"]
+	path = middleware_StepFlow
+	url = git@github.com:UCloudDocs/middleware_StepFlow.git
+[submodule "management_monitor"]
+	path = management_monitor
+	url = git@github.com:UCloudDocs/management_monitor.git
+[submodule "management_USMS"]
+	path = management_USMS
+	url = git@github.com:UCloudDocs/management_USMS.git
+[submodule "management_UToken"]
+	path = management_UToken
+	url = git@github.com:UCloudDocs/management_UToken.git
+[submodule "management_UMon"]
+	path = management_UMon
+	url = git@github.com:UCloudDocs/management_UMon.git
+[submodule "management_SecurityLock"]
+	path = management_SecurityLock
+	url = git@github.com:UCloudDocs/management_SecurityLock.git
+[submodule "management_ULog"]
+	path = management_ULog
+	url = git@github.com:UCloudDocs/management_ULog.git
+[submodule "management_UAM"]
+	path = management_UAM
+	url = git@github.com:UCloudDocs/management_UAM.git
+[submodule "chare_Renew"]
+	path = chare_Renew
+	url = git@github.com:UCloudDocs/chare_Renew.git
+[submodule "chare_Transaction"]
+	path = chare_Transaction
+	url = git@github.com:UCloudDocs/chare_Transaction.git
+[submodule "chare_Invoice"]
+	path = chare_Invoice
+	url = git@github.com:UCloudDocs/chare_Invoice.git
+[submodule "chare_Bill"]
+	path = chare_Bill
+	url = git@github.com:UCloudDocs/chare_Bill.git
+[submodule "chare_Order"]
+	path = chare_Order
+	url = git@github.com:UCloudDocs/chare_Order.git
+[submodule "chare_Contract"]
+	path = chare_Contract
+	url = git@github.com:UCloudDocs/chare_Contract.git
+[submodule "chare_Charge"]
+	path = chare_Charge
+	url = git@github.com:UCloudDocs/chare_Charge.git
+[submodule "beian_help"]
+	path = beian_help
+	url = git@github.com:UCloudDocs/beian_help.git
+[submodule "beian_service"]
+	path = beian_service
+	url = git@github.com:UCloudDocs/beian_service.git
+[submodule "beian_FAQ"]
+	path = beian_FAQ
+	url = git@github.com:UCloudDocs/beian_FAQ.git
+[submodule "software_CLI"]
+	path = software_CLI
+	url = git@github.com:UCloudDocs/software_CLI.git
+[submodule "software_DNSGuide"]
+	path = software_DNSGuide
+	url = git@github.com:UCloudDocs/software_DNSGuide.git
+[submodule "software_DockerGuide"]
+	path = software_DockerGuide
+	url = git@github.com:UCloudDocs/software_DockerGuide.git
+[submodule "software_VPNGuide"]
+	path = software_VPNGuide
+	url = git@github.com:UCloudDocs/software_VPNGuide.git
+[submodule "domain_Udnr"]
+	path = domain_Udnr
+	url = git@github.com:UCloudDocs/domain_Udnr.git
+[submodule "domain_USSL"]
+	path = domain_USSL
+	url = git@github.com:UCloudDocs/domain_USSL.git
+[submodule "domain_policy_else"]
+	path = domain_policy_else
+	url = git@github.com:UCloudDocs/domain_policy_else.git
+[submodule "domain_policy_SLA"]
+	path = domain_policy_SLA
+	url = git@github.com:UCloudDocs/domain_policy_SLA.git
+[submodule "policy_Overseas_FAQ"]
+	path = policy_Overseas_FAQ
+	url = git@github.com:UCloudDocs/policy_Overseas_FAQ.git
+[submodule "middleware_UDTS"]
+	path = middleware_UDTS
+	url = git@github.com:UCloudDocs/middleware_UDTS.git
+[submodule "Storage_SQLServer"]
+	path = Storage_SQLServer
+	url = git@github.com:UCloudDocs/Storage_SQLServer
