@@ -1,7 +1,6 @@
 [submodule "UCloud-document"]
 	path = UCloud-document
 	url = git@github.com:UCloudDocs/UCloud-document.git
-
 [submodule "uhybrid"]
 	path = uhybrid
 	url = git@github.com:UCloudDocs/uhybrid.git
