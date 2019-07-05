@@ -1,0 +1,297 @@
+[submodule "uhybrid"]
+	path = uhybrid
+	url = https://github.com/UCloudDocs/uhybrid.git
+[submodule "uhost"]
+	path = uhost
+	url = https://github.com/UCloudDocs/uhost.git
+[submodule "uphost"]
+	path = uphost
+	url = https://github.com/UCloudDocs/uphost.git
+[submodule "udhost"]
+	path = udhost
+	url = https://github.com/UCloudDocs/udhost.git
+[submodule "udocker"]
+	path = udocker
+	url = https://github.com/UCloudDocs/udocker.git
+[submodule "ugc"]
+	path = ugc
+	url = https://github.com/UCloudDocs/ugc.git
+[submodule "uhub"]
+	path = uhub
+	url = https://github.com/UCloudDocs/uhub.git
+[submodule "uk8s"]
+	path = uk8s
+	url = https://github.com/UCloudDocs/uk8s.git
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/UCloudDocs/terraform.git
+[submodule "unet"]
+	path = unet
+	url = https://github.com/UCloudDocs/unet.git
+[submodule "vpc"]
+	path = vpc
+	url = https://github.com/UCloudDocs/vpc.git
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/UCloudDocs/firewall.git
+[submodule "vip"]
+	path = vip
+	url = https://github.com/UCloudDocs/vip.git
+[submodule "udpn"]
+	path = udpn
+	url = https://github.com/UCloudDocs/udpn.git
+[submodule "pathx"]
+	path = pathx
+	url = https://github.com/UCloudDocs/pathx.git
+[submodule "ipsec"]
+	path = ipsec
+	url = https://github.com/UCloudDocs/ipsec.git
+[submodule "vpn"]
+	path = vpn
+	url = https://github.com/UCloudDocs/vpn.git
+[submodule "udee"]
+	path = udee
+	url = https://github.com/UCloudDocs/udee.git
+[submodule "ipv6translation"]
+	path = ipv6translation
+	url = https://github.com/UCloudDocs/ipv6translation.git
+[submodule "roma"]
+	path = roma
+	url = https://github.com/UCloudDocs/roma.git
+[submodule "ulb"]
+	path = ulb
+	url = https://github.com/UCloudDocs/ulb.git
+[submodule "udisk"]
+	path = udisk
+	url = https://github.com/UCloudDocs/udisk.git
+[submodule "ufile"]
+	path = ufile
+	url = https://github.com/UCloudDocs/ufile.git
+[submodule "uda"]
+	path = uda
+	url = https://github.com/UCloudDocs/uda.git
+[submodule "uarchive"]
+	path = uarchive
+	url = https://github.com/UCloudDocs/uarchive.git
+[submodule "ufs"]
+	path = ufs
+	url = https://github.com/UCloudDocs/ufs.git
+[submodule "udb-mysql"]
+	path = udb-mysql
+	url = https://github.com/UCloudDocs/udb-mysql.git
+[submodule "udb-mongodb"]
+	path = udb-mongodb
+	url = https://github.com/UCloudDocs/udb-mongodb.git
+[submodule "udb-pgsql"]
+	path = udb-pgsql
+	url = https://github.com/UCloudDocs/udb-pgsql.git
+[submodule "udb-sqlserver"]
+	path = udb-sqlserver
+	url = https://github.com/UCloudDocs/udb-sqlserver.git
+[submodule "umem"]
+	path = umem
+	url = https://github.com/UCloudDocs/umem.git
+[submodule "uredis"]
+	path = uredis
+	url = https://github.com/UCloudDocs/uredis.git
+[submodule "uddb"]
+	path = uddb
+	url = https://github.com/UCloudDocs/uddb.git
+[submodule "utidb"]
+	path = utidb
+	url = https://github.com/UCloudDocs/utidb.git
+[submodule "ucdn"]
+	path = ucdn
+	url = https://github.com/UCloudDocs/ucdn.git
+[submodule "uodn"]
+	path = uodn
+	url = https://github.com/UCloudDocs/uodn.git
+[submodule "uedn"]
+	path = uedn
+	url = https://github.com/UCloudDocs/uedn.git
+[submodule "umedia"]
+	path = umedia
+	url = https://github.com/UCloudDocs/umedia.git
+[submodule "urtc"]
+	path = urtc
+	url = https://github.com/UCloudDocs/urtc.git
+[submodule "ulive"]
+	path = ulive
+	url = https://github.com/UCloudDocs/ulive.git
+[submodule "uvideo"]
+	path = uvideo
+	url = https://github.com/UCloudDocs/uvideo.git
+[submodule "uvideo_sdk"]
+	path = uvideo_sdk
+	url = https://github.com/UCloudDocs/uvideo_sdk.git
+[submodule "usecurity"]
+	path = usecurity
+	url = https://github.com/UCloudDocs/usecurity.git
+[submodule "usa"]
+	path = usa
+	url = https://github.com/UCloudDocs/usa.git
+[submodule "uantiddos"]
+	path = uantiddos
+	url = https://github.com/UCloudDocs/uantiddos.git
+[submodule "clean"]
+	path = clean
+	url = https://github.com/UCloudDocs/clean.git
+[submodule "uads"]
+	path = uads
+	url = https://github.com/UCloudDocs/uads.git
+[submodule "uhids"]
+	path = uhids
+	url = https://github.com/UCloudDocs/uhids.git
+[submodule "uhas"]
+	path = uhas
+	url = https://github.com/UCloudDocs/uhas.git
+[submodule "uewaf"]
+	path = uewaf
+	url = https://github.com/UCloudDocs/uewaf.git
+[submodule "uws_robot"]
+	path = uws_robot
+	url = https://github.com/UCloudDocs/uws_robot.git
+[submodule "udas"]
+	path = udas
+	url = https://github.com/UCloudDocs/udas.git
+[submodule "udbcp"]
+	path = udbcp
+	url = https://github.com/UCloudDocs/udbcp.git
+[submodule "gpu"]
+	path = gpu
+	url = https://github.com/UCloudDocs/gpu.git
+[submodule "uai-inference"]
+	path = uai-inference
+	url = https://github.com/UCloudDocs/uai-inference.git
+[submodule "uai-train"]
+	path = uai-train
+	url = https://github.com/UCloudDocs/uai-train.git
+[submodule "uai-censor"]
+	path = uai-censor
+	url = https://github.com/UCloudDocs/uai-censor.git
+[submodule "uai-ocr"]
+	path = uai-ocr
+	url = https://github.com/UCloudDocs/uai-ocr.git
+[submodule "uhadoop"]
+	path = uhadoop
+	url = https://github.com/UCloudDocs/uhadoop.git
+[submodule "ues"]
+	path = ues
+	url = https://github.com/UCloudDocs/ues.git
+[submodule "udw"]
+	path = udw
+	url = https://github.com/UCloudDocs/udw.git
+[submodule "ukafka"]
+	path = ukafka
+	url = https://github.com/UCloudDocs/ukafka.git
+[submodule "uscheduler"]
+	path = uscheduler
+	url = https://github.com/UCloudDocs/uscheduler.git
+[submodule "usql"]
+	path = usql
+	url = https://github.com/UCloudDocs/usql.git
+[submodule "uflink"]
+	path = uflink
+	url = https://github.com/UCloudDocs/uflink.git
+[submodule "uiot-core"]
+	path = uiot-core
+	url = https://github.com/UCloudDocs/uiot-core.git
+[submodule "register"]
+	path = register
+	url = https://github.com/UCloudDocs/register.git
+[submodule "identity_verification"]
+	path = identity_verification
+	url = https://github.com/UCloudDocs/identity_verification.git
+[submodule "remind"]
+	path = remind
+	url = https://github.com/UCloudDocs/remind.git
+[submodule "login"]
+	path = login
+	url = https://github.com/UCloudDocs/login.git
+[submodule "security"]
+	path = security
+	url = https://github.com/UCloudDocs/security.git
+[submodule "stepflow"]
+	path = stepflow
+	url = https://github.com/UCloudDocs/stepflow.git
+[submodule "udts"]
+	path = udts
+	url = https://github.com/UCloudDocs/udts.git
+[submodule "usms"]
+	path = usms
+	url = https://github.com/UCloudDocs/usms.git
+[submodule "utoken"]
+	path = utoken
+	url = https://github.com/UCloudDocs/utoken.git
+[submodule "umon"]
+	path = umon
+	url = https://github.com/UCloudDocs/umon.git
+[submodule "security_lock"]
+	path = security_lock
+	url = https://github.com/UCloudDocs/security_lock.git
+[submodule "manage"]
+	path = manage
+	url = https://github.com/UCloudDocs/manage.git
+[submodule "uproject"]
+	path = uproject
+	url = https://github.com/UCloudDocs/uproject.git
+[submodule "uops"]
+	path = uops
+	url = https://github.com/UCloudDocs/uops.git
+[submodule "renew"]
+	path = renew
+	url = https://github.com/UCloudDocs/renew.git
+[submodule "transaction"]
+	path = transaction
+	url = https://github.com/UCloudDocs/transaction.git
+[submodule "invoice"]
+	path = invoice
+	url = https://github.com/UCloudDocs/invoice.git
+[submodule "bill"]
+	path = bill
+	url = https://github.com/UCloudDocs/bill.git
+[submodule "order"]
+	path = order
+	url = https://github.com/UCloudDocs/order.git
+[submodule "contract"]
+	path = contract
+	url = https://github.com/UCloudDocs/contract.git
+[submodule "charge"]
+	path = charge
+	url = https://github.com/UCloudDocs/charge.git
+[submodule "beian1"]
+	path = beian1
+	url = https://github.com/UCloudDocs/beian1.git
+[submodule "beianintro"]
+	path = beianintro
+	url = https://github.com/UCloudDocs/beianintro.git
+[submodule "faq"]
+	path = faq
+	url = https://github.com/UCloudDocs/faq.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/UCloudDocs/cli.git
+[submodule "dns"]
+	path = dns
+	url = https://github.com/UCloudDocs/dns.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/UCloudDocs/docker.git
+[submodule "vpnguide"]
+	path = vpnguide
+	url = https://github.com/UCloudDocs/vpnguide.git
+[submodule "udnr"]
+	path = udnr
+	url = https://github.com/UCloudDocs/udnr.git
+[submodule "ussl"]
+	path = ussl
+	url = https://github.com/UCloudDocs/ussl.git
+[submodule "agreement"]
+	path = agreement
+	url = https://github.com/UCloudDocs/agreement.git
+[submodule "sla"]
+	path = sla
+	url = https://github.com/UCloudDocs/sla.git
+[submodule "global"]
+	path = global
+	url = https://github.com/UCloudDocs/global.git
