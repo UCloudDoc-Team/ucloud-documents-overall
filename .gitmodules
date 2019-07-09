@@ -295,3 +295,6 @@
 [submodule "global"]
 	path = global
 	url = https://github.com/UCloudDocs/global.git
+[submodule "accessgw"]
+	path = accessgw
+	url = https://github.com/UCloudDocs/accessgw.git
