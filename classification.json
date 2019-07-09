@@ -1,0 +1,23 @@
+
+{
+    "account": ["identity_verification","login","register","remind","security"],
+    "ai": ["gpu", "uai-censor","uai-inference","uai-ocr","uai-train"],
+    "analysis":["udw","ues","uflink","uhadoop","ukafka","usql","uscheduler"],
+    "beian":["beian1","beianintro","faq"],
+    "cdn":["ucdn","uedn","uodn"],
+    "charge":["bill","charge","contract","invoice","order","renew","transaction"],
+    "compute":["autoscaling","terraform","udhost","udocker","ugc","uhost","uhub","uhybrid","uk8s","uphost"],
+    "database":["udb-mongodb","udb-mysql","udb-pgsql","udb-sqlserver","uddb","umem","uredis","utidb"],
+    "domain":["udnr","ussl"],
+    "management_monitor":["manage","umon","uproject","usms","utoken","security_lock"],
+    "middleware":["stepflow","udts"],
+    "network":["firewall","ipsec","ipv6translation","pathx","roma","udee","udpn","ulb","unet","vip","vpc","vpn","accessgw"],
+    "other":["global"],
+    "policy":["agreement","sla"],
+    "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uws_robot","uantiddos"],
+    "software":["cli","dns","vpnguide","docker"],
+    "storage_cdn":["uarchive","ucdn","uda","udisk","ufile","ufs"],
+    "video":["ulive","umai","umedia","urtc","uvideo","uvideo_sdk"],
+    "playground":["helm"],
+    "iot":["uiot-core"]
+  }
