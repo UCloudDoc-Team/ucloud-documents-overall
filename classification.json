@@ -6,7 +6,7 @@
     "beian":["beian1","beianintro","faq"],
     "cdn":["ucdn","uedn","uodn"],
     "charge":["bill","charge","contract","invoice","order","renew","transaction"],
-    "compute":["autoscaling","terraform","udhost","udocker","ugc","uhost","uhub","uhybrid","uk8s","uphost"],
+    "compute":["terraform","udhost","udocker","ugc","uhost","uhub","uhybrid","uk8s","uphost"],
     "database":["udb-mongodb","udb-mysql","udb-pgsql","udb-sqlserver","uddb","umem","uredis","utidb"],
     "domain":["udnr","ussl"],
     "management_monitor":["manage","umon","uproject","usms","utoken","security_lock"],
@@ -17,7 +17,6 @@
     "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uws_robot","uantiddos"],
     "software":["cli","dns","vpnguide","docker"],
     "storage_cdn":["uarchive","ucdn","uda","udisk","ufile","ufs"],
-    "video":["ulive","umai","umedia","urtc","uvideo","uvideo_sdk"],
-    "playground":["helm"],
+    "video":["ulive","umedia","urtc","uvideo","uvideo_sdk"],
     "iot":["uiot-core"]
   }
