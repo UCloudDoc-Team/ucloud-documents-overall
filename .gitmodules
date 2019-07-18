@@ -115,9 +115,6 @@
 [submodule "ulive"]
 	path = ulive
 	url = https://github.com/UCloudDocs/ulive.git
-[submodule "uvideo"]
-	path = uvideo
-	url = https://github.com/UCloudDocs/uvideo.git
 [submodule "uvideo_sdk"]
 	path = uvideo_sdk
 	url = https://github.com/UCloudDocs/uvideo_sdk.git
