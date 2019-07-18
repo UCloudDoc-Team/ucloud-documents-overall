@@ -97,9 +97,6 @@
 [submodule "uddb"]
 	path = uddb
 	url = https://github.com/UCloudDocs/uddb.git
-[submodule "utidb"]
-	path = utidb
-	url = https://github.com/UCloudDocs/utidb.git
 [submodule "ucdn"]
 	path = ucdn
 	url = https://github.com/UCloudDocs/ucdn.git
@@ -214,9 +211,6 @@
 [submodule "stepflow"]
 	path = stepflow
 	url = https://github.com/UCloudDocs/stepflow.git
-[submodule "udts"]
-	path = udts
-	url = https://github.com/UCloudDocs/udts.git
 [submodule "usms"]
 	path = usms
 	url = https://github.com/UCloudDocs/usms.git
