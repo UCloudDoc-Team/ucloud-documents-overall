@@ -17,6 +17,6 @@
     "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uws_robot","uantiddos"],
     "software":["cli","dns","vpnguide","docker"],
     "storage_cdn":["uarchive","ucdn","uda","udisk","ufile","ufs"],
-    "video":["ulive","umedia","urtc","uvideo","uvideo_sdk"],
+    "video":["ulive","umedia","urtc","uvideo_sdk"],
     "iot":["uiot-core"]
   }
