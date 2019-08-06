@@ -10,7 +10,7 @@
     "database":["udb-mongodb","udb-mysql","udb-pgsql","udb-sqlserver","uddb","umem","uredis"],
     "domain":["udnr","ussl"],
     "management_monitor":["manage","umon","uproject","usms","utoken","security_lock"],
-    "middleware":["stepflow"],
+    "middleware":["stepflow","uapigateway"],
     "network":["firewall","ipsec","ipv6translation","pathx","roma","udee","udpn","ulb","unet","vip","vpc","vpn","accessgw"],
     "other":["global"],
     "policy":["agreement","sla"],
