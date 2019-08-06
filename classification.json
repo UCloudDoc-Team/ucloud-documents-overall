@@ -20,5 +20,5 @@
     "video":["ulive","umedia","urtc","uvideo_sdk"],
     "iot":["uiot-core"],
     "service":["uops"],
-    "test11":["d","t"]
+    "test11":["d"]
   }
