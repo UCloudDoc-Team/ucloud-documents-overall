@@ -19,6 +19,5 @@
     "storage_cdn":["uarchive","ucdn","uda","udisk","ufile","ufs"],
     "video":["ulive","umedia","urtc","uvideo_sdk"],
     "iot":["uiot-core"],
-    "service":["uops"],
-    "test11":["d","dd"]
+    "service":["uops"]
   }
