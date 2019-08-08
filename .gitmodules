@@ -292,3 +292,6 @@
 [submodule "uapigateway"]
 	path = uapigateway
 	url = https://github.com/UCloudDocs/uapigateway.git
+[submodule "anycasteip"]
+	path = anycasteip
+	url = https://github.com/UCloudDocs/anycasteip.git
