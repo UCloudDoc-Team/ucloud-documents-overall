@@ -2,7 +2,7 @@
 {
     "account": ["identity_verification","login","register","remind","security"],
     "ai": ["gpu", "uai-censor","uai-inference","uai-ocr","uai-train"],
-    "analysis":["udw","ues","uflink","uhadoop","ukafka","usql","uscheduler"],
+    "analysis":["udw","ues","uflink","uhadoop","ukafka","usql"],
     "beian":["beian1","beianintro","faq"],
     "cdn":["ucdn","uedn","uodn"],
     "charge":["bill","charge","contract","invoice","order","renew","transaction"],
