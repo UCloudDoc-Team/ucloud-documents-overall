@@ -178,9 +178,6 @@
 [submodule "ukafka"]
 	path = ukafka
 	url = https://github.com/UCloudDocs/ukafka.git
-[submodule "uscheduler"]
-	path = uscheduler
-	url = https://github.com/UCloudDocs/uscheduler.git
 [submodule "usql"]
 	path = usql
 	url = https://github.com/UCloudDocs/usql.git
