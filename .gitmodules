@@ -292,3 +292,9 @@
 [submodule "anycasteip"]
 	path = anycasteip
 	url = https://github.com/UCloudDocs/anycasteip.git
+[submodule "udts"]
+	path = udts
+	url = https://github.com/UCloudDocs/udts.git
+[submodule "tidb"]
+	path = tidb
+	url = https://github.com/UCloudDocs/tidb.git
