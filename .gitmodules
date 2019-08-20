@@ -250,12 +250,6 @@
 [submodule "beian1"]
 	path = beian1
 	url = https://github.com/UCloudDocs/beian1.git
-[submodule "beianintro"]
-	path = beianintro
-	url = https://github.com/UCloudDocs/beianintro.git
-[submodule "faq"]
-	path = faq
-	url = https://github.com/UCloudDocs/faq.git
 [submodule "cli"]
 	path = cli
 	url = https://github.com/UCloudDocs/cli.git
