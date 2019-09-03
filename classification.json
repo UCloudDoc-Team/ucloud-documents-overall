@@ -14,7 +14,7 @@
     "network":["firewall","ipsec","ipv6translation","pathx","roma","udee","udpn","ulb","unet","vip","vpc","vpn","accessgw","anycasteip"],
     "other":["global"],
     "policy":["agreement","sla"],
-    "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uws_robot","uantiddos"],
+    "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uws_robot","uantiddos","uanycastclean"],
     "software":["cli","dns","vpnguide","docker"],
     "storage_cdn":["uarchive","ucdn","uda","udisk","ufile","ufs"],
     "video":["ulive","umedia","urtc","uvideo_sdk"],

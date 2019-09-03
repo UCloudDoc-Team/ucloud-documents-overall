@@ -292,3 +292,6 @@
 [submodule "uapi"]
 	path = uapi
 	url = https://github.com/UCloudDocs/uapi.git
+[submodule "uanycastclean"]
+	path = uanycastclean
+	url = https://github.com/UCloudDocs/uanycastclean.git
