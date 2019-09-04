@@ -295,3 +295,6 @@
 [submodule "uanycastclean"]
 	path = uanycastclean
 	url = https://github.com/UCloudDocs/uanycastclean.git
+[submodule "udts"]
+	path = udts
+	url = https://github.com/UCloudDocs/udts.git
