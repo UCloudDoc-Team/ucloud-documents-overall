@@ -298,3 +298,12 @@
 [submodule "udts"]
 	path = udts
 	url = https://github.com/UCloudDocs/udts.git
+[submodule "opensdk-java"]
+	path = opensdk-java
+	url = https://github.com/UCloudDocs/opensdk-java.git
+[submodule "opensdk-go"]
+	path = opensdk-go
+	url = https://github.com/UCloudDocs/opensdk-go.git
+[submodule "opensdk-python"]
+	path = opensdk-python
+	url = https://github.com/UCloudDocs/opensdk-python.git
