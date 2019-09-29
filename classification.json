@@ -15,7 +15,7 @@
     "other":["global"],
     "policy":["agreement","sla"],
     "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uws_robot","uantiddos","uanycastclean"],
-    "developer_tools":["cli","opensdk-java","opensdk-go","opensdk-python"],
+    "developer":["cli","opensdk-java","opensdk-go","opensdk-python"],
     "software":["dns","vpnguide","docker"],
     "storage_cdn":["uarchive","ucdn","uda","udisk","ufile","ufs"],
     "video":["ulive","umedia","urtc","uvideo_sdk"],
