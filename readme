@@ -1,4 +1,4 @@
->添加classification无序排序，依次往下添加就可以。
+Note: 添加classification无序排序，依次往下添加就可以。
 
 account:账号
 ai：人工智能
@@ -21,3 +21,4 @@ video：多媒体
 iot：物联网
 service：运维服务
 developer:开发者工具
+
