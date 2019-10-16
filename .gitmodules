@@ -259,9 +259,6 @@
 [submodule "docker"]
 	path = docker
 	url = https://github.com/UCloudDocs/docker.git
-[submodule "vpnguide"]
-	path = vpnguide
-	url = https://github.com/UCloudDocs/vpnguide.git
 [submodule "udnr"]
 	path = udnr
 	url = https://github.com/UCloudDocs/udnr.git
