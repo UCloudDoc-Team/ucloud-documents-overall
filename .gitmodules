@@ -304,3 +304,6 @@
 [submodule "opensdk-python"]
 	path = opensdk-python
 	url = https://github.com/UCloudDocs/opensdk-python.git
+[submodule "api"]
+	path = api
+	url = https://github.com/UCloudDocs/api.git
