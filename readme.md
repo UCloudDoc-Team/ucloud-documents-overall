@@ -39,6 +39,29 @@ developer:开发者工具<br/>
 repository：仓库名<br/>
 from:从哪个大类移除<br/>
 to:到哪个大类<br/>
-例如：cli从程序应用
+例如：cli从程序应用移动到开发者工具，
+{
+  [
+  "repository":"cli",
+  "from":"software",
+  "to":"developer"
+  ]
+}
 
+Note:
+如果同时移动多个仓库，格式如下<br/>
+{
+  [
+  "repository":"cli",
+  "from":"software",
+  "to":"developer"
+  ],
+  [
+  "repository":"cli",
+  "from":"software",
+  "to":"developer"
+  ]
+}<br/>
+
+    每次移动仓库时，请把上一次的记录删除重写
 
