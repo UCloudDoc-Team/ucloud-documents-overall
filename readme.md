@@ -28,13 +28,17 @@ developer:开发者工具<br/>
 
 
 # 移动仓库操作如下
-请修改
+请修改moverepository.json,格式如下：<br/>
 {
   [
   "repository":"",
   "from":"",
   "to":""
   ]
-}
+}<br/>
+repository：仓库名<br/>
+from:从哪个大类移除<br/>
+to:到哪个大类<br/>
+例如：cli从程序应用
 
 
