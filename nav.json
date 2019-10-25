@@ -1,0 +1,721 @@
+{
+"pd":[
+    {
+    "listname":"计算",
+    "listvalue":[
+        {
+                "name":"云主机 UHost",
+                "links":"/compute/uhost/overview"
+        },
+        {
+                "name":"混合云 uhybrid",
+                "links":"/compute/uhybrid/overview"
+        },
+        {
+                "name":"物理云主机 UPHost",
+                "links":"/compute/uphost/overview"
+        },
+        {
+                "name":"私有专区 UDHost",
+                "links":"/compute/udhost/overview"
+        },
+        {
+                "name":"容器集群 UDocker",
+                "links":"/compute/udocker/overview"
+        },
+        {
+                "name":"通用计算 UGC",
+                "links":"/compute/ugc/overview"
+        },
+        {
+                "name":"公共镜像库 UHub",
+                "links":"/compute/uhub/overview"
+        },
+        {
+                "name":"容器云 UK8S",
+                "links":"/compute/uk8s/overview"
+        },
+        {
+                "name":"资源编排 Terraform",
+                "links":"/compute/terraform/overview"
+        }
+    ]
+    },
+    {
+        "listname":"网络",
+        "listvalue":[
+            {
+             "name":"网络 UNet",
+             "links":"/network/unet/overview"
+            },
+            {
+             "name":"智能接入网关 AccessGW（邀测中）",
+             "links":"/network/accessgw/overview"
+            },
+            {
+             "name":"私有网络 VPC",
+             "links":"/network/vpc/overview"
+            },
+            {
+             "name":"防火墙 Firewall",
+             "links":"/network/firewall/overview"
+            },
+            {
+             "name":"内网虚拟IP地址 VIP",
+             "links":"/network/vip/overview"
+            },
+            {
+             "name":"高速通道 UDPN",
+             "links":"/network/udpn/overview"
+            },
+            {
+             "name":"全球动态加速 PathX",
+             "links":"/network/pathx/overview"
+            },
+            {
+             "name":"VPN 网关 IPSec VPN",
+             "links":"/network/ipsec/overview"
+            },
+            {
+             "name":"虚拟网络 VPN",
+             "links":"/network/vpn/overview"
+            },
+            {
+            "name":"内网域名解析 UDEE",
+            "links":"/network/udee/overview"
+            },
+            {
+            "name":"AnycastEIP",
+            "links":"/network/anycasteip/overview"
+            },
+            {
+            "name":"IPv6转换功能",
+            "links":"/network/ipv6translation/overview"
+            },
+            {
+            "name":"全球网络加速 罗马 Rome",
+            "links":"/network/roma/overview"
+            },
+            {
+            "name":"负载均衡 ULB",
+            "links":"/network/ulb/overview"
+            }
+        ]
+    },
+    {
+        "listname":"存储",
+        "listvalue":[
+            {
+             "name":"对象存储 UFile",
+             "links":"/storage_cdn/ufile/overview"
+            },
+            {
+             "name":"云硬盘 UDisk",
+             "links":"/storage_cdn/udisk/overview"
+            },
+            {
+             "name":"数据方舟 UDataArk",
+             "links":"/storage_cdn/uda/overview"
+            },
+            {
+             "name":"归档存储 UArchive",
+             "links":"/storage_cdn/uarchive/overview"
+            },
+            {
+             "name":"文件存储 UFS",
+             "links":"/storage_cdn/ufs/overview"
+            }
+        ]
+    },  
+    {
+        "listname":"数据库",
+        "listvalue":[
+            {
+             "name":"云数据库 MySQL",
+             "links":"/database/udb-mysql/overview"
+            },
+            {
+             "name":"分布式NewSQL数据库 TiDB",
+             "links":"/database/tidb/overview"
+            },
+            {
+             "name":"云数据库 MongoDB",
+             "links":"/database/udb-mongodb/overview"
+            },
+            {
+             "name":"云数据库 PostgreSQL",
+             "links":"/database/udb-pgsql/overview"
+            },
+            {
+             "name":"云数据库 SQL Server",
+             "links":"/database/udb-sqlserver/overview"
+            },
+            {
+            "name":"云内存 Memcache",
+            "links":"/database/umem/overview"
+            },
+            {
+            "name":"云内存 Redis",
+            "links":"/database/uredis/overview"
+            },
+            {
+            "name":"分布式数据库 UDDB",
+            "links":"/database/uddb/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"安全/优盾",
+        "listvalue":[
+            {
+             "name":"DDoS基础防护",
+             "links":"/security/usecurity/overview"
+            },
+            {
+             "name":"态势感知 USSA",
+             "links":"/security/usa/overview"
+            },
+            {
+             "name":"DDoS攻击防护 UDDoS",
+             "links":"/security/uantiddos/overview"
+            },
+            {
+             "name":"DDoS攻击防护-清洗 UClean",
+             "links":"/security/clean/overview"
+            },
+            {
+             "name":"DDoS攻击防护-高防 UADS",
+             "links":"/security/uads/overview"
+            },
+            {
+            "name":"主机入侵检测 UHIDS",
+            "links":"/security/uhids/overview"
+            },
+            {
+            "name":"堡垒机 UAuditHost",
+            "links":"/security/uhas/overview"
+            },
+            {
+            "name":"Web应用防火墙 UWAF",
+            "links":"/security/uewaf/overview"
+            },
+            {
+            "name":"WEB漏洞扫描系统 UWS",
+            "links":"/security/uws_robot/overview"
+            },
+            {
+            "name":"数据库审计 UAuditDB",
+            "links":"/security/udas/overview"
+            },
+            {
+            "name":"等保测评服务 UDBCP",
+            "links":"/security/udbcp/overview"
+            },
+            {
+            "name":"Anycast全球清洗 UAnycastClean",
+            "links":"/security/uanycastclean/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"人工智能",
+        "listvalue":[
+            {
+             "name":"AI在线服务 UAI-Inference",
+             "links":"/ai/uai-inference/overview"
+            },
+            {
+             "name":"AI训练服务 UAI-Train",
+             "links":"/ai/uai-train/overview"
+            },
+            {
+             "name":"GPU云主机",
+             "links":"/ai/gpu/overview"
+            },
+            {
+             "name":"内容审核 UAI-Censor",
+             "links":"/ai/uai-censor/overview"
+            },
+            {
+            "name":"文字识别 UAI-OCR",
+            "links":"/ai/uai-ocr/overview"
+            }
+        ]
+    },  
+    {
+        "listname":"数据分析",
+        "listvalue":[
+            {
+             "name":"托管Hadoop集群 UHadoop",
+             "links":"/analysis/uhadoop/overview"
+            },
+            {
+             "name":"ES服务 Elasticsearch",
+             "links":"/analysis/ues/overview"
+            },
+            {
+             "name":"云数据仓库 UDW",
+             "links":"/analysis/udw/overview"
+            },
+            {
+             "name":"Kafka消息队列 UKafka",
+             "links":"/analysis/ukafka/overview"
+            },
+            {
+             "name":"数据湖分析 USQL",
+             "links":"/analysis/usql/overview"
+            },
+            {
+            "name":"Flink实时计算 UFlink",
+            "links":"/analysis/uflink/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"云分发",
+        "listvalue":[
+            {
+             "name":"云分发 UCDN",
+             "links":"/cdn/ucdn/overview"
+            },
+            {
+             "name":"开放式分发节点 UODN",
+             "links":"/cdn/uodn/overview"
+            },
+            {
+             "name":"边缘分发节点 UEDN",
+             "links":"/cdn/uedn/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"多媒体",
+        "listvalue":[
+            {
+             "name":"媒体工厂 UMedia",
+             "links":"/video/umedia/overview"
+            },
+            {
+             "name":"实时音视频 URTC",
+             "links":"/video/urtc/overview"
+            },
+            {
+             "name":"直播云 ULive",
+             "links":"/video/ulive/intro"
+            },
+            {
+             "name":"视频工具 UVideoSDK",
+             "links":"/video/uvideo_sdk/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"物联网",
+        "listvalue":[
+            {
+             "name":"物联网通信云平台 UIoT Core",
+             "links":"/iot/uiot-core/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"中间件",
+        "listvalue":[
+            {
+            "name":"数据传输服务 UDTS",
+            "links":"/middleware/udts/overview"
+            },
+            {
+             "name":"工作流服务 StepFlow",
+             "links":"/middleware/stepflow/overview"
+            },
+            {
+            "name":"API网关 UAPIGateway",
+            "links":"/middleware/uapigateway/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"运维服务",
+        "listvalue":[
+            {
+             "name":"运维服务 UOPS",
+             "links":"/service/uops/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"管理与监控",
+        "listvalue":[
+            {
+             "name":"短信服务 USMS",
+             "links":"/management_monitor/usms/overview"
+            },
+            {
+             "name":"API产品 UAPI",
+             "links":"/management_monitor/uapi/overview"
+            },
+            {
+             "name":"UCloud令牌服务 UToken",
+             "links":"/management_monitor/utoken/overview"
+            },
+            {
+             "name":"云监控 UMon",
+             "links":"/management_monitor/umon/overview"
+            },
+            {
+             "name":"安全锁 Security Lock",
+             "links":"/management_monitor/security_lock/overview"
+            },
+            {
+            "name":"操作日志 ULog",
+            "links":"/management_monitor/manage/overview"
+            },
+            {
+            "name":"账号与权限管理 UAM",
+            "links":"/management_monitor/uproject/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"购买和计费",
+        "listvalue":[
+            {
+             "name":"交易管理",
+             "links":"/charge/transaction/overview"
+            },
+            {
+             "name":"订单管理",
+             "links":"/charge/order/overview"
+            },
+            {
+             "name":"账单管理",
+             "links":"/charge/bill/overview"
+            },
+            {
+             "name":"续费管理",
+             "links":"/charge/renew/overview"
+            },
+            {
+             "name":"发票管理",
+             "links":"/charge/invoice/overview"
+            },
+            {
+            "name":"合同中心",
+            "links":"/charge/contract/overview"
+            },
+            {
+            "name":"计费说明",
+            "links":"/charge/charge/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"账号",
+        "listvalue":[
+            {
+             "name":"账号注册",
+             "links":"/account/register/overview"
+            },
+            {
+             "name":"用户提醒",
+             "links":"/account/remind/overview"
+            },
+            {
+             "name":"账号登录",
+             "links":"/account/login/overview"
+            },
+            {
+             "name":"账号安全",
+             "links":"/account/security/overview"
+            },
+            {
+             "name":"实名认证",
+             "links":"/account/identity_verification/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"开发者工具",
+        "listvalue":[
+            {
+             "name":"UCloud CLI",
+             "links":"/developer/cli/overview"
+            },
+            {
+             "name":"OpenSDK Go",
+             "links":"/developer/opensdk-go/overview"
+            },
+            {
+             "name":"OpenSDK Java",
+             "links":"/developer/opensdk-java/overview"
+            },
+            {
+            "name":"OpenSDK Python",
+            "links":"/developer/opensdk-python/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"程序应用",
+        "listvalue":[
+            {
+             "name":"DNS应用指南",
+             "links":"/software/dns/overview"
+            },
+            {
+             "name":"Docker应用指南",
+             "links":"/software/dns/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"备案",
+        "listvalue":[
+            {
+             "name":"备案帮助文档",
+             "links":"/beian/beian1/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"域名与网站",
+        "listvalue":[
+            {
+             "name":"域名服务",
+             "links":"/domain/udnr/overview"
+            },
+            {
+             "name":"SSL证书管理 USSL",
+             "links":"/domain/ussl/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"政策与规范",
+        "listvalue":[
+            {
+             "name":"服务等级协议（SLA）",
+             "links":"/policy/sla/overview"
+            },
+            {
+             "name":"其他协议",
+             "links":"/policy/agreement/overview"
+            }
+        ]
+    }, 
+    {
+        "listname":"其他",
+        "listvalue":[
+            {
+             "name":"海外业务部署常见问题",
+             "links":"/other/global/overview"
+            }
+        ]
+    }
+],
+"api":[
+    {
+        "listname":"计算",
+        "listvalue":[
+            {
+                "name":"云主机 UHost",
+                "links":"/api/uhost-api/overview"
+            },
+            {
+                "name":"物理云主机 UPHost",
+                "links":"/api/uphost-api/overview"
+            },
+            {
+                "name":"私有专区 UDHost",
+                "links":"/api/udhost-api/overview"
+            },
+            {
+                "name":"混合云 UHYBRID",
+                "links":"/api/uhybridv3-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"网络",
+        "listvalue":[
+            {
+                "name":"网络 UNet",
+                "links":"/api/unet-api/overview"
+            },
+            {
+                "name":"私有网络 VPC",
+                "links":"/api/vpc2.0-api/overview"
+            },
+            {
+                "name":"负载均衡 ULB",
+                "links":"/api/ulb-api/overview"
+            },
+            {
+                "name":"高速通道 UDPN",
+                "links":"/api/udpn-api/overview"
+            },
+            {
+                "name":"VPN网关 IPSec VPN",
+                "links":"/api/ipsecvpn-api/overview"
+            },
+            {
+                "name":"全球动态加速 PathX",
+                "links":"/api/pathx-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"存储",
+        "listvalue":[
+            {
+                "name":"文件存储 UFS",
+                "links":"/api/ufs-api/overview"
+            },
+            {
+                "name":"对象存储 UFile",
+                "links":"/api/ufile-api/overview"
+            },
+            {
+                "name":"归档存储 UArchive",
+                "links":"/api/uarchive-api/overview"
+            },
+            {
+                "name":"云硬盘 UDisk",
+                "links":"/api/udisk-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"云分发",
+        "listvalue":[
+            {
+                "name":"云分发 UCDN",
+                "links":"/api/ucdn-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"数据库",
+        "listvalue":[
+            {
+                "name":"云数据库 UDB",
+                "links":"/api/udb-api/overview"
+            },
+            {
+                "name":"云内存存储 UMem",
+                "links":"/api/umem-api/overview"
+            },
+            {
+                "name":"分布式数据库 UDDB",
+                "links":"/api/uddb-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"数据分析",
+        "listvalue":[
+            {
+                "name":"数据湖分析 USQL",
+                "links":"/api/usql-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"容器服务",
+        "listvalue":[
+            {
+                "name":"容器集群 UDocker",
+                "links":"/api/udocker-api/overview"
+            },
+            {
+                "name":"通用计算 UGC",
+                "links":"/api/ugc-api/overview"
+            },
+            {
+                "name":"容器镜像库 UHub",
+                "links":"/api/uhub-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"中间件",
+        "listvalue":[
+            {
+                "name":"工作流服务 StepFlow",
+                "links":"/api/stepflow-api/overview"
+            },
+            {
+                "name":"Kafka消息队列 UKafka",
+                "links":"/api/ukafka-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"视频服务",
+        "listvalue":[
+            {
+                "name":"媒体工厂 UMedia",
+                "links":"/api/umedia-api/overview"
+            },
+            {
+                "name":"云直播 ULive",
+                "links":"/api/ulive-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"监控应用",
+        "listvalue":[
+            {
+                "name":"云监控 UMon",
+                "links":"/api/umon-api/overview"
+            },
+            {
+                "name":"短信服务 USMS",
+                "links":"/api/usms-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"账号与安全访问",
+        "listvalue":[
+            {
+                "name":"权限管理 UAM",
+                "links":"/api/uaccount-api/overview"
+            },
+            {
+                "name":"密钥管理服务 UKMS",
+                "links":"/api/ukms-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"安全防护",
+        "listvalue":[
+            {
+                "name":"DDos攻击防护-清洗服务 UDDos-UClean",
+                "links":"/api/uddos-uclean-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"计费相关",
+        "listvalue":[
+            {
+                "name":"账单管理 UBill",
+                "links":"/api/ubill-api/overview"
+            }
+        ]
+    },
+    {
+        "listname":"其他",
+        "listvalue":[
+            {
+                "name":"短信包",
+                "links":"/api/usmsg-api/overview"
+            }
+        ]
+    }
+]
+}
