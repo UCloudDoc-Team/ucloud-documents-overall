@@ -465,7 +465,7 @@
             },
             {
              "name":"Docker应用指南",
-             "links":"/software/dns/overview"
+             "links":"/software/docker/overview"
             }
         ]
     }, 
