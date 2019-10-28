@@ -707,15 +707,7 @@
                 "links":"/api/ubill-api/overview"
             }
         ]
-    },
-    {
-        "listname":"其他",
-        "listvalue":[
-            {
-                "name":"短信包",
-                "links":"/api/usmsg-api/overview"
-            }
-        ]
     }
+   
 ]
 }
