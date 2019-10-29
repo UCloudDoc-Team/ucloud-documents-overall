@@ -462,10 +462,6 @@
             {
              "name":"DNS应用指南",
              "links":"/software/dns/overview"
-            },
-            {
-             "name":"Docker应用指南",
-             "links":"/software/docker/overview"
             }
         ]
     }, 
