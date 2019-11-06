@@ -456,15 +456,6 @@
         ]
     }, 
     {
-        "listname":"程序应用",
-        "listvalue":[
-            {
-             "name":"DNS应用指南",
-             "links":"/software/dns/overview"
-            }
-        ]
-    }, 
-    {
         "listname":"备案",
         "listvalue":[
             {
