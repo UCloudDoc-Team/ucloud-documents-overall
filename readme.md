@@ -27,7 +27,7 @@ service：运维服务<br/>
 developer:开发者工具<br/>
 
 
-# 移动仓库操作如下
+# 移动仓库和删除仓库的操作如下
 请修改moverepository.json,格式如下：<br/>
 {
   [
@@ -38,7 +38,7 @@ developer:开发者工具<br/>
 }<br/>
 repository：仓库名<br/>
 from:从哪个大类移除<br/>
-to:到哪个大类<br/>
+to:到哪个大类，如果是删除仓库就是null<br/>
 例如：cli从程序应用移动到开发者工具，
 {
   [
