@@ -253,12 +253,6 @@
 [submodule "cli"]
 	path = cli
 	url = https://github.com/UCloudDocs/cli.git
-[submodule "dns"]
-	path = dns
-	url = https://github.com/UCloudDocs/dns.git
-[submodule "docker"]
-	path = docker
-	url = https://github.com/UCloudDocs/docker.git
 [submodule "udnr"]
 	path = udnr
 	url = https://github.com/UCloudDocs/udnr.git
