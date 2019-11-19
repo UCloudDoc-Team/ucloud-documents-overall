@@ -307,3 +307,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/UCloudDocs/api.git
+[submodule "utsdb"]
+	path = utsdb
+	url = https://github.com/UCloudDocs/utsdb.git
