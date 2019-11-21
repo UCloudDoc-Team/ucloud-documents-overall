@@ -162,7 +162,7 @@
             "links":"/database/uddb/overview"
             },
             {
-            "name":"时许数据库 UTSDB",
+            "name":"时序数据库 UTSDB",
             "links":"/database/utsdb/overview"
             }
         ]
