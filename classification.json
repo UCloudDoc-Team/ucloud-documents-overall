@@ -12,7 +12,6 @@
     "management_monitor":["manage","umon","uproject","usms","utoken","security_lock","uapi"],
     "middleware":["stepflow","uapigateway","udts"],
     "network":["firewall","ipsec","ipv6translation","pathx","roma","udee","udpn","ulb","unet","vip","vpc","vpn","accessgw","anycasteip"],
-    "other":["global"],
     "policy":["agreement","sla"],
     "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uws_robot","uantiddos","uanycastclean"],
     "developer":["cli","opensdk-java","opensdk-go","opensdk-python"],
