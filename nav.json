@@ -494,15 +494,6 @@
             }
         ]
     }, 
-    {
-        "listname":"其他",
-        "listvalue":[
-            {
-             "name":"海外业务部署常见问题",
-             "links":"/other/global/overview"
-            }
-        ]
-    }
 ],
 "api":[
     {
