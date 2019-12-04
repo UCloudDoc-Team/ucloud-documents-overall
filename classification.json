@@ -6,7 +6,7 @@
     "beian":["beian1"],
     "cdn":["ucdn","uedn","uodn"],
     "charge":["bill","charge","contract","invoice","order","renew","transaction"],
-    "compute":["terraform","udhost","udocker","ugc","uhost","uhub","uhybrid","uk8s","uphost"],
+    "compute":["terraform","udhost","udocker","ugc","uhost","uhub","uhybrid","uk8s","uphost","uas"],
     "database":["udb-mongodb","udb-mysql","udb-pgsql","udb-sqlserver","uddb","umem","uredis","tidb","utsdb"],
     "domain":["udnr","ussl"],
     "management_monitor":["manage","umon","uproject","usms","utoken","security_lock","uapi"],
