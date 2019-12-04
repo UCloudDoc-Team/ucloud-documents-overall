@@ -37,6 +37,10 @@
         {
                 "name":"资源编排 Terraform",
                 "links":"/compute/terraform/overview"
+        },
+        {
+                "name":"弹性伸缩 UAS",
+                "links":"/compute/uas/overview"
         }
     ]
     },
