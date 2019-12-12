@@ -339,12 +339,7 @@
             {
             "name":"API网关 UAPIGateway",
             "links":"/middleware/uapigateway/overview"
-            },
-            {
-            "name":"弹性伸缩 UAS",
-            "links":"/middleware/uas/overview"
             }
-
         ]
     }, 
     {
