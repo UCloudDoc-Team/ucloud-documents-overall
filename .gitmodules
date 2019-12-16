@@ -304,3 +304,6 @@
 [submodule "uas"]
 	path = uas
 	url = https://github.com/UCloudDocs/uas.git
+[submodule "umqa"]
+	path = umqa
+	url = https://github.com/UCloudDocs/umqa.git
