@@ -307,3 +307,6 @@
 [submodule "umqa"]
 	path = umqa
 	url = https://github.com/UCloudDocs/umqa.git
+[submodule "iam"]
+	path = iam
+	url = https://github.com/UCloudDocs/iam.git
