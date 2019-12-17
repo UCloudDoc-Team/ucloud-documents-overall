@@ -33,12 +33,12 @@ developer:开发者工具<br/>
     "type": "add", // 变更类型：add move delete
     "repository": "uhost", // 仓库名称
     "classification": "compute" // 所属分类(仓库增加到哪个分类)
-},
+},<br/>
 {
     "type": "move", // 变更类型：add move delete
     "repository": "uhost", // 仓库名称
     "classification": "compute" // 所属分类(移动之后的仓库的分类)
-},
+},<br/>
 {
     "type": "delete", // 变更类型：add move delete
     "repository": "uhost", // 仓库名称
