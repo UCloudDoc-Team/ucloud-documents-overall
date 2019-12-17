@@ -443,6 +443,10 @@
             {
              "name":"实名认证",
              "links":"/account/identity_verification/overview"
+            },
+            {
+             "name":"权限管理",
+             "links":"/account/iam/overview"
             }
         ]
     }, 
