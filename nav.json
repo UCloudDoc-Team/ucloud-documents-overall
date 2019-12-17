@@ -106,12 +106,7 @@
             {
             "name":"负载均衡 ULB",
             "links":"/network/ulb/overview"
-            },
-            {
-            "name":"全球移动网路 UMQA",
-            "links":"/network/umqa/overview"
             }
- 
         ]
     },
     {
