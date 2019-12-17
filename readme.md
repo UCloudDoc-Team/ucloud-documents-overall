@@ -30,38 +30,20 @@ developer:开发者工具<br/>
 # 移动仓库和删除仓库的操作如下
 请修改moverepository.json,格式如下：<br/>
 {
-  [
-  "repository":"",
-  "from":"",
-  "to":""
-  ]
-}<br/>
-repository：仓库名<br/>
-from:从哪个大类移除<br/>
-to:到哪个大类，如果是删除仓库就是null.<br/>
-例如：cli从程序应用移动到开发者工具，
+    "type": "add", // 变更类型：add move delete
+    "repository": "uhost", // 仓库名称
+    "classification": "compute" // 所属分类(仓库增加到哪个分类)
+},
 {
-  [
-  "repository":"cli",
-  "from":"software",
-  "to":"developer"
-  ]
+    "type": "move", // 变更类型：add move delete
+    "repository": "uhost", // 仓库名称
+    "classification": "compute" // 所属分类(移动之后的仓库的分类)
+},
+{
+    "type": "delete", // 变更类型：add move delete
+    "repository": "uhost", // 仓库名称
+    "classification": "compute" // 所属分类(删除仓库之前的分类)
 }
-
-Note:
-如果同时移动多个仓库，格式如下<br/>
-{
-  [
-  "repository":"cli",
-  "from":"software",
-  "to":"developer"
-  ],
-  [
-  "repository":"cli",
-  "from":"software",
-  "to":"developer"
-  ]
-}<br/>
 
     每次移动仓库时，请把上一次的记录删除重写
 
