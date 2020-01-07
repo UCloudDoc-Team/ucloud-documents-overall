@@ -583,12 +583,12 @@
         "listname":"云分发",
         "listvalue":[
             {
-                "name":"边缘分发节点 UEDN",
-                "links":"/api/uedn-api/overview"
-            },
-            {
                 "name":"云分发 UCDN",
                 "links":"/api/ucdn-api/overview"
+            },
+            {
+                "name":"边缘分发节点 UEDN",
+                "links":"/api/uedn-api/overview"
             }
         ]
     },
