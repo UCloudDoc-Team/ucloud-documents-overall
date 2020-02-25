@@ -96,10 +96,6 @@
             "links":"/network/ipv6translation/overview"
             },
             {
-            "name":"全球网络加速 罗马 Rome",
-            "links":"/network/roma/overview"
-            },
-            {
             "name":"全球移动网络 UMQA",
             "links":"/network/umqa/overview"
             },
@@ -321,6 +317,19 @@
         ]
     }, 
     {
+        "listname":"多云与迁移",
+        "listvalue":[
+            {
+            "name":"全球网络加速 罗马 Rome",
+            "links":"/network/roma/overview"
+            },
+            {
+            "name":"数据传输服务 UDTS",
+            "links":"/middleware/udts/overview"
+            }
+        ]
+    }, 
+    {
         "listname":"物联网",
         "listvalue":[
             {
@@ -332,10 +341,6 @@
     {
         "listname":"中间件",
         "listvalue":[
-            {
-            "name":"数据传输服务 UDTS",
-            "links":"/middleware/udts/overview"
-            },
             {
              "name":"工作流服务 StepFlow",
              "links":"/middleware/stepflow/overview"
