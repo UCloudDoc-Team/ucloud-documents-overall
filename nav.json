@@ -80,14 +80,6 @@
              "links":"/network/ipsec/overview"
             },
             {
-             "name":"虚拟网络 VPN",
-             "links":"/network/vpn/overview"
-            },
-            {
-            "name":"内网域名解析 UDEE",
-            "links":"/network/udee/overview"
-            },
-            {
             "name":"AnycastEIP",
             "links":"/network/anycasteip/overview"
             },
