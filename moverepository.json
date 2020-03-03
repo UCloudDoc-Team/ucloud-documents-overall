@@ -3,12 +3,12 @@
         {
             "type": "delete",
             "repository": "udee",
-            "classification": "unet"
+            "classification": "network"
         },
         {
             "type": "delete",
             "repository": "vpn",
-            "classification": "unet"
+            "classification": "network"
         }
     ]
 }
