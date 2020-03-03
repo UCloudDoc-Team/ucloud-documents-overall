@@ -1,19 +1,14 @@
 {
     "repositorys": [
         {
-            "type": "add",
-            "repository": "uhost",
-            "classification": "compute"
-        },
-        {
-            "type": "move",
-            "repository": "uhost",
-            "classification": "compute"
+            "type": "delete",
+            "repository": "udee",
+            "classification": "unet"
         },
         {
             "type": "delete",
-            "repository": "uhost",
-            "classification": "compute"
+            "repository": "vpn",
+            "classification": "unet"
         }
     ]
 }
