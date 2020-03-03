@@ -157,9 +157,6 @@
 [submodule "uai-censor"]
 	path = uai-censor
 	url = https://github.com/UCloudDocs/uai-censor.git
-[submodule "uai-ocr"]
-	path = uai-ocr
-	url = https://github.com/UCloudDocs/uai-ocr.git
 [submodule "uhadoop"]
 	path = uhadoop
 	url = https://github.com/UCloudDocs/uhadoop.git

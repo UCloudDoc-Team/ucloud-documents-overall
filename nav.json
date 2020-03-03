@@ -234,10 +234,6 @@
             {
              "name":"内容审核 UAI-Censor",
              "links":"/ai/uai-censor/overview"
-            },
-            {
-            "name":"文字识别 UAI-OCR",
-            "links":"/ai/uai-ocr/overview"
             }
         ]
     },  

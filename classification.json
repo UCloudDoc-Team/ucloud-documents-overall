@@ -1,7 +1,7 @@
 
 {
     "account": ["identity_verification","login","register","remind","security","iam"],
-    "ai": ["gpu", "uai-censor","uai-inference","uai-ocr","uai-train"],
+    "ai": ["gpu", "uai-censor","uai-inference","uai-train"],
     "analysis":["udw","ues","uflink","uhadoop","ukafka","usql"],
     "beian":["beian1"],
     "cdn":["ucdn","uedn","uodn"],
