@@ -2,13 +2,8 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "udee",
-            "classification": "network"
-        },
-        {
-            "type": "delete",
-            "repository": "vpn",
-            "classification": "network"
+            "repository": "uai-ocr",
+            "classification": "ai"
         }
     ]
 }
