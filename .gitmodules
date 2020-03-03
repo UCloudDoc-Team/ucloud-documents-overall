@@ -136,9 +136,6 @@
 [submodule "uewaf"]
 	path = uewaf
 	url = https://github.com/UCloudDocs/uewaf.git
-[submodule "uws_robot"]
-	path = uws_robot
-	url = https://github.com/UCloudDocs/uws_robot.git
 [submodule "udas"]
 	path = udas
 	url = https://github.com/UCloudDocs/udas.git

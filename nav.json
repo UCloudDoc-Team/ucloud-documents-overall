@@ -199,10 +199,6 @@
             "links":"/security/uewaf/overview"
             },
             {
-            "name":"WEB漏洞扫描系统 UWS",
-            "links":"/security/uws_robot/overview"
-            },
-            {
             "name":"数据库审计 UAuditDB",
             "links":"/security/udas/overview"
             },
