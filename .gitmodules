@@ -46,12 +46,6 @@
 [submodule "ipsec"]
 	path = ipsec
 	url = https://github.com/UCloudDocs/ipsec.git
-[submodule "vpn"]
-	path = vpn
-	url = https://github.com/UCloudDocs/vpn.git
-[submodule "udee"]
-	path = udee
-	url = https://github.com/UCloudDocs/udee.git
 [submodule "ipv6translation"]
 	path = ipv6translation
 	url = https://github.com/UCloudDocs/ipv6translation.git
