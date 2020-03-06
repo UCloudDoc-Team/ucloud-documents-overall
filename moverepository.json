@@ -2,8 +2,8 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "uai-ocr",
-            "classification": "ai"
+            "repository": "uws",
+            "classification": "security"
         }
     ]
 }
