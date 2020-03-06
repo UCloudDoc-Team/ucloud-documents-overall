@@ -2,7 +2,7 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "uws",
+            "repository": "uws_robot",
             "classification": "security"
         }
     ]
