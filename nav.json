@@ -191,7 +191,7 @@
             "links":"/security/uhids/overview"
             },
             {
-            "name":"堡垒机 UAuditHost",
+            "name":"堡垒机 UHAS",
             "links":"/security/uhas/overview"
             },
             {
@@ -199,7 +199,7 @@
             "links":"/security/uewaf/overview"
             },
             {
-            "name":"数据库审计 UAuditDB",
+            "name":"数据库审计系统 UDAS",
             "links":"/security/udas/overview"
             },
             {
