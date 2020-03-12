@@ -2,7 +2,7 @@
     "repositorys": [
         {
             "type": "move",
-            "repository": "accesssgw",
+            "repository": "accessgw",
             "classification": "iot"
         }
     ]
