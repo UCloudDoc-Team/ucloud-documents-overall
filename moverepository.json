@@ -3,7 +3,7 @@
         {
             "type": "move",
             "repository": "accessgw",
-            "classification": "iot"
+            "classification": "network"
         }
     ]
 }
