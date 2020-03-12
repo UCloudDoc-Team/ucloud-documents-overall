@@ -52,10 +52,6 @@
              "links":"/network/unet/overview"
             },
             {
-             "name":"智能接入网关 AccessGW（邀测中）",
-             "links":"/network/accessgw/overview"
-            },
-            {
              "name":"私有网络 VPC",
              "links":"/network/vpc/overview"
             },
@@ -319,7 +315,11 @@
             {
              "name":"物联网通信云平台 UIoT Core",
              "links":"/iot/uiot-core/overview"
-            }
+            },
+            {
+             "name":"智能接入盒子 AccessBox",
+             "links":"/network/accessgw/overview"
+            },
         ]
     }, 
     {
