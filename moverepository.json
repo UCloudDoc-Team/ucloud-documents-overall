@@ -1,9 +1,9 @@
 {
     "repositorys": [
         {
-            "type": "delete.",
-            "repository": "uws_robot",
-            "classification": "security"
+            "type": "move",
+            "repository": "accesssgw",
+            "classification": "iot"
         }
     ]
 }
