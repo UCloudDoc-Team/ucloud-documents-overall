@@ -2,7 +2,7 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "usecurity.",
+            "repository": "usecurity",
             "classification": "security"
         },
         {
