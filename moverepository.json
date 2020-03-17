@@ -17,7 +17,7 @@
         },
         {
             "type": "delete",
-            "repository": "uads.",
+            "repository": "uads",
             "classification": "security"
         }
     ]
