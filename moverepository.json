@@ -1,9 +1,24 @@
 {
     "repositorys": [
         {
-            "type": "move",
-            "repository": "accessgw",
-            "classification": "network"
+            "type": "delete",
+            "repository": "usecurity",
+            "classification": "security"
+        },
+        {
+            "type": "delete",
+            "repository": "clean",
+            "classification": "security"
+        },
+        {
+            "type": "delete",
+            "repository": "uanycastclean",
+            "classification": "security"
+        },
+        {
+            "type": "delete",
+            "repository": "uads",
+            "classification": "security"
         }
     ]
 }
