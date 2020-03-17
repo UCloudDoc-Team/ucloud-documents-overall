@@ -1,9 +1,9 @@
 {
     "repositorys": [
         {
-            "type": "delete",
-            "repository": "uai-ocr",
-            "classification": "ai"
+            "type": "move",
+            "repository": "accessgw",
+            "classification": "network"
         }
     ]
 }

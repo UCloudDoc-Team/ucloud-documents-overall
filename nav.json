@@ -52,10 +52,6 @@
              "links":"/network/unet/overview"
             },
             {
-             "name":"智能接入网关 AccessGW（邀测中）",
-             "links":"/network/accessgw/overview"
-            },
-            {
              "name":"私有网络 VPC",
              "links":"/network/vpc/overview"
             },
@@ -191,7 +187,7 @@
             "links":"/security/uhids/overview"
             },
             {
-            "name":"堡垒机 UAuditHost",
+            "name":"堡垒机 UHAS",
             "links":"/security/uhas/overview"
             },
             {
@@ -199,7 +195,7 @@
             "links":"/security/uewaf/overview"
             },
             {
-            "name":"数据库审计 UAuditDB",
+            "name":"数据库审计系统 UDAS",
             "links":"/security/udas/overview"
             },
             {
@@ -324,6 +320,10 @@
             {
              "name":"物联网通信云平台 UIoT Core",
              "links":"/iot/uiot-core/overview"
+            },
+            {
+             "name":"智能接入盒子 AccessBox",
+             "links":"/network/accessgw/overview"
             }
         ]
     }, 
