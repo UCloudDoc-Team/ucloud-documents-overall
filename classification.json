@@ -13,7 +13,7 @@
     "middleware":["stepflow","uapigateway","udts","uas","usmc"],
     "network":["firewall","ipsec","ipv6translation","pathx","roma","udpn","ulb","unet","vip","vpc","accessgw","anycasteip","umqa"],
     "policy":["agreement","sla"],
-    "security":["clean","uads","udas","udbcp","uewaf","uhas","uhids","usa","usecurity","uantiddos","uanycastclean"],
+    "security":["udas","udbcp","uewaf","uhas","uhids","usa","uantiddos"],
     "developer":["cli","opensdk-java","opensdk-go","opensdk-python"],
     "storage_cdn":["uarchive","ucdn","uda","udisk","ufile","ufs"],
     "video":["ulive","umedia","urtc","uvideo_sdk"],

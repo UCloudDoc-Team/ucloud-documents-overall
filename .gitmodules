@@ -112,21 +112,12 @@
 [submodule "uvideo_sdk"]
 	path = uvideo_sdk
 	url = https://github.com/UCloudDocs/uvideo_sdk.git
-[submodule "usecurity"]
-	path = usecurity
-	url = https://github.com/UCloudDocs/usecurity.git
 [submodule "usa"]
 	path = usa
 	url = https://github.com/UCloudDocs/usa.git
 [submodule "uantiddos"]
 	path = uantiddos
 	url = https://github.com/UCloudDocs/uantiddos.git
-[submodule "clean"]
-	path = clean
-	url = https://github.com/UCloudDocs/clean.git
-[submodule "uads"]
-	path = uads
-	url = https://github.com/UCloudDocs/uads.git
 [submodule "uhids"]
 	path = uhids
 	url = https://github.com/UCloudDocs/uhids.git
@@ -268,9 +259,6 @@
 [submodule "uapi"]
 	path = uapi
 	url = https://github.com/UCloudDocs/uapi.git
-[submodule "uanycastclean"]
-	path = uanycastclean
-	url = https://github.com/UCloudDocs/uanycastclean.git
 [submodule "udts"]
 	path = udts
 	url = https://github.com/UCloudDocs/udts.git

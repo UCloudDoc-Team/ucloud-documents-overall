@@ -163,24 +163,12 @@
         "listname":"安全/优盾",
         "listvalue":[
             {
-             "name":"DDoS基础防护",
-             "links":"/security/usecurity/overview"
-            },
-            {
              "name":"态势感知 USSA",
              "links":"/security/usa/overview"
             },
             {
              "name":"DDoS攻击防护 UDDoS",
              "links":"/security/uantiddos/overview"
-            },
-            {
-             "name":"DDoS攻击防护-清洗 UClean",
-             "links":"/security/clean/overview"
-            },
-            {
-             "name":"DDoS攻击防护-高防 UADS",
-             "links":"/security/uads/overview"
             },
             {
             "name":"主机入侵检测 UHIDS",
@@ -201,10 +189,6 @@
             {
             "name":"等保测评服务 UDBCP",
             "links":"/security/udbcp/overview"
-            },
-            {
-            "name":"Anycast全球清洗 UAnycastClean",
-            "links":"/security/uanycastclean/overview"
             }
         ]
     }, 
