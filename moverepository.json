@@ -9,11 +9,6 @@
             "type": "delete",
             "repository": "clean",
             "classification": "security"
-        },
-        {
-            "type": "delete",
-            "repository": "uanycastclean",
-            "classification": "security"
         }
     ]
 }
