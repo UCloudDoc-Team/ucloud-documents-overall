@@ -493,13 +493,13 @@
         "imglinks":"https://static.ucloud.cn/991856a3c3e24a959a575ecf09165b7d.png"
     },
     {
-        "url":"/uhost/newuser/briefguide",
+        "url":"/compute/uhost/newuser/briefguide",
         "title":"快速上手云主机",
         "des":"通俗易懂，让您轻松选购云主机",
         "imglinks":"https://static.ucloud.cn/c5f1060a12a949d1b38c0617a0e309b2.png"
     },
     {
-        "url":"/beian1/README",
+        "url":"/beian/beian1/overview",
         "title":"备案指南",
         "des":"常规流程指导、常见问题解答",
         "imglinks":"https://static.ucloud.cn/8cf21fe4450247959332299374c5f797.png"
