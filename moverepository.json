@@ -14,11 +14,6 @@
             "type": "delete",
             "repository": "uanycastclean",
             "classification": "security"
-        },
-        {
-            "type": "delete",
-            "repository": "uads",
-            "classification": "security"
         }
     ]
 }
