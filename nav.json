@@ -290,12 +290,7 @@
             {
             "name":"数据传输服务 UDTS",
             "links":"/middleware/udts/overview"
-            },
-            {
-            "name":"服务器迁移中心 USMC",
-            "links":"/middleware/usmc/overview"
             }
-
         ]
     }, 
     {
