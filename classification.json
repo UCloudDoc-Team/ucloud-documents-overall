@@ -11,7 +11,7 @@
     "domain":["udnr","ussl"],
     "management_monitor":["manage","umon","uproject","usms","utoken","security_lock","uapi"],
     "middleware":["stepflow","uapigateway","udts","uas","usmc"],
-    "network":["firewall","ipsec","ipv6translation","pathx","roma","udpn","ulb","unet","vip","vpc","accessgw","anycasteip","umqa"],
+    "network":["ipsec","pathx","roma","udpn","ulb","unet","vpc","accessgw","anycasteip","umqa"],
     "policy":["agreement","sla"],
     "security":["udas","udbcp","uewaf","uhas","uhids","usa","uantiddos"],
     "developer":["cli","opensdk-java","opensdk-go","opensdk-python"],
