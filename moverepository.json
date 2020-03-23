@@ -2,13 +2,18 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "usecurity",
-            "classification": "security"
+            "repository": "vip",
+            "classification": "network"
         },
         {
             "type": "delete",
-            "repository": "clean",
-            "classification": "security"
+            "repository": "firewall",
+            "classification": "network"
+        },
+        {
+            "type": "delete",
+            "repository": "ipv6translation",
+            "classification": "network"
         }
     ]
 }
