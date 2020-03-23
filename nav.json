@@ -56,14 +56,6 @@
              "links":"/network/vpc/overview"
             },
             {
-             "name":"防火墙 Firewall",
-             "links":"/network/firewall/overview"
-            },
-            {
-             "name":"内网虚拟IP地址 VIP",
-             "links":"/network/vip/overview"
-            },
-            {
              "name":"高速通道 UDPN",
              "links":"/network/udpn/overview"
             },
@@ -78,10 +70,6 @@
             {
             "name":"AnycastEIP",
             "links":"/network/anycasteip/overview"
-            },
-            {
-            "name":"IPv6转换功能",
-            "links":"/network/ipv6translation/overview"
             },
             {
             "name":"全球移动网络 UMQA",
