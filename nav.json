@@ -337,10 +337,6 @@
              "links":"/umon/README"
             },
             {
-             "name":"安全锁 Security Lock",
-             "links":"security_lock/README"
-            },
-            {
             "name":"操作日志 ULog",
             "links":"/manage/README"
             },
@@ -397,10 +393,6 @@
             {
              "name":"账号登录",
              "links":"/login/README"
-            },
-            {
-             "name":"账号安全",
-             "links":"security/README"
             },
             {
              "name":"实名认证",
