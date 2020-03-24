@@ -4,43 +4,43 @@
     "listvalue":[
         {
                 "name":"云主机 UHost",
-                "links":"/compute/uhost/overview"
+                "links":"/uhost/README"
         },
         {
                 "name":"混合云 UHybrid",
-                "links":"/compute/uhybrid/overview"
+                "links":"/uhybrid/README"
         },
         {
                 "name":"物理云主机 UPHost",
-                "links":"/compute/uphost/overview"
+                "links":"/uphost/README"
         },
         {
                 "name":"私有专区 UDHost",
-                "links":"/compute/udhost/overview"
+                "links":"/udhost/README"
         },
         {
                 "name":"容器集群 UDocker",
-                "links":"/compute/udocker/overview"
+                "links":"/udocker/README"
         },
         {
                 "name":"通用计算 UGC",
-                "links":"/compute/ugc/overview"
+                "links":"/ugc/README"
         },
         {
                 "name":"公共镜像库 UHub",
-                "links":"/compute/uhub/overview"
+                "links":"/uhub/README"
         },
         {
                 "name":"容器云 UK8S",
-                "links":"/compute/uk8s/overview"
+                "links":"/uk8s/README"
         },
         {
                 "name":"资源编排 Terraform",
-                "links":"/compute/terraform/overview"
+                "links":"/terraform/README"
         },
         {
                 "name":"弹性伸缩 UAS",
-                "links":"/compute/uas/overview"
+                "links":"/uas/README"
         }
     ]
     },
@@ -49,47 +49,47 @@
         "listvalue":[
             {
              "name":"网络 UNet",
-             "links":"/network/unet/overview"
+             "links":"/unet/README"
             },
             {
              "name":"私有网络 VPC",
-             "links":"/network/vpc/overview"
+             "links":"/vpc/README"
             },
             {
              "name":"防火墙 Firewall",
-             "links":"/network/firewall/overview"
+             "links":"/firewall/README"
             },
             {
              "name":"内网虚拟IP地址 VIP",
-             "links":"/network/vip/overview"
+             "links":"/vip/README"
             },
             {
              "name":"高速通道 UDPN",
-             "links":"/network/udpn/overview"
+             "links":"/udpn/README"
             },
             {
              "name":"全球动态加速 PathX",
-             "links":"/network/pathx/overview"
+             "links":"/pathx/README"
             },
             {
              "name":"VPN 网关 IPSec VPN",
-             "links":"/network/ipsec/overview"
+             "links":"/ipsec/README"
             },
             {
             "name":"AnycastEIP",
-            "links":"/network/anycasteip/overview"
+            "links":"/anycasteip/README"
             },
             {
             "name":"IPv6转换功能",
-            "links":"/network/ipv6translation/overview"
+            "links":"/ipv6translation/README"
             },
             {
             "name":"全球移动网络 UMQA",
-            "links":"/network/umqa/overview"
+            "links":"/umqa/README"
             },
             {
             "name":"负载均衡 ULB",
-            "links":"/network/ulb/overview"
+            "links":"/ulb/README"
             }
         ]
     },
@@ -98,23 +98,23 @@
         "listvalue":[
             {
              "name":"对象存储 UFile",
-             "links":"/storage_cdn/ufile/overview"
+             "links":"/ufile/README"
             },
             {
              "name":"云硬盘 UDisk",
-             "links":"/storage_cdn/udisk/overview"
+             "links":"/udisk/README"
             },
             {
              "name":"数据方舟 UDataArk",
-             "links":"/storage_cdn/uda/overview"
+             "links":"/uda/README"
             },
             {
              "name":"归档存储 UArchive",
-             "links":"/storage_cdn/uarchive/overview"
+             "links":"/uarchive/README"
             },
             {
              "name":"文件存储 UFS",
-             "links":"/storage_cdn/ufs/overview"
+             "links":"/ufs/README"
             }
         ]
     },  
@@ -123,39 +123,39 @@
         "listvalue":[
             {
              "name":"云数据库 MySQL",
-             "links":"/database/udb-mysql/overview"
+             "links":"/udb-mysql/README"
             },
             {
              "name":"分布式NewSQL数据库 TiDB",
-             "links":"/database/tidb/overview"
+             "links":"/tidb/README"
             },
             {
              "name":"云数据库 MongoDB",
-             "links":"/database/udb-mongodb/overview"
+             "links":"/udb-mongodb/README"
             },
             {
              "name":"云数据库 PostgreSQL",
-             "links":"/database/udb-pgsql/overview"
+             "links":"/udb-pgsql/README"
             },
             {
              "name":"云数据库 SQL Server",
-             "links":"/database/udb-sqlserver/overview"
+             "links":"/udb-sqlserver/README"
             },
             {
             "name":"云内存 Memcache",
-            "links":"/database/umem/overview"
+            "links":"/umem/README"
             },
             {
             "name":"云内存 Redis",
-            "links":"/database/uredis/overview"
+            "links":"/uredis/README"
             },
             {
             "name":"分布式数据库 UDDB",
-            "links":"/database/uddb/overview"
+            "links":"/uddb/README"
             },
             {
             "name":"时序数据库 UTSDB",
-            "links":"/database/utsdb/overview"
+            "links":"/utsdb/README"
             }
         ]
     }, 
@@ -164,31 +164,31 @@
         "listvalue":[
             {
              "name":"态势感知 USSA",
-             "links":"/security/usa/overview"
+             "links":"/usa/README"
             },
             {
              "name":"DDoS攻击防护 UDDoS",
-             "links":"/security/uantiddos/overview"
+             "links":"/uantiddos/README"
             },
             {
             "name":"主机入侵检测 UHIDS",
-            "links":"/security/uhids/overview"
+            "links":"/uhids/README"
             },
             {
             "name":"堡垒机 UHAS",
-            "links":"/security/uhas/overview"
+            "links":"/uhas/README"
             },
             {
             "name":"Web应用防火墙 UWAF",
-            "links":"/security/uewaf/overview"
+            "links":"/uewaf/README"
             },
             {
             "name":"数据库审计系统 UDAS",
-            "links":"/security/udas/overview"
+            "links":"/udas/README"
             },
             {
             "name":"等保测评服务 UDBCP",
-            "links":"/security/udbcp/overview"
+            "links":"/udbcp/README"
             }
         ]
     }, 
@@ -197,19 +197,19 @@
         "listvalue":[
             {
              "name":"AI在线服务 UAI-Inference",
-             "links":"/ai/uai-inference/overview"
+             "links":"/uai-inference/README"
             },
             {
              "name":"AI训练服务 UAI-Train",
-             "links":"/ai/uai-train/overview"
+             "links":"/uai-train/README"
             },
             {
              "name":"GPU云主机",
-             "links":"/ai/gpu/overview"
+             "links":"/gpu/README"
             },
             {
              "name":"内容审核 UAI-Censor",
-             "links":"/ai/uai-censor/overview"
+             "links":"/uai-censor/README"
             }
         ]
     },  
@@ -218,27 +218,27 @@
         "listvalue":[
             {
              "name":"托管Hadoop集群 UHadoop",
-             "links":"/analysis/uhadoop/overview"
+             "links":"/uhadoop/README"
             },
             {
              "name":"ES服务 Elasticsearch",
-             "links":"/analysis/ues/overview"
+             "links":"/ues/README"
             },
             {
              "name":"云数据仓库 UDW",
-             "links":"/analysis/udw/overview"
+             "links":"/udw/README"
             },
             {
              "name":"Kafka消息队列 UKafka",
-             "links":"/analysis/ukafka/overview"
+             "links":"/ukafka/README"
             },
             {
              "name":"数据湖分析 USQL",
-             "links":"/analysis/usql/overview"
+             "links":"/usql/README"
             },
             {
             "name":"Flink实时计算 UFlink",
-            "links":"/analysis/uflink/overview"
+            "links":"/uflink/README"
             }
         ]
     }, 
@@ -247,15 +247,15 @@
         "listvalue":[
             {
              "name":"云分发 UCDN",
-             "links":"/cdn/ucdn/overview"
+             "links":"/ucdn/README"
             },
             {
              "name":"开放式分发节点 UODN",
-             "links":"/cdn/uodn/overview"
+             "links":"/uodn/README"
             },
             {
              "name":"边缘分发节点 UEDN",
-             "links":"/cdn/uedn/overview"
+             "links":"/uedn/README"
             }
         ]
     }, 
@@ -264,19 +264,19 @@
         "listvalue":[
             {
              "name":"媒体工厂 UMedia",
-             "links":"/video/umedia/overview"
+             "links":"/umedia/README"
             },
             {
              "name":"实时音视频 URTC",
-             "links":"/video/urtc/overview"
+             "links":"/urtc/README"
             },
             {
              "name":"直播云 ULive",
-             "links":"/video/ulive/intro"
+             "links":"/ulive/intro"
             },
             {
              "name":"视频工具 UVideoSDK",
-             "links":"/video/uvideo_sdk/overview"
+             "links":"/uvideo_sdk/README"
             }  
         ]
     }, 
@@ -285,11 +285,11 @@
         "listvalue":[
             {
             "name":"全球网络加速 罗马 Rome",
-            "links":"/network/roma/overview"
+            "links":"/roma/README"
             },
             {
             "name":"数据传输服务 UDTS",
-            "links":"/middleware/udts/overview"
+            "links":"/udts/README"
             }
         ]
     }, 
@@ -298,11 +298,11 @@
         "listvalue":[
             {
              "name":"物联网通信云平台 UIoT Core",
-             "links":"/iot/uiot-core/overview"
+             "links":"/uiot-core/README"
             },
             {
              "name":"智能接入盒子 AccessBox",
-             "links":"/network/accessgw/overview"
+             "links":"/accessgw/README"
             }
         ]
     }, 
@@ -311,11 +311,11 @@
         "listvalue":[
             {
              "name":"工作流服务 StepFlow",
-             "links":"/middleware/stepflow/overview"
+             "links":"/stepflow/README"
             },
             {
             "name":"API网关 UAPIGateway",
-            "links":"/middleware/uapigateway/overview"
+            "links":"/uapigateway/README"
             }
         ]
     }, 
@@ -324,7 +324,7 @@
         "listvalue":[
             {
              "name":"运维服务 UOPS",
-             "links":"/service/uops/overview"
+             "links":"/uops/README"
             }
         ]
     }, 
@@ -333,31 +333,31 @@
         "listvalue":[
             {
              "name":"短信服务 USMS",
-             "links":"/management_monitor/usms/overview"
+             "links":"/usms/README"
             },
             {
              "name":"API产品 UAPI",
-             "links":"/management_monitor/uapi/overview"
+             "links":"/uapi/README"
             },
             {
              "name":"UCloud令牌服务 UToken",
-             "links":"/management_monitor/utoken/overview"
+             "links":"/utoken/README"
             },
             {
              "name":"云监控 UMon",
-             "links":"/management_monitor/umon/overview"
+             "links":"/umon/README"
             },
             {
              "name":"安全锁 Security Lock",
-             "links":"/management_monitor/security_lock/overview"
+             "links":"Security_lock/README"
             },
             {
             "name":"操作日志 ULog",
-            "links":"/management_monitor/manage/overview"
+            "links":"/manage/README"
             },
             {
             "name":"账号与权限管理 UAM",
-            "links":"/management_monitor/uproject/overview"
+            "links":"/uproject/README"
             }
         ]
     }, 
@@ -366,31 +366,31 @@
         "listvalue":[
             {
              "name":"交易管理",
-             "links":"/charge/transaction/overview"
+             "links":"/transaction/README"
             },
             {
              "name":"订单管理",
-             "links":"/charge/order/overview"
+             "links":"/order/README"
             },
             {
              "name":"账单管理",
-             "links":"/charge/bill/overview"
+             "links":"/bill/README"
             },
             {
              "name":"续费管理",
-             "links":"/charge/renew/overview"
+             "links":"/renew/README"
             },
             {
              "name":"发票管理",
-             "links":"/charge/invoice/overview"
+             "links":"/invoice/README"
             },
             {
             "name":"合同中心",
-            "links":"/charge/contract/overview"
+            "links":"/contract/README"
             },
             {
             "name":"计费说明",
-            "links":"/charge/charge/overview"
+            "links":"/charge/README"
             }
         ]
     }, 
@@ -399,27 +399,27 @@
         "listvalue":[
             {
              "name":"账号注册",
-             "links":"/account/register/overview"
+             "links":"/register/README"
             },
             {
              "name":"用户提醒",
-             "links":"/account/remind/overview"
+             "links":"/remind/README"
             },
             {
              "name":"账号登录",
-             "links":"/account/login/overview"
+             "links":"/login/README"
             },
             {
              "name":"账号安全",
-             "links":"/account/security/overview"
+             "links":"security/README"
             },
             {
              "name":"实名认证",
-             "links":"/account/identity_verification/overview"
+             "links":"/identity_verification/README"
             },
             {
              "name":"权限管理",
-             "links":"/account/iam/overview"
+             "links":"/iam/README"
             }
         ]
     }, 
@@ -428,19 +428,19 @@
         "listvalue":[
             {
              "name":"UCloud CLI",
-             "links":"/developer/cli/overview"
+             "links":"/cli/README"
             },
             {
              "name":"OpenSDK Go",
-             "links":"/developer/opensdk-go/overview"
+             "links":"/opensdk-go/README"
             },
             {
              "name":"OpenSDK Java",
-             "links":"/developer/opensdk-java/overview"
+             "links":"/opensdk-java/README"
             },
             {
             "name":"OpenSDK Python",
-            "links":"/developer/opensdk-python/overview"
+            "links":"/opensdk-python/README"
             }
         ]
     }, 
@@ -449,7 +449,7 @@
         "listvalue":[
             {
              "name":"备案帮助文档",
-             "links":"/beian/beian1/overview"
+             "links":"/beian1/README"
             }
         ]
     }, 
@@ -458,11 +458,11 @@
         "listvalue":[
             {
              "name":"域名服务",
-             "links":"/domain/udnr/overview"
+             "links":"/udnr/README"
             },
             {
              "name":"SSL证书管理 USSL",
-             "links":"/domain/ussl/overview"
+             "links":"/ussl/README"
             }
         ]
     }, 
@@ -471,11 +471,11 @@
         "listvalue":[
             {
              "name":"服务等级协议（SLA）",
-             "links":"/policy/sla/overview"
+             "links":"/sla/README"
             },
             {
              "name":"其他协议",
-             "links":"/policy/agreement/overview"
+             "links":"/agreement/README"
             }
         ]
     } 
@@ -488,13 +488,13 @@
         "imglinks":"https://static.ucloud.cn/991856a3c3e24a959a575ecf09165b7d.png"
     },
     {
-        "url":"/compute/uhost/newuser/briefguide",
+        "url":"/uhost/newuser/briefguide",
         "title":"快速上手云主机",
         "des":"通俗易懂，让您轻松选购云主机",
         "imglinks":"https://static.ucloud.cn/c5f1060a12a949d1b38c0617a0e309b2.png"
     },
     {
-        "url":"/beian/beian1/overview",
+        "url":"/beian1/README",
         "title":"备案指南",
         "des":"常规流程指导、常见问题解答",
         "imglinks":"https://static.ucloud.cn/8cf21fe4450247959332299374c5f797.png"

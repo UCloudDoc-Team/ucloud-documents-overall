@@ -1,0 +1,11 @@
+api/
+vendor/
+_sidebar.md
+404.md
+home.md
+index.html
+nav.md
+rsync_include_navs.txt
+rsync_product_exclude.txt
+ucloud-docs-v2.conf
+ucpublish.html

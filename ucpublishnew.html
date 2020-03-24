@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UCloud文档中心</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="vendor/themes/udocs.css">
+    <script type="text/javascript" src="vendor/js/jquery-1.7.1.min.js"></script>
+</head>
+<body style="overflow:auto;">
+<div class="docs-header clearfix">
+    <div class="pull-left">
+        <a href="https://docs.ucloud.cn" target="_blank" title="返回官网首页" class="logo-a">
+            <span class="docs-logo"></span>
+        </a>
+    </div>
+    <div class="pull-left">
+        <a target="_blank" class="back" href="https://cms.docs.ucloudadmin.com/">返回文档中心</a>
+    </div>
+</div>
+<div class="ucpublish">
+    <h2>文档发布</h2>
+    <div class="fade">
+        <img  class="loading" src="https://static.ucloud.cn/02e6c737ac7b4cff902a93ecfc87d9e7.gif">
+    </div>
+    <div class="hasnoright">您的账号暂无发布权限！<br/>如有疑问，请联系平台负责人咨询或处理。</div>
+    <div class="ucpublishmain">
+        <div class="ucpublish-content">
+            <a  id="btnSubmit" >点击发布</a>
+        </div>
+    </div>
+    <div class="apiresult"></div>
+</div></div>
+<script>
+//判断当前用户的发布权限
+var findUser = false,
+//  currentUser = getLoginStatus();
+    currentUser = "linsa.chen@ucloud.cn",
+    userPro = emailInjson(currentUser),
+    contentBox = $(".ucpublish-content"),
+    currentUserEmail,
+    currentUserPublish = '<div class="items"><label>发布仓库</label><form class="typestyle">',
+    currentUserIsFull;
+
+if(findUser){
+    if(userPro == "all"){
+        currentUserPublish = currentUserPublish + '<input  type="checkbox" name="checkedTypes" value="products"/>产品文档<input  type="checkbox" name="checkedTypes" value="api"/>api文档<input  type="checkbox" name="checkedTypes" value="system"/>系统(导航、js、css)</form></div>';
+        currentUserIsFull = '<div class="items"><label>发布范围</label><form class="typestyle"><input  type="radio" name="fullrelease" value="false"/>灰度发布<input  type="radio" name="fullrelease" value="true"/>全量发布</form></div>';
+    }else{
+        $.each(userPro,function(){
+            currentUserPublish = currentUserPublish + '<input  type="checkbox" name="checkedTypes" value="' + this + '"/>' + this;
+        });
+        currentUserIsFull = '<div class="items"><label>发布范围</label><form class="typestyle"><input  type="radio" name="fullrelease" value="true" checked />全量发布</form></div>';
+    }
+    currentUserPublish = currentUserPublish + '</form></div>';
+    currentUserEmail = '<div class="items"><label>账号</label><span>' +currentUser+ '</span></div>';
+    contentBox.prepend(currentUserIsFull);
+    contentBox.prepend(currentUserPublish);
+    contentBox.prepend(currentUserEmail);
+    contentBox.css('display','inline-block');
+}else{
+    $('.hasnoright').show();
+};
+
+function getLoginStatus(){
+    var useremail;
+    $.ajax({
+        url:"https://web_api.ucloudadmin.com/?action=SSO.GetStaffInfo",
+        cache: false,
+        xhrFields: {
+            withCredentials: true
+        },
+        crossDomain: true,
+        async:false,
+        success: function (data) {
+            useremail = data.staff_info.staff_email;
+        },
+        error: function (e) {
+        }
+    });
+    return useremail;
+};
+
+function emailInjson(email){
+    var userinfo,
+        userpro;
+    $.ajax({
+        url:"http://campus.irene.frontend.ucloudadmin.com/useright.json",
+        cache: false,
+        xhrFields: {
+            withCredentials: true
+        },
+        crossDomain: true,
+        async:false,
+        success: function (data) {
+            userinfo = data;
+            $(".fade").hide();
+        },
+        error: function (e) {
+        }
+    });
+    
+    $.each(userinfo,function(n1,value){//第一层循环
+        $.each(value,function(n2,value2){//第二层循环
+            if($.trim(email) == $.trim(value2.email)){
+                findUser = true;
+                userpro = value2.products;
+                return false;
+            };
+        });
+        if(findUser){
+            return false;
+        }
+    });
+
+    return userpro;
+}
+
+$('#btnSubmit').on('click',function(){
+    var checkedArray = [];
+    $('input[name="checkedTypes"]:checked').each(function(){
+        checkedArray.push($(this).val());
+    });
+  //post请求
+  $.ajax({
+            type:'post',
+            url:'https://cms.docs.ucloudadmin.com/ucpublish',
+            data:{
+                publishType: checkedArray,
+                isFull:$('input[name="fullrelease"]:checked').val(),
+            },
+            traditional:true,
+            success:function(data){
+                $('.apiresult').show();
+                $('.apiresult').text('');
+                $('.apiresult').append(data);
+            },
+            error:function(){
+                $('.apiresult').show();
+                $('.apiresult').text('');
+                $('.apiresult').append('发布失败，请刷新页面重试!');
+            }
+        })
+})
+</script>
+</body>
+</html>
