@@ -442,15 +442,6 @@
         ]
     }, 
     {
-        "listname":"私有云",
-        "listvalue":[
-            {
-             "name":"UCloudStack",
-             "links":"/privatecloud/UCloudStack/overview"
-            }
-        ]
-    }, 
-    {
         "listname":"域名与网站",
         "listvalue":[
             {
