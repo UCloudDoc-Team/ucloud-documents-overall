@@ -31,12 +31,6 @@
 [submodule "vpc"]
 	path = vpc
 	url = https://github.com/UCloudDocs/vpc.git
-[submodule "firewall"]
-	path = firewall
-	url = https://github.com/UCloudDocs/firewall.git
-[submodule "vip"]
-	path = vip
-	url = https://github.com/UCloudDocs/vip.git
 [submodule "udpn"]
 	path = udpn
 	url = https://github.com/UCloudDocs/udpn.git
@@ -46,9 +40,6 @@
 [submodule "ipsec"]
 	path = ipsec
 	url = https://github.com/UCloudDocs/ipsec.git
-[submodule "ipv6translation"]
-	path = ipv6translation
-	url = https://github.com/UCloudDocs/ipv6translation.git
 [submodule "roma"]
 	path = roma
 	url = https://github.com/UCloudDocs/roma.git
@@ -289,3 +280,6 @@
 [submodule "usmc"]
 	path = usmc
 	url = https://github.com/UCloudDocs/usmc.git
+[submodule "UCloudStack"]
+	path = UCloudStack
+	url = https://github.com/UCloudDocs/UCloudStack.git
