@@ -73,10 +73,6 @@
             "links":"/anycasteip/README"
             },
             {
-            "name":"IPv6转换功能",
-            "links":"/ipv6translation/README"
-            },
-            {
             "name":"全球移动网络 UMQA",
             "links":"/umqa/README"
             },
