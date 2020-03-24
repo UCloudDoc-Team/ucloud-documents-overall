@@ -338,7 +338,7 @@
             },
             {
              "name":"安全锁 Security Lock",
-             "links":"Security_lock/README"
+             "links":"security_lock/README"
             },
             {
             "name":"操作日志 ULog",
