@@ -2,18 +2,7 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "vip",
-            "classification": "network"
-        },
-        {
-            "type": "delete",
-            "repository": "firewall",
-            "classification": "network"
-        },
-        {
-            "type": "delete",
-            "repository": "ipv6translation",
-            "classification": "network"
+            "repository": "UCloudStack"
         }
     ]
 }
