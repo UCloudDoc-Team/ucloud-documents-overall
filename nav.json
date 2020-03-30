@@ -435,6 +435,15 @@
         ]
     }, 
     {
+        "listname":"私有云",
+        "listvalue":[
+            {
+             "name":"UCloudStack",
+             "links":"/UCloudStack/README"
+            }
+        ]
+    }, 
+    {
         "listname":"域名与网站",
         "listvalue":[
             {
