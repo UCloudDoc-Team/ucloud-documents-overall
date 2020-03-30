@@ -382,27 +382,27 @@
         "listvalue":[
             {
              "name":"交易管理",
-             "links":"/charge/transaction/README"
+             "links":"/transaction/README"
             },
             {
              "name":"订单管理",
-             "links":"/charge/order/README"
+             "links":"/order/README"
             },
             {
              "name":"账单管理",
-             "links":"/charge/bill/README"
+             "links":"/bill/README"
             },
             {
              "name":"续费管理",
-             "links":"/charge/renew/README"
+             "links":"/renew/README"
             },
             {
              "name":"发票管理",
-             "links":"/charge/invoice/README"
+             "links":"/invoice/README"
             },
             {
             "name":"合同中心",
-            "links":"/charge/contract/README"
+            "links":"/contract/README"
             },
             {
             "name":"计费说明",
