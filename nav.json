@@ -1,62 +1,61 @@
 {"pd":[
     {
-    "listname":"计算",
-    "listvalue":[
-        {
-                "name":"云主机 UHost",
-                "links":"/uhost/README"
-        },
-        {
-                "name":"混合云 UHybrid",
-                "links":"/uhybrid/README"
-        },
-        {
-                "name":"物理云主机 UPHost",
-                "links":"/uphost/README"
-        },
-        {
-                "name":"私有专区 UDHost",
-                "links":"/udhost/README"
-        },
-        {
-                "name":"容器集群 UDocker",
-                "links":"/udocker/README"
-        },
-        {
-                "name":"通用计算 UGC",
-                "links":"/ugc/README"
-        },
-        {
-                "name":"公共镜像库 UHub",
-                "links":"/uhub/README"
-        },
-        {
-                "name":"容器云 UK8S",
-                "links":"/uk8s/README"
-        },
-        {
-                "name":"资源编排 Terraform",
-                "links":"/terraform/README"
-        },
-        {
-                "name":"弹性伸缩 UAS",
-                "links":"/uas/README"
-        }
-    ]
+      "listname":"计算",
+      "listvalue":[
+            {
+            "name":"云主机 UHost",
+            "links":"/uhost/README"
+            },
+            {
+            "name":"物理云主机 UPHost",
+            "links":"/uphost/README"
+            },
+            {
+            "name":"GPU云主机 UHost",
+            "links":"/gpu/README"
+            },
+            {
+            "name":"云主机私有专区 UDHost",
+            "links":"/udhost/README"
+            },
+            {
+            "name":"容器云 UK8S",
+            "links":"/uk8s/README"
+            },
+            {
+            "name":"通用计算 UGC",
+            "links":"/ugc/README"
+            },
+            {
+            "name":"容器集群 UDocker",
+            "links":"/udocker/README"
+            },
+            {
+            "name":"公共镜像库 UHub",
+            "links":"/uhub/README"
+            }
+        ]
     },
     {
         "listname":"网络",
         "listvalue":[
             {
-             "name":"网络 UNet",
+             "name":"基础网络 UNet",
              "links":"/unet/README"
+            },
+            {
+            "name":"负载均衡 ULB",
+            "links":"/ulb/README"
             },
             {
              "name":"私有网络 VPC",
              "links":"/vpc/README"
             },
             {
-
+             "name":"VPN 网关 IPSec VPN",
+             "links":"/ipsec/README"
+            },
+            {
              "name":"高速通道 UDPN",
              "links":"/udpn/README"
             },
@@ -65,82 +64,49 @@
              "links":"/pathx/README"
             },
             {
-             "name":"VPN 网关 IPSec VPN",
-             "links":"/ipsec/README"
-            },
-            {
             "name":"AnycastEIP",
             "links":"/anycasteip/README"
             },
             {
             "name":"全球移动网络 UMQA",
             "links":"/umqa/README"
-            },
-            {
-            "name":"负载均衡 ULB",
-            "links":"/ulb/README"
             }
         ]
     },
     {
-        "listname":"存储",
-        "listvalue":[
-            {
-             "name":"对象存储 UFile",
-             "links":"/ufile/README"
-            },
-            {
-             "name":"云硬盘 UDisk",
-             "links":"/udisk/README"
-            },
-            {
-             "name":"数据方舟 UDataArk",
-             "links":"/uda/README"
-            },
-            {
-             "name":"归档存储 UArchive",
-             "links":"/uarchive/README"
-            },
-            {
-             "name":"文件存储 UFS",
-             "links":"/ufs/README"
-            }
-        ]
-    },  
-    {
         "listname":"数据库",
         "listvalue":[
             {
-             "name":"云数据库 MySQL",
+             "name":"云数据库 UDB MySQL ",
              "links":"/udb-mysql/README"
             },
             {
-             "name":"分布式NewSQL数据库 TiDB",
-             "links":"/tidb/README"
-            },
-            {
-             "name":"云数据库 MongoDB",
+             "name":"云数据库 UDB MongoDB ",
              "links":"/udb-mongodb/README"
             },
             {
-             "name":"云数据库 PostgreSQL",
+             "name":"云数据库 UDB PostgreSQL",
              "links":"/udb-pgsql/README"
             },
             {
-             "name":"云数据库 SQL Server",
+             "name":"云数据库 UDB SQL Server ",
              "links":"/udb-sqlserver/README"
             },
             {
-            "name":"云内存 Memcache",
+            "name":"云内存 UMem Memcache",
             "links":"/umem/README"
             },
             {
-            "name":"云内存 Redis",
+            "name":"云内存 UMem Redis",
             "links":"/uredis/README"
             },
             {
             "name":"分布式数据库 UDDB",
             "links":"/uddb/README"
+            },
+            {
+             "name":"分布式NewSQL数据库 TiDB",
+             "links":"/tidb/README"
             },
             {
             "name":"时序数据库 UTSDB",
@@ -149,88 +115,30 @@
         ]
     }, 
     {
-        "listname":"安全/优盾",
+        "listname":"存储",
         "listvalue":[
             {
-             "name":"态势感知 USSA",
-             "links":"/usa/README"
+             "name":"对象存储 UFile",
+             "links":"/ufile/README"
             },
             {
-             "name":"DDoS攻击防护 UDDoS",
-             "links":"/uantiddos/README"
+             "name":"文件存储 UFS",
+             "links":"/ufs/README"
             },
             {
-            "name":"主机入侵检测 UHIDS",
-            "links":"/uhids/README"
+             "name":"归档存储 UArchive",
+             "links":"/uarchive/README"
             },
             {
-            "name":"堡垒机 UHAS",
-            "links":"/uhas/README"
+             "name":"云硬盘 UDisk",
+             "links":"/udisk/README"
             },
             {
-            "name":"Web应用防火墙 UWAF",
-            "links":"/uewaf/README"
-            },
-            {
-            "name":"数据库审计系统 UDAS",
-            "links":"/udas/README"
-            },
-            {
-            "name":"等保测评服务 UDBCP",
-            "links":"/udbcp/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"人工智能",
-        "listvalue":[
-            {
-             "name":"AI在线服务 UAI-Inference",
-             "links":"/uai-inference/README"
-            },
-            {
-             "name":"AI训练服务 UAI-Train",
-             "links":"/uai-train/README"
-            },
-            {
-             "name":"GPU云主机",
-             "links":"/gpu/README"
-            },
-            {
-             "name":"内容审核 UAI-Censor",
-             "links":"/uai-censor/README"
+             "name":"数据方舟 UDataArk",
+             "links":"/uda/README"
             }
         ]
     },  
-    {
-        "listname":"数据分析",
-        "listvalue":[
-            {
-             "name":"托管Hadoop集群 UHadoop",
-             "links":"/uhadoop/README"
-            },
-            {
-             "name":"ES服务 Elasticsearch",
-             "links":"/ues/README"
-            },
-            {
-             "name":"云数据仓库 UDW",
-             "links":"/udw/README"
-            },
-            {
-             "name":"Kafka消息队列 UKafka",
-             "links":"/ukafka/README"
-            },
-            {
-             "name":"数据湖分析 USQL",
-             "links":"/usql/README"
-            },
-            {
-            "name":"Flink实时计算 UFlink",
-            "links":"/uflink/README"
-            }
-        ]
-    }, 
     {
         "listname":"云分发",
         "listvalue":[
@@ -249,8 +157,71 @@
         ]
     }, 
     {
-        "listname":"多媒体",
+        "listname":"数据分析",
         "listvalue":[
+            {
+             "name":"托管Hadoop集群 UHadoop",
+             "links":"/uhadoop/README"
+            },
+            {
+            "name":"Flink实时计算 UFlink",
+            "links":"/uflink/README"
+            },
+            {
+             "name":"Kafka消息队列 UKafka",
+             "links":"/ukafka/README"
+            },
+            {
+             "name":"云数据仓库 UDW",
+             "links":"/udw/README"
+            },
+            {
+             "name":"ES服务 Elasticsearch UES",
+             "links":"/ues/README"
+            },
+            {
+             "name":"数据湖分析 USQL",
+             "links":"/usql/README"
+            }
+        ]
+    }, 
+    {
+        "listname":"人工智能",
+        "listvalue":[
+            {
+             "name":"AI在线服务 UAI-Inference",
+             "links":"/uai-inference/README"
+            },
+            {
+             "name":"AI训练服务 UAI-Train",
+             "links":"/uai-train/README"
+            },
+            {
+             "name":"内容审核 UAI-Censor",
+             "links":"/uai-censor/README"
+            }
+        ]
+    },  
+    {
+        "listname":"物联网",
+        "listvalue":[
+            {
+             "name":"物联网通信云平台 UIoT Core",
+             "links":"/uiot-core/README"
+            },
+            {
+             "name":"智能接入盒子 Accessbox",
+             "links":"/accessgw/README"
+            }
+        ]
+    }, 
+    {
+        "listname":"视频服务",
+        "listvalue":[
+            {
+             "name":"直播云 ULive",
+             "links":"/ulive/intro"
+            },
             {
              "name":"媒体工厂 UMedia",
              "links":"/umedia/README"
@@ -258,10 +229,6 @@
             {
              "name":"实时音视频 URTC",
              "links":"/urtc/README"
-            },
-            {
-             "name":"直播云 ULive",
-             "links":"/ulive/intro"
             },
             {
              "name":"视频工具 UVideoSDK",
@@ -273,7 +240,7 @@
         "listname":"多云与迁移",
         "listvalue":[
             {
-            "name":"全球网络加速 罗马 Rome",
+            "name":"罗马 Rome",
             "links":"/roma/README"
             },
             {
@@ -283,24 +250,23 @@
         ]
     }, 
     {
-        "listname":"物联网",
+        "listname":"企业应用",
         "listvalue":[
             {
-             "name":"物联网通信云平台 UIoT Core",
-             "links":"/uiot-core/README"
+             "name":"域名服务 UDNR",
+             "links":"/udnr/README"
             },
             {
-             "name":"智能接入盒子 AccessBox",
-             "links":"/accessgw/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"中间件",
-        "listvalue":[
+             "name":"备案 ICP",
+             "links":"/beian1/README"
+            },
             {
-             "name":"工作流服务 StepFlow",
-             "links":"/stepflow/README"
+             "name":"SSL证书管理 USSL",
+             "links":"/ussl/README"
+            },
+            {
+             "name":"短信服务 USMS",
+             "links":"/usms/README"
             },
             {
             "name":"API网关 UAPIGateway",
@@ -309,7 +275,76 @@
         ]
     }, 
     {
-        "listname":"运维服务",
+        "listname":"安全防护",
+        "listvalue":[
+            {
+            "name":"Web应用防火墙 UWAF",
+            "links":"/uewaf/README"
+            },
+            {
+             "name":"DDoS攻击防护 UDDoS",
+             "links":"/uantiddos/README"
+            },
+            {
+            "name":"主机入侵检测 UHIDS",
+            "links":"/uhids/README"
+            },
+            {
+             "name":"态势感知 USSA",
+             "links":"/usa/README"
+            }
+            
+        ]
+    }, 
+    {
+        "listname":"安全合规",
+        "listvalue":[
+            {
+            "name":"堡垒机 UAuditHost",
+            "links":"/uhas/README"
+            },
+            {
+            "name":"等保测评服务 UDBCP",
+            "links":"/udbcp/README"
+            },
+            {
+            "name":"数据库审计 UAuditDB",
+            "links":"/udas/README"
+            }
+        ]
+    }, 
+    {
+        "listname":"混合云",
+        "listvalue":[
+           {
+            "name":"混合云 UHybrid",
+            "links":"/uhybrid/README"
+           }   
+        ]
+    }, 
+    {
+        "listname":"监控与管理",
+        "listvalue":[
+            {
+             "name":"云监控 UMon",
+             "links":"/umon/README"
+            },
+            {
+             "name":"工作流服务 StepFlow",
+             "links":"/stepflow/README"
+            },
+            {
+             "name":"UCloud令牌服务 UToken",
+             "links":"/utoken/README"
+            },
+            {
+            "name":"操作日志 ULog",
+            "links":"/manage/README"
+            }
+        ]
+    }, 
+    {
+        "listname":"运维支持",
         "listvalue":[
             {
              "name":"运维服务 UOPS",
@@ -318,69 +353,7 @@
         ]
     }, 
     {
-        "listname":"管理与监控",
-        "listvalue":[
-            {
-             "name":"短信服务 USMS",
-             "links":"/usms/README"
-            },
-            {
-             "name":"API产品 UAPI",
-             "links":"/uapi/README"
-            },
-            {
-             "name":"UCloud令牌服务 UToken",
-             "links":"/utoken/README"
-            },
-            {
-             "name":"云监控 UMon",
-             "links":"/umon/README"
-            },
-            {
-            "name":"操作日志 ULog",
-            "links":"/manage/README"
-            },
-            {
-            "name":"账号与权限管理 UAM",
-            "links":"/uproject/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"购买和计费",
-        "listvalue":[
-            {
-             "name":"交易管理",
-             "links":"/transaction/README"
-            },
-            {
-             "name":"订单管理",
-             "links":"/order/README"
-            },
-            {
-             "name":"账单管理",
-             "links":"/bill/README"
-            },
-            {
-             "name":"续费管理",
-             "links":"/renew/README"
-            },
-            {
-             "name":"发票管理",
-             "links":"/invoice/README"
-            },
-            {
-            "name":"合同中心",
-            "links":"/contract/README"
-            },
-            {
-            "name":"计费说明",
-            "links":"/charge/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"账号",
+        "listname":"账号与权限",
         "listvalue":[
             {
              "name":"账号注册",
@@ -399,60 +372,41 @@
              "links":"/identity_verification/README"
             },
             {
-             "name":"权限管理",
-             "links":"/iam/README"
+            "name":"账号与权限管理 UAM",
+            "links":"/uproject/README"
             }
         ]
     }, 
     {
-        "listname":"开发者工具",
+        "listname":"购买与计费",
         "listvalue":[
             {
-             "name":"UCloud CLI",
-             "links":"/cli/README"
+             "name":"交易管理",
+             "links":"/charge/transaction/README"
             },
             {
-             "name":"OpenSDK Go",
-             "links":"/opensdk-go/README"
+             "name":"订单管理",
+             "links":"/charge/order/README"
             },
             {
-             "name":"OpenSDK Java",
-             "links":"/opensdk-java/README"
+             "name":"账单管理",
+             "links":"/charge/bill/README"
             },
             {
-            "name":"OpenSDK Python",
-            "links":"/opensdk-python/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"备案",
-        "listvalue":[
-            {
-             "name":"备案帮助文档",
-             "links":"/beian1/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"私有云",
-        "listvalue":[
-            {
-             "name":"UCloudStack",
-             "links":"/UCloudStack/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"域名与网站",
-        "listvalue":[
-            {
-             "name":"域名服务",
-             "links":"/udnr/README"
+             "name":"续费管理",
+             "links":"/charge/renew/README"
             },
             {
-             "name":"SSL证书管理 USSL",
-             "links":"/ussl/README"
+             "name":"发票管理",
+             "links":"/charge/invoice/README"
+            },
+            {
+            "name":"合同中心",
+            "links":"/charge/contract/README"
+            },
+            {
+            "name":"计费说明",
+            "links":"/charge/README"
             }
         ]
     }, 
@@ -468,7 +422,36 @@
              "links":"/agreement/README"
             }
         ]
-    } 
+    },
+    {
+        "listname":"开发者工具",
+        "listvalue":[
+            {
+             "name":"API产品 UAPI",
+             "links":"/uapi/README"
+            },
+            {
+             "name":"UCloud CLI",
+             "links":"/cli/README"
+            },
+            {
+             "name":"OpenSDK Go",
+             "links":"/opensdk-go/README"
+            },
+            {
+             "name":"OpenSDK Java",
+             "links":"/opensdk-java/README"
+            },
+            {
+            "name":"OpenSDK Python",
+            "links":"/opensdk-python/README"
+            },
+            {
+            "name":"资源编排 Terraform",
+            "links":"/terraform/README"
+            }
+        ]
+    }
 ],
 "hotprods":[
     {
