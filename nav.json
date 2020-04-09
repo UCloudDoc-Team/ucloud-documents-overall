@@ -423,11 +423,11 @@
             },
             {
              "name":"安全锁 Security Lock",
-             "links":"security_lock/README"
+             "links":"tecurity_lock/README"
             },
             {
              "name":"账号安全",
-             "links":"security/README"
+             "links":"tecurity/README"
             }
         ]
     }, 
