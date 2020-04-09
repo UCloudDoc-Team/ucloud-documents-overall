@@ -420,14 +420,6 @@
             {
             "name":"计费说明",
             "links":"/charge/README"
-            },
-            {
-             "name":"安全锁 Security Lock",
-             "links":"tecurity_lock/README"
-            },
-            {
-             "name":"账号安全",
-             "links":"tecurity/README"
             }
         ]
     }, 
