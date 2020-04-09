@@ -344,7 +344,7 @@
             },
             {
              "name":"安全锁 Security Lock",
-             "links":"security_lock/README"
+             "links":"/security_lock/README"
             },
             {
              "name":"工作流服务 StepFlow",
@@ -386,7 +386,7 @@
             },
             {
              "name":"账号安全",
-             "links":"security/README"
+             "links":"/security/README"
             },
             {
              "name":"实名认证",
