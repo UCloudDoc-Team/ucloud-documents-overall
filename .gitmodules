@@ -283,6 +283,3 @@
 [submodule "UCloudStack"]
 	path = UCloudStack
 	url = https://github.com/UCloudDocs/UCloudStack.git
-[submodule "cube"]
-	path = cube
-	url = https://github.com/UCloudDocs/cube.git
