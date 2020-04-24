@@ -332,7 +332,12 @@
            {
             "name":"混合云 UHybrid",
             "links":"/uhybrid/README"
+           },
+           {
+            "name":"混合云2.0 uhybrid2.0",
+            "links":"/uhybrid2.0/README"
            }   
+
         ]
     }, 
     {

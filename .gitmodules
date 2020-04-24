@@ -289,3 +289,6 @@
 [submodule "uiot-edge"]
 	path = uiot-edge
 	url = https://github.com/UCloudDocs/uiot-edge.git
+[submodule "uhybrid2.0"]
+	path = uhybrid2.0
+	url = https://github.com/UCloudDocs/uhybrid2.0.git
