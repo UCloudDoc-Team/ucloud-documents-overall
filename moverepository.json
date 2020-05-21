@@ -2,7 +2,7 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "UCloudStack"
+            "repository": "UHybrid"
         }
     ]
 }
