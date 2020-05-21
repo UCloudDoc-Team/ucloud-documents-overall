@@ -1,6 +1,3 @@
-[submodule "uhybrid"]
-	path = uhybrid
-	url = https://github.com/UCloudDocs/uhybrid.git
 [submodule "uhost"]
 	path = uhost
 	url = https://github.com/UCloudDocs/uhost.git
