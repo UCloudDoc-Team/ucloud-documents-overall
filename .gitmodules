@@ -289,3 +289,6 @@
 [submodule "uhybrid2.0"]
 	path = uhybrid2.0
 	url = https://github.com/UCloudDocs/uhybrid2.0.git
+[submodule "udns"]
+	path = udns
+	url = https://github.com/UCloudDocs/udns.git
