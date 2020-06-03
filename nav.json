@@ -262,15 +262,6 @@
         ]
     }, 
     {
-        "listname":"私有云",
-        "listvalue":[
-            {
-             "name":"UCloudStack",
-             "links":"/UCloudStack/README"
-            }
-        ]
-    }, 
-    {
         "listname":"企业应用",
         "listvalue":[
             {
