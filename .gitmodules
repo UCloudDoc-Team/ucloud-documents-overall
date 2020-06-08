@@ -292,3 +292,6 @@
 [submodule "udns"]
 	path = udns
 	url = https://github.com/UCloudDocs/udns.git
+[submodule "cloudshell"]
+	path = cloudshell
+	url = https://github.com/UCloudDocs/cloudshell.git
