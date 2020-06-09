@@ -295,3 +295,6 @@
 [submodule "cloudshell"]
 	path = cloudshell
 	url = https://github.com/UCloudDocs/cloudshell.git
+[submodule "usnap"]
+	path = usnap
+	url = https://github.com/UCloudDocs/usnap.git
