@@ -23,6 +23,10 @@
             "links":"/uk8s/README"
             },
             {
+            "name":"容器实例 Cube",
+            "links":"/cube/README"
+            },
+            {
             "name":"通用计算 UGC",
             "links":"/ugc/README"
             },
