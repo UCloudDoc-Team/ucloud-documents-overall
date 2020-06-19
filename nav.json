@@ -144,6 +144,10 @@
             {
              "name":"数据方舟 UDataArk",
              "links":"/uda/README"
+            },
+            {
+             "name":"磁盘快照服务 USnap",
+             "links":"/usnap/README"
             }
         ]
     },  
