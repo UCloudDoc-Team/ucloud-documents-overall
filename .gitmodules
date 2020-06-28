@@ -298,3 +298,6 @@
 [submodule "usnap"]
 	path = usnap
 	url = https://github.com/UCloudDocs/usnap.git
+[submodule "uai-algorithm"]
+	path = uai-algorithm
+	url = https://github.com/UCloudDocs/uai-algorithm.git
