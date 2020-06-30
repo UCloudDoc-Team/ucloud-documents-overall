@@ -301,3 +301,6 @@
 [submodule "uws"]
 	path = uws
 	url = https://github.com/UCloudDocs/uws.git
+[submodule "cloudshell"]
+	path = cloudshell
+	url = https://github.com/UCloudDocs/cloudshell.git
