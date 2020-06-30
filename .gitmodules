@@ -301,3 +301,6 @@
 [submodule "uai-algorithm"]
 	path = uai-algorithm
 	url = https://github.com/UCloudDocs/uai-algorithm.git
+[submodule "uws"]
+	path = uws
+	url = https://github.com/UCloudDocs/uws.git
