@@ -211,6 +211,10 @@
             {
              "name":"内容审核 UAI-Censor",
              "links":"/uai-censor/README"
+            },
+            {
+             "name":"UAI算法平台 UAI-Algorithm",
+             "links":"/uai-algorithm/README"
             }
         ]
     },  
