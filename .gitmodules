@@ -304,3 +304,6 @@
 [submodule "cloudshell"]
 	path = cloudshell
 	url = https://github.com/UCloudDocs/cloudshell.git
+[submodule "ucgs"]
+	path = ucgs
+	url = https://github.com/UCloudDocs/ucgs.git
