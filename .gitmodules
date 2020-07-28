@@ -304,3 +304,6 @@
 [submodule "ucgs"]
 	path = ucgs
 	url = https://github.com/UCloudDocs/ucgs.git
+[submodule "usmc"]
+	path = usmc
+	url = https://github.com/UCloudDocs/usmc.git
