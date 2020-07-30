@@ -152,6 +152,15 @@
         ]
     },  
     {
+        "listname":"边缘计算",
+        "listvalue":[
+            {
+             "name":"云游戏 UCGS",
+             "links":"/ucgs/README"
+            }
+        ]
+    },  
+    {
         "listname":"云分发",
         "listvalue":[
             {
