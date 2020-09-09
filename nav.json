@@ -27,10 +27,6 @@
             "links":"/cube/README"
             },
             {
-            "name":"通用计算 UGC",
-            "links":"/ugc/README"
-            },
-            {
             "name":"容器集群 UDocker",
             "links":"/udocker/README"
             },
