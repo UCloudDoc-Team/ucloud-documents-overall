@@ -333,7 +333,7 @@
         "listname":"安全合规",
         "listvalue":[
             {
-            "name":"堡垒机 UAuditHost",
+            "name":"堡垒机 UHAS",
             "links":"/uhas/README"
             },
             {
@@ -341,7 +341,7 @@
             "links":"/udbcp/README"
             },
             {
-            "name":"数据库审计 UAuditDB",
+            "name":"数据库审计 UDAS",
             "links":"/udas/README"
             }
         ]
