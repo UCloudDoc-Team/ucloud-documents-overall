@@ -357,7 +357,7 @@
         ]
     }, 
     {
-        "listname":"监控与管理",
+        "listname":"监控与运维",
         "listvalue":[
             {
              "name":"云监控 UMon",
@@ -382,15 +382,10 @@
             {
             "name":"操作日志 ULog",
             "links":"/manage/README"
-            }
-        ]
-    }, 
-    {
-        "listname":"运维支持",
-        "listvalue":[
+            },
             {
-             "name":"运维服务 UOPS",
-             "links":"/uops/README"
+            "name":"运维服务 UOPS",
+            "links":"/uops/README"
             }
         ]
     }, 
