@@ -56,6 +56,10 @@
              "links":"/vpc/README"
             },
             {
+             "name":"VPN 网关 IPSec VPN",
+             "links":"/ipsec/README"
+            },
+            {
              "name":"高速通道 UDPN",
              "links":"/udpn/README"
             },
@@ -64,40 +68,16 @@
              "links":"/pathx/README"
             },
             {
+            "name":"AnycastEIP",
+            "links":"/anycasteip/README"
+            },
+            {
             "name":"云解析 UDNS",
             "links":"/udns/README"
             }
         ]
     },
-    {
-        "listname":"私有网络",
-        "listvalue":[
-            {
-             "name":"VPN网关",
-             "links":"/unet/README"
-            },
-            {
-            "name":"NAT网关",
-            "links":"/ulb/README"
-            },
-            {
-             "name":"路由表",
-             "links":"/vpc/README"
-            },
-            {
-             "name":"网络ACL",
-             "links":"/ipsec/README"
-            },
-            {
-             "name":"虚拟网卡",
-             "links":"/udpn/README"
-            },
-            {
-             "name":"内网VIP",
-             "links":"/pathx/README"
-            }
-        ]
-    },
+    
     {
         "listname":"数据库",
         "listvalue":[
@@ -321,10 +301,6 @@
             {
             "name":"API网关 UAPIGateway",
             "links":"/uapigateway/README"
-            },
-            {
-             "name":"全球动态加速 PathX",
-             "links":"/pathx/README"
             }
         ]
     }, 
@@ -511,10 +487,3 @@
     }
 ]
 }
-
-
-
-
-
-
-
