@@ -307,3 +307,6 @@
 [submodule "usmc"]
 	path = usmc
 	url = https://github.com/UCloudDocs/usmc.git
+[submodule "USDP"]
+	path = USDP
+	url = https://github.com/UCloudDocs/USDP.git
