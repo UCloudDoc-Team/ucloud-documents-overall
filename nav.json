@@ -14,7 +14,7 @@
             "name":"GPU云主机 UHost",
             "links":"/gpu/README"
             },
-            {
+            {智能大数据平台 USDP
             "name":"云主机私有专区 UDHost",
             "links":"/udhost/README"
             },
@@ -201,6 +201,10 @@
     {
         "listname":"数据分析",
         "listvalue":[
+            {
+             "name":"智能大数据平台 USDP",
+             "links":"/USDP/README"
+            },
             {
              "name":"托管Hadoop集群 UHadoop",
              "links":"/uhadoop/README"
