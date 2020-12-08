@@ -6,7 +6,6 @@
 "natgw":"/vpc/introduction/natgw",
 "route_table":"/vpc/introduction/routetable",
 "network_acl":"/vpc/introduction/acl",
-"vpc_uni":"/vpc/README",
 "vpc_vip":"/vpc/guide/vip",
 "mysql":"/udb-mysql/README",
 "nosql":"/udb-mongodb/README",
