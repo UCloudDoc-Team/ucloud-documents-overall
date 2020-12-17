@@ -310,3 +310,6 @@
 [submodule "USDP"]
 	path = USDP
 	url = https://github.com/UCloudDocs/USDP.git
+[submodule "uedn-docker"]
+	path = uedn-docker
+	url = https://github.com/UCloudDocs/uedn-docker.git
