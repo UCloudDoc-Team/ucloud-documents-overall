@@ -313,3 +313,6 @@
 [submodule "uedn-docker"]
 	path = uedn-docker
 	url = https://github.com/UCloudDocs/uedn-docker.git
+[submodule "uiot-stack"]
+	path = uiot-stack
+	url = https://github.com/UCloudDocs/uiot-stack.git
