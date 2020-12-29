@@ -10,9 +10,6 @@
 [submodule "udocker"]
 	path = udocker
 	url = https://github.com/UCloudDocs/udocker.git
-[submodule "ugc"]
-	path = ugc
-	url = https://github.com/UCloudDocs/ugc.git
 [submodule "uhub"]
 	path = uhub
 	url = https://github.com/UCloudDocs/uhub.git
