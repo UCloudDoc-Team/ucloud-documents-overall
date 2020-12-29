@@ -313,3 +313,6 @@
 [submodule "uiot-stack"]
 	path = uiot-stack
 	url = https://github.com/UCloudDocs/uiot-stack.git
+[submodule "usdpdc"]
+	path = usdpdc
+	url = https://github.com/UCloudDocs/usdpdc.git
