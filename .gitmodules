@@ -316,3 +316,6 @@
 [submodule "usdpdc"]
 	path = usdpdc
 	url = https://github.com/UCloudDocs/usdpdc.git
+[submodule "uxzone"]
+	path = uxzone
+	url = https://github.com/UCloudDocs/uxzone.git
