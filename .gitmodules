@@ -7,9 +7,6 @@
 [submodule "udhost"]
 	path = udhost
 	url = https://github.com/UCloudDocs/udhost.git
-[submodule "udocker"]
-	path = udocker
-	url = https://github.com/UCloudDocs/udocker.git
 [submodule "uhub"]
 	path = uhub
 	url = https://github.com/UCloudDocs/uhub.git
