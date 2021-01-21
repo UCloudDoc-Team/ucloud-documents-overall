@@ -319,3 +319,6 @@
 [submodule "uxzone"]
 	path = uxzone
 	url = https://github.com/UCloudDocs/uxzone.git
+[submodule "uiot-test"]
+	path = uiot-test
+	url = https://github.com/UCloudDocs/uiot-test.git
