@@ -226,9 +226,6 @@
 [submodule "sla"]
 	path = sla
 	url = https://github.com/UCloudDocs/sla.git
-[submodule "accessgw"]
-	path = accessgw
-	url = https://github.com/UCloudDocs/accessgw.git
 [submodule "uapigateway"]
 	path = uapigateway
 	url = https://github.com/UCloudDocs/uapigateway.git
