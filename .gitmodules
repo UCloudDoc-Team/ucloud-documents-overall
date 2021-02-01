@@ -316,6 +316,3 @@
 [submodule "uiot-test"]
 	path = uiot-test
 	url = https://github.com/UCloudDocs/uiot-test.git
-[submodule "ued"]
-	path = ued
-	url = https://github.com/UCloudDocs/ued.git
