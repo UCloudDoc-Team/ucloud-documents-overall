@@ -2,7 +2,7 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "accessgw"
+            "repository": "iam"
         }
     ]
 }
