@@ -319,3 +319,9 @@
 [submodule "us3"]
 	path = us3
 	url = git@github.com:UCloudDocs/us3.git
+[submodule "ugn"]
+	path = ugn
+	url = git@github.com:UCloudDocs/ugn.git
+[submodule "URocketMQ"]
+	path = URocketMQ
+	url = git@github.com:UCloudDocs/URocketMQ.git
