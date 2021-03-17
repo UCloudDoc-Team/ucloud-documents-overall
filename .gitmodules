@@ -322,6 +322,3 @@
 [submodule "ugn"]
 	path = ugn
 	url = git@github.com:UCloudDocs/ugn.git
-[submodule "URocketMQ"]
-	path = URocketMQ
-	url = git@github.com:UCloudDocs/URocketMQ.git
