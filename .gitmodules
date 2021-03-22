@@ -328,3 +328,6 @@
 [submodule "isms"]
 	path = isms
 	url = git@github.com:UCloudDocs/isms.git
+[submodule "uclickhouse"]
+	path = uclickhouse
+	url = git@github.com:UCloudDocs/uclickhouse.git
