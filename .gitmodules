@@ -325,3 +325,6 @@
 [submodule "rocketmq"]
 	path = rocketmq
 	url = git@github.com:UCloudDocs/rocketmq.git
+[submodule "isms"]
+	path = isms
+	url = git@github.com:UCloudDocs/isms.git
