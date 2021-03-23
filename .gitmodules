@@ -331,3 +331,6 @@
 [submodule "uclickhouse"]
 	path = uclickhouse
 	url = git@github.com:UCloudDocs/uclickhouse.git
+[submodule "ucmp"]
+	path = ucmp
+	url = git@github.com:UCloudDocs/ucmp.git
