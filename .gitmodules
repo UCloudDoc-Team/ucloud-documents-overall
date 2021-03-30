@@ -334,3 +334,6 @@
 [submodule "ucmp"]
 	path = ucmp
 	url = git@github.com:UCloudDocs/ucmp.git
+[submodule "epc"]
+	path = epc
+	url = git@github.com:UCloudDocs/epc.git
