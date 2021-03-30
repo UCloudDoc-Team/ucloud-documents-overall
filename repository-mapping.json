@@ -46,5 +46,6 @@
 "acct_certification":"/identity_verification/README",
 "icp":"/beian1/README",
 "uads":"/uantiddos/README",
-"usdp":"/USDP/README"
+"usdp":"/USDP/README",
+"hpc_uhost":"/epc/README"
 }
