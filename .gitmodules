@@ -334,3 +334,6 @@
 [submodule "epc"]
 	path = epc
 	url = git@github.com:UCloudDocs/epc.git
+[submodule "ugn"]
+	path = ugn
+	url = git@github.com:UCloudDocs/ugn.git
