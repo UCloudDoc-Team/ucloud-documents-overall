@@ -337,3 +337,6 @@
 [submodule "ugn"]
 	path = ugn
 	url = git@github.com:UCloudDocs/ugn.git
+[submodule "UCloudStor"]
+	path = UCloudStor
+	url = git@github.com:UCloudDocs/UCloudStor.git
