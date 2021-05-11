@@ -76,9 +76,6 @@
 [submodule "ucdn"]
 	path = ucdn
 	url = git@github.com:UCloudDocs/ucdn.git
-[submodule "uodn"]
-	path = uodn
-	url = git@github.com:UCloudDocs/uodn.git
 [submodule "uedn"]
 	path = uedn
 	url = git@github.com:UCloudDocs/uedn.git
