@@ -337,3 +337,6 @@
 [submodule "UCloudStor"]
 	path = UCloudStor
 	url = git@github.com:UCloudDocs/UCloudStor.git
+[submodule "plive"]
+	path = plive
+	url = git@github.com:UCloudDocs/plive.git
