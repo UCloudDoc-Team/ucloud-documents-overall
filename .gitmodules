@@ -340,3 +340,6 @@
 [submodule "plive"]
 	path = plive
 	url = git@github.com:UCloudDocs/plive.git
+[submodule "accessgw"]
+	path = accessgw
+	url = git@github.com:UCloudDocs/accessgw.git
