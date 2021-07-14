@@ -346,3 +346,9 @@
 [submodule "usdp_community"]
 	path = usdp_community
 	url = git@github.com:UCloudDocs/usdp_community.git
+[submodule "opensdk-php"]
+	path = opensdk-php
+	url = git@github.com:UCloudDocs/opensdk-php.git
+[submodule "uiw"]
+	path = uiw
+	url = git@github.com:UCloudDocs/uiw.git
