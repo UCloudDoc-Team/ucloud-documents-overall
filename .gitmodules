@@ -352,3 +352,6 @@
 [submodule "uiw"]
 	path = uiw
 	url = git@github.com:UCloudDocs/uiw.git
+[submodule "cdk"]
+	path = cdk
+	url = git@github.com:UCloudDocs/cdk.git
