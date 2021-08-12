@@ -352,9 +352,9 @@
 [submodule "cdk"]
 	path = cdk
 	url = git@github.com:UCloudDocs/cdk.git
-[submodule "urim"]
-	path = urim
-	url = git@github.com:UCloudDocs/urim.git
+[submodule "urlm"]
+	path = urlm
+	url = git@github.com:UCloudDocs/urlm.git
 [submodule "opensdk-js"]
 	path = opensdk-js
 	url = git@github.com:UCloudDocs/opensdk-js.git
