@@ -358,3 +358,6 @@
 [submodule "opensdk-js"]
 	path = opensdk-js
 	url = git@github.com:UCloudDocs/opensdk-js.git
+[submodule "udi"]
+	path = udi
+	url = git@github.com:UCloudDocs/udi.git
