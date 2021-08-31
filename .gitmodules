@@ -85,9 +85,6 @@
 [submodule "ulive"]
 	path = ulive
 	url = git@github.com:UCloudDocs/ulive.git
-[submodule "uvideo_sdk"]
-	path = uvideo_sdk
-	url = git@github.com:UCloudDocs/uvideo_sdk.git
 [submodule "usa"]
 	path = usa
 	url = git@github.com:UCloudDocs/usa.git
