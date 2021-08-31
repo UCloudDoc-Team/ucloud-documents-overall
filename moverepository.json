@@ -2,7 +2,7 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "uarchive"
+            "repository": "uvideo_sdk"
         }
     ]
 }
