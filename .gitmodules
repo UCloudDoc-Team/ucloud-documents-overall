@@ -358,3 +358,6 @@
 [submodule "udi"]
 	path = udi
 	url = git@github.com:UCloudDocs/udi.git
+[submodule "UCloudStack_v2.x"]
+	path = UCloudStack_v2.x
+	url = git@github.com:UCloudDocs/UCloudStack_v2.x.git
