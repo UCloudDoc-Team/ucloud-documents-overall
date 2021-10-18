@@ -361,3 +361,6 @@
 [submodule "UCloudStack_v2.x"]
 	path = UCloudStack_v2.x
 	url = git@github.com:UCloudDocs/UCloudStack_v2.x.git
+[submodule "uphone"]
+	path = uphone
+	url = git@github.com:UCloudDocs/uphone.git
