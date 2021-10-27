@@ -364,3 +364,6 @@
 [submodule "uphone"]
 	path = uphone
 	url = git@github.com:UCloudDocs/uphone.git
+[submodule "unvs"]
+	path = unvs
+	url = git@github.com:UCloudDocs/unvs.git
