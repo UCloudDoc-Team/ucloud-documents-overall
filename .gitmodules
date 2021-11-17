@@ -334,9 +334,6 @@
 [submodule "plive"]
 	path = plive
 	url = git@github.com:UCloudDocs/plive.git
-[submodule "accessgw"]
-	path = accessgw
-	url = git@github.com:UCloudDocs/accessgw.git
 [submodule "usdp_community"]
 	path = usdp_community
 	url = git@github.com:UCloudDocs/usdp_community.git
