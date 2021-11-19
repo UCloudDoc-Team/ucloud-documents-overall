@@ -365,3 +365,6 @@
 	path = unvs
 	url = git@github.com:UCloudDocs/unvs.git
 
+[submodule "UBox"]
+	path = UBox
+	url = git@github.com:UCloudDocs/UBox.git
