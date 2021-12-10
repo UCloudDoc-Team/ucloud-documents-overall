@@ -368,3 +368,6 @@
 [submodule "UBox"]
 	path = UBox
 	url = git@github.com:UCloudDocs/UBox.git
+[submodule "ucnam"]
+	path = ucnam
+	url = git@github.com:UCloudDocs/ucnam.git
