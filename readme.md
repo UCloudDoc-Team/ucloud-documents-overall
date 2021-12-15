@@ -3,8 +3,7 @@
 请修改moverepository.json, 格式如下<br/>
 {
     "type": "delete", // 变更类型：add move delete<br/>
-    "repository": "uhost", // 仓库名称<br/>
-    "classification": "compute" // 所属分类(删除仓库之前的分类)<br/>
+    "repository": "uhost" // 仓库名称<br/>
 }<br/>
 
     每次移动仓库时，请把上一次的记录删除重写
