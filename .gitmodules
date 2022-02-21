@@ -259,9 +259,6 @@
 [submodule "UCloudStack"]
 	path = UCloudStack
 	url = git@github.com:UCloudDocs/UCloudStack.git
-[submodule "cube"]
-	path = cube
-	url = git@github.com:UCloudDocs/cube.git
 [submodule "uiot-edge"]
 	path = uiot-edge
 	url = git@github.com:UCloudDocs/uiot-edge.git
