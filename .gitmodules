@@ -319,9 +319,6 @@
 [submodule "ucmp"]
 	path = ucmp
 	url = git@github.com:UCloudDoc-Team/ucmp.git
-[submodule "epc"]
-	path = epc
-	url = git@github.com:UCloudDoc-Team/epc.gitc
 [submodule "UCloudStor"]
 	path = UCloudStor
 	url = git@github.com:UCloudDoc-Team/UCloudStor.git
