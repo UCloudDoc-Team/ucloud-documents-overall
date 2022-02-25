@@ -362,3 +362,6 @@
 [submodule "ucnam"]
 	path = ucnam
 	url = git@github.com:UCloudDoc-Team/ucnam.git
+[submodule "epc"]
+	path = epc
+	url = git@github.com:UCloudDoc-Team/epc.git
