@@ -365,3 +365,9 @@
 [submodule "epc"]
 	path = epc
 	url = git@github.com:UCloudDoc-Team/epc.git
+[submodule "globalssh"]
+	path = globalssh
+	url = git@github.com:UCloudDoc-Team/globalssh.git
+[submodule "globalrdp"]
+	path = globalrdp
+	url = git@github.com:UCloudDoc-Team/globalrdp.git
