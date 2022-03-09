@@ -371,3 +371,6 @@
 [submodule "globalrdp"]
 	path = globalrdp
 	url = git@github.com:UCloudDoc-Team/globalrdp.git
+[submodule "uslk"]
+	path = uslk
+	url = git@github.com:UCloudDoc-Team/uslk.git
