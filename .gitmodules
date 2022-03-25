@@ -374,3 +374,6 @@
 [submodule "uslk"]
 	path = uslk
 	url = git@github.com:UCloudDoc-Team/uslk.git
+[submodule "uvms"]
+	path = uvms
+	url = git@github.com:UCloudDoc-Team/uvms.git
