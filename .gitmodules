@@ -280,9 +280,6 @@
 [submodule "cloudshell"]
 	path = cloudshell
 	url = git@github.com:UCloudDoc-Team/cloudshell.git
-[submodule "ucgs"]
-	path = ucgs
-	url = git@github.com:UCloudDoc-Team/ucgs.git
 [submodule "usmc"]
 	path = usmc
 	url = git@github.com:UCloudDoc-Team/usmc.git
