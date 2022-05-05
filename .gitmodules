@@ -377,3 +377,6 @@
 [submodule "ugame"]
 	path = ugame
 	url = git@github.com:UCloudDoc-Team/ugame.git
+[submodule "app_legal_agreement"]
+	path = app_legal_agreement
+	url = git@github.com:UCloudDoc-Team/app_legal_agreement.git
