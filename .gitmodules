@@ -380,3 +380,6 @@
 [submodule "app_legal_agreement"]
 	path = app_legal_agreement
 	url = git@github.com:UCloudDoc-Team/app_legal_agreement.git
+[submodule "mongodb_nvme"]
+	path = mongodb_nvme
+	url = git@github.com:UCloudDoc-Team/mongodb_nvme.git
