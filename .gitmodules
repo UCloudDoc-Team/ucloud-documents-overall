@@ -383,3 +383,6 @@
 [submodule "mongodb_nvme"]
 	path = mongodb_nvme
 	url = git@github.com:UCloudDoc-Team/mongodb_nvme.git
+[submodule "httpdns"]
+	path = httpdns
+	url = git@github.com:UCloudDoc-Team/httpdns.git
