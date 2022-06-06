@@ -386,3 +386,6 @@
 [submodule "httpdns"]
 	path = httpdns
 	url = git@github.com:UCloudDoc-Team/httpdns.git
+[submodule "pathlive"]
+	path = pathlive
+	url = git@github.com:UCloudDoc-Team/pathlive.git
