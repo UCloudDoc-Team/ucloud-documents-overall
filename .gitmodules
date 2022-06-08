@@ -389,3 +389,6 @@
 [submodule "pathlive"]
 	path = pathlive
 	url = git@github.com:UCloudDoc-Team/pathlive.git
+[submodule "udoris"]
+	path = udoris
+	url = git@github.com:UCloudDoc-Team/udoris.git
