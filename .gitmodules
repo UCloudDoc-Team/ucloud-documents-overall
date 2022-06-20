@@ -392,3 +392,6 @@
 [submodule "udoris"]
 	path = udoris
 	url = git@github.com:UCloudDoc-Team/udoris.git
+[submodule "common-docs"]
+	path = common-docs
+	url = git@github.com:UCloudDoc-Team/common-docs.git
