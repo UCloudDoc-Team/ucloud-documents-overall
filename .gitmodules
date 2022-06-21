@@ -395,3 +395,6 @@
 [submodule "common-docs"]
 	path = common-docs
 	url = git@github.com:UCloudDoc-Team/common-docs.git
+[submodule "uphone-server"]
+	path = uphone-server
+	url = git@github.com:UCloudDoc-Team/uphone-server.git
