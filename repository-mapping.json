@@ -50,5 +50,6 @@
 "hpc_uhost":"/epc/README",
 "ucgs":"/ugame/README",
 "uol":"/pathlive/README",
- "uphone_retail":"/uphone/README"
+ "uphone_retail":"/uphone/README",
+ "uphone":"/uphone_serve/README"
 }
