@@ -395,3 +395,6 @@
 [submodule "uphone-server"]
 	path = uphone-server
 	url = git@github.com:UCloudDoc-Team/uphone-server.git
+[submodule "upgsql"]
+	path = upgsql
+	url = git@github.com:UCloudDoc-Team/upgsql.git
