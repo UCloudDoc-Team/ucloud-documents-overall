@@ -1,5 +1,3 @@
 {
-    "specialRepository":["api","usdpdc","UCloudStack", "usdp_community", "UCloudStor", "UCloudStack_v2.x"],
-    "usdpdc":["1.0.x","2.0.x","arm_2.0.x"],
-    "UCloudStack_v2.x":["adminguide"]
+    "specialRepository":["api","usdpdc","UCloudStack", "usdp_community", "UCloudStor", "UCloudStack_v2.x"]
 }
