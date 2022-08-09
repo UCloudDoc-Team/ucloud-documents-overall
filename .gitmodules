@@ -401,3 +401,9 @@
 [submodule "products_compared"]
 	path = products_compared
 	url = git@github.com:UCloudDoc-Team/products_compared.git
+[submodule "data_classification"]
+	path = data_classification
+	url = git@github.com:UCloudDoc-Team/data_classification.git
+[submodule "data_masking"]
+	path = data_masking
+	url = git@github.com:UCloudDoc-Team/data_masking.git
