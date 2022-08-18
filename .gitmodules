@@ -247,9 +247,6 @@
 [submodule "utsdb"]
 	path = utsdb
 	url = git@github.com:UCloudDoc-Team/utsdb.git
-[submodule "uas"]
-	path = uas
-	url = git@github.com:UCloudDoc-Team/uas.git
 [submodule "umqa"]
 	path = umqa
 	url = git@github.com:UCloudDoc-Team/umqa.git
