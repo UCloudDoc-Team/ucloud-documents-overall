@@ -48,5 +48,9 @@
 "uads":"/uantiddos/README",
 "usdp":"/USDP/README",
 "hpc_uhost":"/epc/README",
-"ucgs":"/ugame/README"
+"ucgs":"/ugame/README",
+"uol":"/pathlive/README",
+ "uphone_retail":"/uphone/README",
+ "uphone":"/uphone-server/README",
+ "vpc_uni":"/vpc/guide/uni"
 }
