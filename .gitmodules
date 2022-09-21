@@ -404,3 +404,6 @@
 [submodule "data_masking"]
 	path = data_masking
 	url = git@github.com:UCloudDoc-Team/data_masking.git
+[submodule "udb_proxy"]
+	path = udb_proxy
+	url = git@github.com:UCloudDoc-Team/udb_proxy.git
