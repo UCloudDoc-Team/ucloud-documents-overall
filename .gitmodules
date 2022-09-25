@@ -115,9 +115,6 @@
 [submodule "uai-train"]
 	path = uai-train
 	url = git@github.com:UCloudDoc-Team/uai-train.git
-[submodule "uai-censor"]
-	path = uai-censor
-	url = git@github.com:UCloudDoc-Team/uai-censor.git
 [submodule "uhadoop"]
 	path = uhadoop
 	url = git@github.com:UCloudDoc-Team/uhadoop.git
@@ -253,9 +250,6 @@
 [submodule "iam"]
 	path = iam
 	url = git@github.com:UCloudDoc-Team/iam.git
-[submodule "UCloudStack"]
-	path = UCloudStack
-	url = git@github.com:UCloudDoc-Team/UCloudStack.git
 [submodule "uiot-edge"]
 	path = uiot-edge
 	url = git@github.com:UCloudDoc-Team/uiot-edge.git
@@ -292,9 +286,6 @@
 [submodule "uxzone"]
 	path = uxzone
 	url = git@github.com:UCloudDoc-Team/uxzone.git
-[submodule "uiot-test"]
-	path = uiot-test
-	url = git@github.com:UCloudDoc-Team/uiot-test.git
 [submodule "us3"]
 	path = us3
 	url = git@github.com:UCloudDoc-Team/us3.git
@@ -346,7 +337,6 @@
 [submodule "unvs"]
 	path = unvs
 	url = git@github.com:UCloudDoc-Team/unvs.git
-
 [submodule "UBox"]
 	path = UBox
 	url = git@github.com:UCloudDoc-Team/UBox.git
@@ -395,9 +385,6 @@
 [submodule "upgsql"]
 	path = upgsql
 	url = git@github.com:UCloudDoc-Team/upgsql.git
-[submodule "products_compared"]
-	path = products_compared
-	url = git@github.com:UCloudDoc-Team/products_compared.git
 [submodule "data_classification"]
 	path = data_classification
 	url = git@github.com:UCloudDoc-Team/data_classification.git
