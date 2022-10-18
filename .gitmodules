@@ -394,3 +394,9 @@
 [submodule "udb_proxy"]
 	path = udb_proxy
 	url = git@github.com:UCloudDoc-Team/udb_proxy.git
+[submodule "UCloudStack"]
+	path = UCloudStack
+	url = git@github.com:UCloudDoc-Team/UCloudStack.git
+[submodule "inner-repository_uclouddocs"]
+	path = inner-repository_uclouddocs
+	url = git@github.com:UCloudDoc-Team/inner-repository_uclouddocs.git
