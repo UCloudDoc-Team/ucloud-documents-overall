@@ -397,3 +397,6 @@
 [submodule "inner-repository_uclouddocs"]
 	path = inner-repository_uclouddocs
 	url = git@github.com:UCloudDoc-Team/inner-repository_uclouddocs.git
+[submodule "UCloudStack"]
+	path = UCloudStack
+	url = git@github.com:UCloudDoc-Team/UCloudStack.git
