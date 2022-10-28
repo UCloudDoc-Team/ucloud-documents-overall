@@ -400,3 +400,6 @@
 [submodule "UCloudStack"]
 	path = UCloudStack
 	url = git@github.com:UCloudDoc-Team/UCloudStack.git
+[submodule "ugn"]
+	path = ugn
+	url = git@github.com:UCloudDoc-Team/ugn.git
