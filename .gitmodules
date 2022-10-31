@@ -403,3 +403,6 @@
 [submodule "ugn"]
 	path = ugn
 	url = git@github.com:UCloudDoc-Team/ugn.git
+[submodule "crossborder"]
+	path = crossborder
+	url = git@github.com:UCloudDoc-Team/crossborder.git
