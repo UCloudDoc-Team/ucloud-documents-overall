@@ -109,12 +109,6 @@
 [submodule "gpu"]
 	path = gpu
 	url = git@github.com:UCloudDoc-Team/gpu.git
-[submodule "uai-inference"]
-	path = uai-inference
-	url = git@github.com:UCloudDoc-Team/uai-inference.git
-[submodule "uai-train"]
-	path = uai-train
-	url = git@github.com:UCloudDoc-Team/uai-train.git
 [submodule "uhadoop"]
 	path = uhadoop
 	url = git@github.com:UCloudDoc-Team/uhadoop.git
