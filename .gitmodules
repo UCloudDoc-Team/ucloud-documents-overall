@@ -400,6 +400,3 @@
 [submodule "crossborder"]
 	path = crossborder
 	url = git@github.com:UCloudDoc-Team/crossborder.git
-[submodule "urm"]
-	path = urm
-	url = git@github.com:UCloudDoc-Team/urm.git
