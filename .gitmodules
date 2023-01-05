@@ -298,9 +298,6 @@
 [submodule "UCloudStor"]
 	path = UCloudStor
 	url = git@github.com:UCloudDoc-Team/UCloudStor.git
-[submodule "plive"]
-	path = plive
-	url = git@github.com:UCloudDoc-Team/plive.git
 [submodule "usdp_community"]
 	path = usdp_community
 	url = git@github.com:UCloudDoc-Team/usdp_community.git
