@@ -33,6 +33,7 @@
 "acct_reminder":"/remind/README",
 "acct_signin":"/login/README",
 "acct_security":"/security/README",
+"urmp":"/urm/migration_rules",
 "uam":"/uproject/README",
 "bill_transaction":"/transaction/README",
 "bill_order":"/order/README",
