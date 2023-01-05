@@ -328,9 +328,6 @@
 [submodule "unvs"]
 	path = unvs
 	url = git@github.com:UCloudDoc-Team/unvs.git
-[submodule "UBox"]
-	path = UBox
-	url = git@github.com:UCloudDoc-Team/UBox.git
 [submodule "ucnam"]
 	path = ucnam
 	url = git@github.com:UCloudDoc-Team/ucnam.git
