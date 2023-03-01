@@ -256,9 +256,6 @@
 [submodule "usnap"]
 	path = usnap
 	url = git@github.com:UCloudDoc-Team/usnap.git
-[submodule "uws"]
-	path = uws
-	url = git@github.com:UCloudDoc-Team/uws.git
 [submodule "cloudshell"]
 	path = cloudshell
 	url = git@github.com:UCloudDoc-Team/cloudshell.git
