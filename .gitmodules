@@ -301,9 +301,6 @@
 [submodule "opensdk-php"]
 	path = opensdk-php
 	url = git@github.com:UCloudDoc-Team/opensdk-php.git
-[submodule "uiw"]
-	path = uiw
-	url = git@github.com:UCloudDoc-Team/uiw.git
 [submodule "cdk"]
 	path = cdk
 	url = git@github.com:UCloudDoc-Team/cdk.git
