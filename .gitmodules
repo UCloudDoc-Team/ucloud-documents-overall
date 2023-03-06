@@ -391,3 +391,6 @@
 [submodule "urm"]
 	path = urm
 	url = git@github.com:UCloudDoc-Team/urm.git
+[submodule "trafficpackage"]
+	path = trafficpackage
+	url = git@github.com:UCloudDoc-Team/trafficpackage.git
