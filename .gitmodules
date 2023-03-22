@@ -31,9 +31,6 @@
 [submodule "ipsec"]
 	path = ipsec
 	url = git@github.com:UCloudDoc-Team/ipsec.git
-[submodule "roma"]
-	path = roma
-	url = git@github.com:UCloudDoc-Team/roma.git
 [submodule "ulb"]
 	path = ulb
 	url = git@github.com:UCloudDoc-Team/ulb.git
