@@ -388,3 +388,6 @@
 [submodule "trafficpackage"]
 	path = trafficpackage
 	url = git@github.com:UCloudDoc-Team/trafficpackage.git
+[submodule "cube"]
+	path = cube
+	url = git@github.com:UCloudDoc-Team/cube.git
