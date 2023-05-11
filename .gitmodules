@@ -391,3 +391,6 @@
 [submodule "cube"]
 	path = cube
 	url = git@github.com:UCloudDoc-Team/cube.git
+[submodule "ulhost"]
+	path = ulhost
+	url = git@github.com:UCloudDoc-Team/ulhost.git
