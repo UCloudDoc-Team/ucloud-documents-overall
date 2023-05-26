@@ -256,9 +256,6 @@
 [submodule "usmc"]
 	path = usmc
 	url = git@github.com:UCloudDoc-Team/usmc.git
-[submodule "USDP"]
-	path = USDP
-	url = git@github.com:UCloudDoc-Team/USDP.git
 [submodule "uedn-docker"]
 	path = uedn-docker
 	url = git@github.com:UCloudDoc-Team/uedn-docker.git
