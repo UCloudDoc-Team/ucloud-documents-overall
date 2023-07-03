@@ -388,3 +388,6 @@
 [submodule "ulhost"]
 	path = ulhost
 	url = git@github.com:UCloudDoc-Team/ulhost.git
+[submodule "undt"]
+	path = undt
+	url = git@github.com:UCloudDoc-Team/undt.git
