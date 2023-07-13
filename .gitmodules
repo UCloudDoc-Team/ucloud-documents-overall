@@ -268,9 +268,6 @@
 [submodule "uxzone"]
 	path = uxzone
 	url = git@github.com:UCloudDoc-Team/uxzone.git
-[submodule "us3"]
-	path = us3
-	url = git@github.com:UCloudDoc-Team/us3.git
 [submodule "rocketmq"]
 	path = rocketmq
 	url = git@github.com:UCloudDoc-Team/rocketmq.git
