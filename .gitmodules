@@ -388,3 +388,6 @@
 [submodule "undt"]
 	path = undt
 	url = git@github.com:UCloudDoc-Team/undt.git
+[submodule "uwan"]
+	path = uwan
+	url = git@github.com:UCloudDoc-Team/uwan.git
