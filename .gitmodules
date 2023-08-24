@@ -118,9 +118,6 @@
 [submodule "ukafka"]
 	path = ukafka
 	url = git@github.com:UCloudDoc-Team/ukafka.git
-[submodule "usql"]
-	path = usql
-	url = git@github.com:UCloudDoc-Team/usql.git
 [submodule "uflink"]
 	path = uflink
 	url = git@github.com:UCloudDoc-Team/uflink.git
