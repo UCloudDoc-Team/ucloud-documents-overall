@@ -253,9 +253,6 @@
 [submodule "usmc"]
 	path = usmc
 	url = git@github.com:UCloudDoc-Team/usmc.git
-[submodule "uedn-docker"]
-	path = uedn-docker
-	url = git@github.com:UCloudDoc-Team/uedn-docker.git
 [submodule "uiot-stack"]
 	path = uiot-stack
 	url = git@github.com:UCloudDoc-Team/uiot-stack.git
