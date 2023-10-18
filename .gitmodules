@@ -385,3 +385,6 @@
 [submodule "modelverse"]
 	path = modelverse
 	url = git@github.com:UCloudDoc-Team/modelverse.git
+[submodule "uas"]
+	path = uas
+	url = git@github.com:UCloudDoc-Team/uas.git
