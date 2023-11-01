@@ -388,3 +388,6 @@
 [submodule "uas"]
 	path = uas
 	url = git@github.com:UCloudDoc-Team/uas.git
+[submodule "label"]
+	path = label
+	url = git@github.com:UCloudDoc-Team/label.git
