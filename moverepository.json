@@ -1,7 +1,7 @@
 {
     "repositorys": [
         {
-            "type": "delete",
+            "type": "delet",
             "repository": "uedn-docker"
         }
     ]
