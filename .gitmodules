@@ -256,9 +256,6 @@
 [submodule "uiot-stack"]
 	path = uiot-stack
 	url = git@github.com:UCloudDoc-Team/uiot-stack.git
-[submodule "usdpdc"]
-	path = usdpdc
-	url = git@github.com:UCloudDoc-Team/usdpdc.git
 [submodule "uxzone"]
 	path = uxzone
 	url = git@github.com:UCloudDoc-Team/uxzone.git
