@@ -388,3 +388,6 @@
 [submodule "label"]
 	path = label
 	url = https://github.com/UCloudDoc-Team/label.git
+[submodule "boundless-gateway"]
+	path = boundless-gateway
+	url = https://github.com/UCloudDoc-Team/boundless-gateway.git
