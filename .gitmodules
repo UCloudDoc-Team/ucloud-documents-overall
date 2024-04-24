@@ -391,3 +391,6 @@
 [submodule "boundless-gateway"]
 	path = boundless-gateway
 	url = https://github.com/UCloudDoc-Team/boundless-gateway.git
+[submodule "upfs"]
+	path = upfs
+	url = https://github.com/UCloudDoc-Team/upfs.git
