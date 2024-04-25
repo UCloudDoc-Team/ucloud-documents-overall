@@ -394,3 +394,6 @@
 [submodule "upfs"]
 	path = upfs
 	url = https://github.com/UCloudDoc-Team/upfs.git
+[submodule "udac"]
+	path = udac
+	url = https://github.com/UCloudDoc-Team/udac.git
