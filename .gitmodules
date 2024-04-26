@@ -398,3 +398,6 @@
 	path = udac
 	url = https://github.com/UCloudDoc-Team/udac.git
 
+[submodule "ulogservice"]
+	path = ulogservice
+	url = https://github.com/UCloudDoc-Team/ulogservice.git
