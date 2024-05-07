@@ -398,3 +398,6 @@
 [submodule "ulogservice"]
 	path = ulogservice
 	url = https://github.com/UCloudDoc-Team/ulogservice.git
+[submodule "ureach"]
+	path = ureach
+	url = https://github.com/UCloudDoc-Team/ureach.git
