@@ -401,6 +401,3 @@
 [submodule "ureach"]
 	path = ureach
 	url = https://github.com/UCloudDoc-Team/ureach.git
-[submodule "relyt"]
-	path = relyt
-	url = https://github.com/UCloudDoc-Team/relyt.git
