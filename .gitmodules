@@ -401,3 +401,6 @@
 [submodule "ureach"]
 	path = ureach
 	url = https://github.com/UCloudDoc-Team/ureach.git
+[submodule "maxir"]
+	path = maxir
+	url = https://github.com/UCloudDoc-Team/maxir.git
