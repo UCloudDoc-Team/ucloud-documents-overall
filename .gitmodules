@@ -404,3 +404,6 @@
 [submodule "maxir"]
 	path = maxir
 	url = https://github.com/UCloudDoc-Team/maxir.git
+[submodule "umarketplace"]
+	path = umarketplace
+	url = https://github.com/UCloudDoc-Team/umarketplace.git
