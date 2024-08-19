@@ -407,3 +407,6 @@
 [submodule "umarketplace"]
 	path = umarketplace
 	url = https://github.com/UCloudDoc-Team/umarketplace.git
+[submodule "privatelink"]
+	path = privatelink
+	url = https://github.com/UCloudDoc-Team/privatelink.git
