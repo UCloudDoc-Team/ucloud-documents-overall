@@ -407,3 +407,6 @@
 [submodule "udb_proxy"]
 	path = udb_proxy
 	url = git@github.com:UCloudDoc-Team/udb_proxy.git
+[submodule "uaaa"]
+	path = uaaa
+	url = https://github.com/UCloudDoc-Team/uaaa.git
