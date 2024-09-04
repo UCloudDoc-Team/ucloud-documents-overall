@@ -1,412 +1,419 @@
 [submodule "uhost"]
 	path = uhost
-	url = git@github.com:UCloudDoc-Team/uhost.git
+	url = https://github.com/UCloudDoc-Team/uhost.git
 [submodule "uphost"]
 	path = uphost
-	url = git@github.com:UCloudDoc-Team/uphost.git
+	url = https://github.com/UCloudDoc-Team/uphost.git
 [submodule "udhost"]
 	path = udhost
-	url = git@github.com:UCloudDoc-Team/udhost.git
+	url = https://github.com/UCloudDoc-Team/udhost.git
 [submodule "uhub"]
 	path = uhub
-	url = git@github.com:UCloudDoc-Team/uhub.git
+	url = https://github.com/UCloudDoc-Team/uhub.git
 [submodule "uk8s"]
 	path = uk8s
-	url = git@github.com:UCloudDoc-Team/uk8s.git
+	url = https://github.com/UCloudDoc-Team/uk8s.git
 [submodule "terraform"]
 	path = terraform
-	url = git@github.com:UCloudDoc-Team/terraform.git
+	url = https://github.com/UCloudDoc-Team/terraform.git
 [submodule "unet"]
 	path = unet
-	url = git@github.com:UCloudDoc-Team/unet.git
+	url = https://github.com/UCloudDoc-Team/unet.git
 [submodule "vpc"]
 	path = vpc
-	url = git@github.com:UCloudDoc-Team/vpc.git
+	url = https://github.com/UCloudDoc-Team/vpc.git
 [submodule "udpn"]
 	path = udpn
-	url = git@github.com:UCloudDoc-Team/udpn.git
+	url = https://github.com/UCloudDoc-Team/udpn.git
 [submodule "pathx"]
 	path = pathx
-	url = git@github.com:UCloudDoc-Team/pathx.git
+	url = https://github.com/UCloudDoc-Team/pathx.git
 [submodule "ipsec"]
 	path = ipsec
-	url = git@github.com:UCloudDoc-Team/ipsec.git
-[submodule "roma"]
-	path = roma
-	url = git@github.com:UCloudDoc-Team/roma.git
+	url = https://github.com/UCloudDoc-Team/ipsec.git
 [submodule "ulb"]
 	path = ulb
-	url = git@github.com:UCloudDoc-Team/ulb.git
+	url = https://github.com/UCloudDoc-Team/ulb.git
 [submodule "udisk"]
 	path = udisk
-	url = git@github.com:UCloudDoc-Team/udisk.git
+	url = https://github.com/UCloudDoc-Team/udisk.git
 [submodule "ufile"]
 	path = ufile
-	url = git@github.com:UCloudDoc-Team/ufile.git
+	url = https://github.com/UCloudDoc-Team/ufile.git
 [submodule "uda"]
 	path = uda
-	url = git@github.com:UCloudDoc-Team/uda.git
+	url = https://github.com/UCloudDoc-Team/uda.git
 [submodule "ufs"]
 	path = ufs
-	url = git@github.com:UCloudDoc-Team/ufs.git
+	url = https://github.com/UCloudDoc-Team/ufs.git
 [submodule "udb-mysql"]
 	path = udb-mysql
-	url = git@github.com:UCloudDoc-Team/udb-mysql.git
+	url = https://github.com/UCloudDoc-Team/udb-mysql.git
 [submodule "udb-mongodb"]
 	path = udb-mongodb
-	url = git@github.com:UCloudDoc-Team/udb-mongodb.git
+	url = https://github.com/UCloudDoc-Team/udb-mongodb.git
 [submodule "udb-pgsql"]
 	path = udb-pgsql
-	url = git@github.com:UCloudDoc-Team/udb-pgsql.git
+	url = https://github.com/UCloudDoc-Team/udb-pgsql.git
 [submodule "udb-sqlserver"]
 	path = udb-sqlserver
-	url = git@github.com:UCloudDoc-Team/udb-sqlserver.git
+	url = https://github.com/UCloudDoc-Team/udb-sqlserver.git
 [submodule "umem"]
 	path = umem
-	url = git@github.com:UCloudDoc-Team/umem.git
+	url = https://github.com/UCloudDoc-Team/umem.git
 [submodule "uredis"]
 	path = uredis
-	url = git@github.com:UCloudDoc-Team/uredis.git
+	url = https://github.com/UCloudDoc-Team/uredis.git
 [submodule "uddb"]
 	path = uddb
-	url = git@github.com:UCloudDoc-Team/uddb.git
+	url = https://github.com/UCloudDoc-Team/uddb.git
 [submodule "ucdn"]
 	path = ucdn
-	url = git@github.com:UCloudDoc-Team/ucdn.git
+	url = https://github.com/UCloudDoc-Team/ucdn.git
 [submodule "uedn"]
 	path = uedn
-	url = git@github.com:UCloudDoc-Team/uedn.git
+	url = https://github.com/UCloudDoc-Team/uedn.git
 [submodule "umedia"]
 	path = umedia
-	url = git@github.com:UCloudDoc-Team/umedia.git
+	url = https://github.com/UCloudDoc-Team/umedia.git
 [submodule "urtc"]
 	path = urtc
-	url = git@github.com:UCloudDoc-Team/urtc.git
+	url = https://github.com/UCloudDoc-Team/urtc.git
 [submodule "ulive"]
 	path = ulive
-	url = git@github.com:UCloudDoc-Team/ulive.git
+	url = https://github.com/UCloudDoc-Team/ulive.git
 [submodule "usa"]
 	path = usa
-	url = git@github.com:UCloudDoc-Team/usa.git
+	url = https://github.com/UCloudDoc-Team/usa.git
 [submodule "uantiddos"]
 	path = uantiddos
-	url = git@github.com:UCloudDoc-Team/uantiddos.git
+	url = https://github.com/UCloudDoc-Team/uantiddos.git
 [submodule "uhids"]
 	path = uhids
-	url = git@github.com:UCloudDoc-Team/uhids.git
+	url = https://github.com/UCloudDoc-Team/uhids.git
 [submodule "uhas"]
 	path = uhas
-	url = git@github.com:UCloudDoc-Team/uhas.git
+	url = https://github.com/UCloudDoc-Team/uhas.git
 [submodule "uewaf"]
 	path = uewaf
-	url = git@github.com:UCloudDoc-Team/uewaf.git
+	url = https://github.com/UCloudDoc-Team/uewaf.git
 [submodule "udas"]
 	path = udas
-	url = git@github.com:UCloudDoc-Team/udas.git
+	url = https://github.com/UCloudDoc-Team/udas.git
 [submodule "udbcp"]
 	path = udbcp
-	url = git@github.com:UCloudDoc-Team/udbcp.git
+	url = https://github.com/UCloudDoc-Team/udbcp.git
 [submodule "gpu"]
 	path = gpu
-	url = git@github.com:UCloudDoc-Team/gpu.git
-[submodule "uai-inference"]
-	path = uai-inference
-	url = git@github.com:UCloudDoc-Team/uai-inference.git
-[submodule "uai-train"]
-	path = uai-train
-	url = git@github.com:UCloudDoc-Team/uai-train.git
-[submodule "uai-censor"]
-	path = uai-censor
-	url = git@github.com:UCloudDoc-Team/uai-censor.git
+	url = https://github.com/UCloudDoc-Team/gpu.git
 [submodule "uhadoop"]
 	path = uhadoop
-	url = git@github.com:UCloudDoc-Team/uhadoop.git
+	url = https://github.com/UCloudDoc-Team/uhadoop.git
 [submodule "ues"]
 	path = ues
-	url = git@github.com:UCloudDoc-Team/ues.git
+	url = https://github.com/UCloudDoc-Team/ues.git
 [submodule "udw"]
 	path = udw
-	url = git@github.com:UCloudDoc-Team/udw.git
+	url = https://github.com/UCloudDoc-Team/udw.git
 [submodule "ukafka"]
 	path = ukafka
-	url = git@github.com:UCloudDoc-Team/ukafka.git
-[submodule "usql"]
-	path = usql
-	url = git@github.com:UCloudDoc-Team/usql.git
+	url = https://github.com/UCloudDoc-Team/ukafka.git
 [submodule "uflink"]
 	path = uflink
-	url = git@github.com:UCloudDoc-Team/uflink.git
+	url = https://github.com/UCloudDoc-Team/uflink.git
 [submodule "uiot-core"]
 	path = uiot-core
-	url = git@github.com:UCloudDoc-Team/uiot-core.git
+	url = https://github.com/UCloudDoc-Team/uiot-core.git
 [submodule "register"]
 	path = register
-	url = git@github.com:UCloudDoc-Team/register.git
+	url = https://github.com/UCloudDoc-Team/register.git
 [submodule "identity_verification"]
 	path = identity_verification
-	url = git@github.com:UCloudDoc-Team/identity_verification.git
+	url = https://github.com/UCloudDoc-Team/identity_verification.git
 [submodule "remind"]
 	path = remind
-	url = git@github.com:UCloudDoc-Team/remind.git
+	url = https://github.com/UCloudDoc-Team/remind.git
 [submodule "login"]
 	path = login
-	url = git@github.com:UCloudDoc-Team/login.git
+	url = https://github.com/UCloudDoc-Team/login.git
 [submodule "security"]
 	path = security
-	url = git@github.com:UCloudDoc-Team/security.git
+	url = https://github.com/UCloudDoc-Team/security.git
 [submodule "stepflow"]
 	path = stepflow
-	url = git@github.com:UCloudDoc-Team/stepflow.git
+	url = https://github.com/UCloudDoc-Team/stepflow.git
 [submodule "usms"]
 	path = usms
-	url = git@github.com:UCloudDoc-Team/usms.git
+	url = https://github.com/UCloudDoc-Team/usms.git
 [submodule "utoken"]
 	path = utoken
-	url = git@github.com:UCloudDoc-Team/utoken.git
+	url = https://github.com/UCloudDoc-Team/utoken.git
 [submodule "umon"]
 	path = umon
-	url = git@github.com:UCloudDoc-Team/umon.git
+	url = https://github.com/UCloudDoc-Team/umon.git
 [submodule "security_lock"]
 	path = security_lock
-	url = git@github.com:UCloudDoc-Team/security_lock.git
+	url = https://github.com/UCloudDoc-Team/security_lock.git
 [submodule "manage"]
 	path = manage
-	url = git@github.com:UCloudDoc-Team/manage.git
+	url = https://github.com/UCloudDoc-Team/manage.git
 [submodule "uproject"]
 	path = uproject
-	url = git@github.com:UCloudDoc-Team/uproject.git
+	url = https://github.com/UCloudDoc-Team/uproject.git
 [submodule "uops"]
 	path = uops
-	url = git@github.com:UCloudDoc-Team/uops.git
+	url = https://github.com/UCloudDoc-Team/uops.git
 [submodule "renew"]
 	path = renew
-	url = git@github.com:UCloudDoc-Team/renew.git
+	url = https://github.com/UCloudDoc-Team/renew.git
 [submodule "transaction"]
 	path = transaction
-	url = git@github.com:UCloudDoc-Team/transaction.git
+	url = https://github.com/UCloudDoc-Team/transaction.git
 [submodule "invoice"]
 	path = invoice
-	url = git@github.com:UCloudDoc-Team/invoice.git
+	url = https://github.com/UCloudDoc-Team/invoice.git
 [submodule "bill"]
 	path = bill
-	url = git@github.com:UCloudDoc-Team/bill.git
+	url = https://github.com/UCloudDoc-Team/bill.git
 [submodule "order"]
 	path = order
-	url = git@github.com:UCloudDoc-Team/order.git
+	url = https://github.com/UCloudDoc-Team/order.git
 [submodule "contract"]
 	path = contract
-	url = git@github.com:UCloudDoc-Team/contract.git
+	url = https://github.com/UCloudDoc-Team/contract.git
 [submodule "charge"]
 	path = charge
-	url = git@github.com:UCloudDoc-Team/charge.git
+	url = https://github.com/UCloudDoc-Team/charge.git
 [submodule "beian1"]
 	path = beian1
-	url = git@github.com:UCloudDoc-Team/beian1.git
+	url = https://github.com/UCloudDoc-Team/beian1.git
 [submodule "cli"]
 	path = cli
-	url = git@github.com:UCloudDoc-Team/cli.git
+	url = https://github.com/UCloudDoc-Team/cli.git
 [submodule "udnr"]
 	path = udnr
-	url = git@github.com:UCloudDoc-Team/udnr.git
+	url = https://github.com/UCloudDoc-Team/udnr.git
 [submodule "ussl"]
 	path = ussl
-	url = git@github.com:UCloudDoc-Team/ussl.git
+	url = https://github.com/UCloudDoc-Team/ussl.git
 [submodule "agreement"]
 	path = agreement
-	url = git@github.com:UCloudDoc-Team/agreement.git
+	url = https://github.com/UCloudDoc-Team/agreement.git
 [submodule "sla"]
 	path = sla
-	url = git@github.com:UCloudDoc-Team/sla.git
+	url = https://github.com/UCloudDoc-Team/sla.git
 [submodule "uapigateway"]
 	path = uapigateway
-	url = git@github.com:UCloudDoc-Team/uapigateway.git
+	url = https://github.com/UCloudDoc-Team/uapigateway.git
 [submodule "anycasteip"]
 	path = anycasteip
-	url = git@github.com:UCloudDoc-Team/anycasteip.git
+	url = https://github.com/UCloudDoc-Team/anycasteip.git
 [submodule "tidb"]
 	path = tidb
-	url = git@github.com:UCloudDoc-Team/tidb.git
+	url = https://github.com/UCloudDoc-Team/tidb.git
 [submodule "uapi"]
 	path = uapi
-	url = git@github.com:UCloudDoc-Team/uapi.git
+	url = https://github.com/UCloudDoc-Team/uapi.git
 [submodule "udts"]
 	path = udts
-	url = git@github.com:UCloudDoc-Team/udts.git
+	url = https://github.com/UCloudDoc-Team/udts.git
 [submodule "opensdk-java"]
 	path = opensdk-java
-	url = git@github.com:UCloudDoc-Team/opensdk-java.git
+	url = https://github.com/UCloudDoc-Team/opensdk-java.git
 [submodule "opensdk-go"]
 	path = opensdk-go
-	url = git@github.com:UCloudDoc-Team/opensdk-go.git
+	url = https://github.com/UCloudDoc-Team/opensdk-go.git
 [submodule "opensdk-python"]
 	path = opensdk-python
-	url = git@github.com:UCloudDoc-Team/opensdk-python.git
+	url = https://github.com/UCloudDoc-Team/opensdk-python.git
 [submodule "api"]
 	path = api
-	url = git@github.com:UCloudDoc-Team/api.git
+	url = https://github.com/UCloudDoc-Team/api.git
 [submodule "utsdb"]
 	path = utsdb
-	url = git@github.com:UCloudDoc-Team/utsdb.git
-[submodule "umqa"]
-	path = umqa
-	url = git@github.com:UCloudDoc-Team/umqa.git
+	url = https://github.com/UCloudDoc-Team/utsdb.git
 [submodule "iam"]
 	path = iam
-	url = git@github.com:UCloudDoc-Team/iam.git
-[submodule "UCloudStack"]
-	path = UCloudStack
-	url = git@github.com:UCloudDoc-Team/UCloudStack.git
+	url = https://github.com/UCloudDoc-Team/iam.git
 [submodule "uiot-edge"]
 	path = uiot-edge
-	url = git@github.com:UCloudDoc-Team/uiot-edge.git
+	url = https://github.com/UCloudDoc-Team/uiot-edge.git
 [submodule "uhybrid2.0"]
 	path = uhybrid2.0
-	url = git@github.com:UCloudDoc-Team/uhybrid2.0.git
+	url = https://github.com/UCloudDoc-Team/uhybrid2.0.git
 [submodule "udns"]
 	path = udns
-	url = git@github.com:UCloudDoc-Team/udns.git
+	url = https://github.com/UCloudDoc-Team/udns.git
 [submodule "usnap"]
 	path = usnap
-	url = git@github.com:UCloudDoc-Team/usnap.git
-[submodule "uws"]
-	path = uws
-	url = git@github.com:UCloudDoc-Team/uws.git
+	url = https://github.com/UCloudDoc-Team/usnap.git
 [submodule "cloudshell"]
 	path = cloudshell
-	url = git@github.com:UCloudDoc-Team/cloudshell.git
+	url = https://github.com/UCloudDoc-Team/cloudshell.git
 [submodule "usmc"]
 	path = usmc
-	url = git@github.com:UCloudDoc-Team/usmc.git
-[submodule "USDP"]
-	path = USDP
-	url = git@github.com:UCloudDoc-Team/USDP.git
-[submodule "uedn-docker"]
-	path = uedn-docker
-	url = git@github.com:UCloudDoc-Team/uedn-docker.git
+	url = https://github.com/UCloudDoc-Team/usmc.git
 [submodule "uiot-stack"]
 	path = uiot-stack
-	url = git@github.com:UCloudDoc-Team/uiot-stack.git
-[submodule "usdpdc"]
-	path = usdpdc
-	url = git@github.com:UCloudDoc-Team/usdpdc.git
+	url = https://github.com/UCloudDoc-Team/uiot-stack.git
 [submodule "uxzone"]
 	path = uxzone
-	url = git@github.com:UCloudDoc-Team/uxzone.git
-[submodule "uiot-test"]
-	path = uiot-test
-	url = git@github.com:UCloudDoc-Team/uiot-test.git
-[submodule "us3"]
-	path = us3
-	url = git@github.com:UCloudDoc-Team/us3.git
+	url = https://github.com/UCloudDoc-Team/uxzone.git
 [submodule "rocketmq"]
 	path = rocketmq
-	url = git@github.com:UCloudDoc-Team/rocketmq.git
+	url = https://github.com/UCloudDoc-Team/rocketmq.git
 [submodule "isms"]
 	path = isms
-	url = git@github.com:UCloudDoc-Team/isms.git
+	url = https://github.com/UCloudDoc-Team/isms.git
 [submodule "uclickhouse"]
 	path = uclickhouse
-	url = git@github.com:UCloudDoc-Team/uclickhouse.git
+	url = https://github.com/UCloudDoc-Team/uclickhouse.git
 [submodule "ucmp"]
 	path = ucmp
-	url = git@github.com:UCloudDoc-Team/ucmp.git
+	url = https://github.com/UCloudDoc-Team/ucmp.git
 [submodule "UCloudStor"]
 	path = UCloudStor
-	url = git@github.com:UCloudDoc-Team/UCloudStor.git
-[submodule "plive"]
-	path = plive
-	url = git@github.com:UCloudDoc-Team/plive.git
-[submodule "usdp_community"]
-	path = usdp_community
-	url = git@github.com:UCloudDoc-Team/usdp_community.git
+	url = https://github.com/UCloudDoc-Team/UCloudStor.git
 [submodule "opensdk-php"]
 	path = opensdk-php
-	url = git@github.com:UCloudDoc-Team/opensdk-php.git
-[submodule "uiw"]
-	path = uiw
-	url = git@github.com:UCloudDoc-Team/uiw.git
+	url = https://github.com/UCloudDoc-Team/opensdk-php.git
 [submodule "cdk"]
 	path = cdk
-	url = git@github.com:UCloudDoc-Team/cdk.git
+	url = https://github.com/UCloudDoc-Team/cdk.git
 [submodule "urlm"]
 	path = urlm
-	url = git@github.com:UCloudDoc-Team/urlm.git
+	url = https://github.com/UCloudDoc-Team/urlm.git
 [submodule "opensdk-js"]
 	path = opensdk-js
-	url = git@github.com:UCloudDoc-Team/opensdk-js.git
+	url = https://github.com/UCloudDoc-Team/opensdk-js.git
 [submodule "udi"]
 	path = udi
-	url = git@github.com:UCloudDoc-Team/udi.git
+	url = https://github.com/UCloudDoc-Team/udi.git
 [submodule "UCloudStack_v2.x"]
 	path = UCloudStack_v2.x
-	url = git@github.com:UCloudDoc-Team/UCloudStack_v2.x.git
+	url = https://github.com/UCloudDoc-Team/UCloudStack_v2.x.git
 [submodule "uphone"]
 	path = uphone
-	url = git@github.com:UCloudDoc-Team/uphone.git
+	url = https://github.com/UCloudDoc-Team/uphone.git
 [submodule "unvs"]
 	path = unvs
-	url = git@github.com:UCloudDoc-Team/unvs.git
-
-[submodule "UBox"]
-	path = UBox
-	url = git@github.com:UCloudDoc-Team/UBox.git
+	url = https://github.com/UCloudDoc-Team/unvs.git
 [submodule "ucnam"]
 	path = ucnam
-	url = git@github.com:UCloudDoc-Team/ucnam.git
+	url = https://github.com/UCloudDoc-Team/ucnam.git
 [submodule "epc"]
 	path = epc
-	url = git@github.com:UCloudDoc-Team/epc.git
+	url = https://github.com/UCloudDoc-Team/epc.git
 [submodule "globalssh"]
 	path = globalssh
-	url = git@github.com:UCloudDoc-Team/globalssh.git
+	url = https://github.com/UCloudDoc-Team/globalssh.git
 [submodule "globalrdp"]
 	path = globalrdp
-	url = git@github.com:UCloudDoc-Team/globalrdp.git
+	url = https://github.com/UCloudDoc-Team/globalrdp.git
 [submodule "uslk"]
 	path = uslk
-	url = git@github.com:UCloudDoc-Team/uslk.git
+	url = https://github.com/UCloudDoc-Team/uslk.git
 [submodule "uvms"]
 	path = uvms
-	url = git@github.com:UCloudDoc-Team/uvms.git
+	url = https://github.com/UCloudDoc-Team/uvms.git
 [submodule "ugame"]
 	path = ugame
-	url = git@github.com:UCloudDoc-Team/ugame.git
+	url = https://github.com/UCloudDoc-Team/ugame.git
 [submodule "app_legal_agreement"]
 	path = app_legal_agreement
-	url = git@github.com:UCloudDoc-Team/app_legal_agreement.git
+	url = https://github.com/UCloudDoc-Team/app_legal_agreement.git
 [submodule "mongodb_nvme"]
 	path = mongodb_nvme
-	url = git@github.com:UCloudDoc-Team/mongodb_nvme.git
+	url = https://github.com/UCloudDoc-Team/mongodb_nvme.git
 [submodule "httpdns"]
 	path = httpdns
-	url = git@github.com:UCloudDoc-Team/httpdns.git
-[submodule "pathlive"]
-	path = pathlive
-	url = git@github.com:UCloudDoc-Team/pathlive.git
+	url = https://github.com/UCloudDoc-Team/httpdns.git
 [submodule "udoris"]
 	path = udoris
-	url = git@github.com:UCloudDoc-Team/udoris.git
+	url = https://github.com/UCloudDoc-Team/udoris.git
 [submodule "common-docs"]
 	path = common-docs
-	url = git@github.com:UCloudDoc-Team/common-docs.git
+	url = https://github.com/UCloudDoc-Team/common-docs.git
 [submodule "uphone-server"]
 	path = uphone-server
-	url = git@github.com:UCloudDoc-Team/uphone-server.git
+	url = https://github.com/UCloudDoc-Team/uphone-server.git
 [submodule "upgsql"]
 	path = upgsql
-	url = git@github.com:UCloudDoc-Team/upgsql.git
-[submodule "products_compared"]
-	path = products_compared
-	url = git@github.com:UCloudDoc-Team/products_compared.git
+	url = https://github.com/UCloudDoc-Team/upgsql.git
 [submodule "data_classification"]
 	path = data_classification
-	url = git@github.com:UCloudDoc-Team/data_classification.git
+	url = https://github.com/UCloudDoc-Team/data_classification.git
 [submodule "data_masking"]
 	path = data_masking
-	url = git@github.com:UCloudDoc-Team/data_masking.git
+	url = https://github.com/UCloudDoc-Team/data_masking.git
 [submodule "udb_proxy"]
 	path = udb_proxy
+<<<<<<< HEAD
 	url = git@github.com:UCloudDoc-Team/udb_proxy.git
 [submodule "uaaa"]
 	path = uaaa
 	url = https://github.com/UCloudDoc-Team/uaaa.git
+=======
+	url = https://github.com/UCloudDoc-Team/udb_proxy.git
+[submodule "inner-repository_uclouddocs"]
+	path = inner-repository_uclouddocs
+	url = https://github.com/UCloudDoc-Team/inner-repository_uclouddocs.git
+[submodule "UCloudStack"]
+	path = UCloudStack
+	url = https://github.com/UCloudDoc-Team/UCloudStack.git
+[submodule "ugn"]
+	path = ugn
+	url = https://github.com/UCloudDoc-Team/ugn.git
+[submodule "crossborder"]
+	path = crossborder
+	url = https://github.com/UCloudDoc-Team/crossborder.git
+[submodule "urm"]
+	path = urm
+	url = https://github.com/UCloudDoc-Team/urm.git
+[submodule "trafficpackage"]
+	path = trafficpackage
+	url = https://github.com/UCloudDoc-Team/trafficpackage.git
+[submodule "cube"]
+	path = cube
+	url = https://github.com/UCloudDoc-Team/cube.git
+[submodule "ulhost"]
+	path = ulhost
+	url = https://github.com/UCloudDoc-Team/ulhost.git
+[submodule "undt"]
+	path = undt
+	url = https://github.com/UCloudDoc-Team/undt.git
+[submodule "uwan"]
+	path = uwan
+	url = https://github.com/UCloudDoc-Team/uwan.git
+[submodule "modelverse"]
+	path = modelverse
+	url = https://github.com/UCloudDoc-Team/modelverse.git
+[submodule "uas"]
+	path = uas
+	url = https://github.com/UCloudDoc-Team/uas.git
+[submodule "label"]
+	path = label
+	url = https://github.com/UCloudDoc-Team/label.git
+[submodule "upfs"]
+	path = upfs
+	url = https://github.com/UCloudDoc-Team/upfs.git
+[submodule "udac"]
+	path = udac
+	url = https://github.com/UCloudDoc-Team/udac.git
+
+[submodule "ulogservice"]
+	path = ulogservice
+	url = https://github.com/UCloudDoc-Team/ulogservice.git
+[submodule "ureach"]
+	path = ureach
+	url = https://github.com/UCloudDoc-Team/ureach.git
+[submodule "maxir"]
+	path = maxir
+	url = https://github.com/UCloudDoc-Team/maxir.git
+[submodule "umarketplace"]
+	path = umarketplace
+	url = https://github.com/UCloudDoc-Team/umarketplace.git
+[submodule "privatelink"]
+	path = privatelink
+	url = https://github.com/UCloudDoc-Team/privatelink.git
+>>>>>>> 81d4372681c60a776215dd1bdc5b3703a099d028

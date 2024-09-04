@@ -1,5 +1,6 @@
 # 删除仓库的操作如下:
 
+
 请修改moverepository.json, 格式如下<br/>
 {
     "type": "delete", // 变更类型：add move delete<br/>
