@@ -139,9 +139,6 @@
 [submodule "security"]
 	path = security
 	url = https://github.com/UCloudDoc-Team/security.git
-[submodule "stepflow"]
-	path = stepflow
-	url = https://github.com/UCloudDoc-Team/stepflow.git
 [submodule "usms"]
 	path = usms
 	url = https://github.com/UCloudDoc-Team/usms.git
