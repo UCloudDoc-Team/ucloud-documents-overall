@@ -410,3 +410,6 @@
 [submodule "privatelink"]
 	path = privatelink
 	url = https://github.com/UCloudDoc-Team/privatelink.git
+[submodule "cloudwatch"]
+	path = cloudwatch
+	url = https://github.com/UCloudDoc-Team/cloudwatch.git
