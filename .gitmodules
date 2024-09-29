@@ -413,3 +413,6 @@
 [submodule "cloudwatch"]
 	path = cloudwatch
 	url = https://github.com/UCloudDoc-Team/cloudwatch.git
+[submodule "usns"]
+	path = usns
+	url = https://github.com/UCloudDoc-Team/usns.git
