@@ -416,3 +416,6 @@
 [submodule "usns"]
 	path = usns
 	url = https://github.com/UCloudDoc-Team/usns.git
+[submodule "ukms"]
+	path = ukms
+	url = https://github.com/UCloudDoc-Team/ukms.git
