@@ -419,3 +419,6 @@
 [submodule "ukms"]
 	path = ukms
 	url = https://github.com/UCloudDoc-Team/ukms.git
+[submodule "maxirai"]
+	path = maxirai
+	url = https://github.com/UCloudDoc-Team/maxirai.git
