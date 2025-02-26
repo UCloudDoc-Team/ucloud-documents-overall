@@ -292,9 +292,6 @@
 [submodule "uphone"]
 	path = uphone
 	url = https://github.com/UCloudDoc-Team/uphone.git
-[submodule "unvs"]
-	path = unvs
-	url = https://github.com/UCloudDoc-Team/unvs.git
 [submodule "ucnam"]
 	path = ucnam
 	url = https://github.com/UCloudDoc-Team/ucnam.git
