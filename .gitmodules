@@ -295,9 +295,6 @@
 [submodule "ucnam"]
 	path = ucnam
 	url = https://github.com/UCloudDoc-Team/ucnam.git
-[submodule "epc"]
-	path = epc
-	url = https://github.com/UCloudDoc-Team/epc.git
 [submodule "globalssh"]
 	path = globalssh
 	url = https://github.com/UCloudDoc-Team/globalssh.git
