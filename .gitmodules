@@ -418,3 +418,6 @@
 [submodule "cps_platform"]
 	path = cps_platform
 	url = https://github.com/UCloudDoc-Team/cps_platform.git
+[submodule "ucnest"]
+	path = ucnest
+	url = https://github.com/UCloudDoc-Team/ucnest.git
