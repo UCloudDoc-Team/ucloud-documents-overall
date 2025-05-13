@@ -421,3 +421,6 @@
 [submodule "ucnest"]
 	path = ucnest
 	url = https://github.com/UCloudDoc-Team/ucnest.git
+[submodule "cloudecosystem"]
+	path = cloudecosystem
+	url = https://github.com/UCloudDoc-Team/cloudecosystem.git
