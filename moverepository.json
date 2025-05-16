@@ -2,7 +2,7 @@
     "repositorys": [
         {
             "type": "delete",
-            "repository": "httpdns"
+            "repository": "uapigateway"
         }
     ]
 }
