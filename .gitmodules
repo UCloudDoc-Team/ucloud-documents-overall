@@ -112,9 +112,6 @@
 [submodule "ues"]
 	path = ues
 	url = https://github.com/UCloudDoc-Team/ues.git
-[submodule "udw"]
-	path = udw
-	url = https://github.com/UCloudDoc-Team/udw.git
 [submodule "ukafka"]
 	path = ukafka
 	url = https://github.com/UCloudDoc-Team/ukafka.git
@@ -316,9 +313,6 @@
 [submodule "httpdns"]
 	path = httpdns
 	url = https://github.com/UCloudDoc-Team/httpdns.git
-[submodule "udoris"]
-	path = udoris
-	url = https://github.com/UCloudDoc-Team/udoris.git
 [submodule "common-docs"]
 	path = common-docs
 	url = https://github.com/UCloudDoc-Team/common-docs.git
