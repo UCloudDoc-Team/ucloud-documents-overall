@@ -418,6 +418,4 @@
 [submodule "cpc"]
 	path = cpc
 	url = https://github.com/UCloudDoc-Team/cpc.git
-[submodule "uplvr"]
-	path = uplvr
-	url = https://github.com/UCloudDoc-Team/uplvr.git
+
