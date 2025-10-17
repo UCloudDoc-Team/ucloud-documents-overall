@@ -419,3 +419,6 @@
 	path = cpc
 	url = https://github.com/UCloudDoc-Team/cpc.git
 
+[submodule "plvr"]
+	path = plvr
+	url = https://github.com/UCloudDoc-Team/plvr.git
