@@ -286,9 +286,6 @@
 [submodule "uvms"]
 	path = uvms
 	url = https://github.com/UCloudDoc-Team/uvms.git
-[submodule "ugame"]
-	path = ugame
-	url = https://github.com/UCloudDoc-Team/ugame.git
 [submodule "app_legal_agreement"]
 	path = app_legal_agreement
 	url = https://github.com/UCloudDoc-Team/app_legal_agreement.git
