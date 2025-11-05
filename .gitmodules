@@ -310,9 +310,6 @@
 [submodule "uaaa"]
 	path = uaaa
 	url = https://github.com/UCloudDoc-Team/uaaa.git
-[submodule "inner-repository_uclouddocs"]
-	path = inner-repository_uclouddocs
-	url = https://github.com/UCloudDoc-Team/inner-repository_uclouddocs.git
 [submodule "UCloudStack"]
 	path = UCloudStack
 	url = https://github.com/UCloudDoc-Team/UCloudStack.git
