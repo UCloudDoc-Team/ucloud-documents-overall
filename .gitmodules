@@ -244,9 +244,6 @@
 [submodule "opensdk-php"]
 	path = opensdk-php
 	url = https://github.com/UCloudDoc-Team/opensdk-php.git
-[submodule "cdk"]
-	path = cdk
-	url = https://github.com/UCloudDoc-Team/cdk.git
 [submodule "opensdk-js"]
 	path = opensdk-js
 	url = https://github.com/UCloudDoc-Team/opensdk-js.git
