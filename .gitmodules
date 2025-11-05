@@ -70,9 +70,6 @@
 [submodule "uedn"]
 	path = uedn
 	url = https://github.com/UCloudDoc-Team/uedn.git
-[submodule "umedia"]
-	path = umedia
-	url = https://github.com/UCloudDoc-Team/umedia.git
 [submodule "urtc"]
 	path = urtc
 	url = https://github.com/UCloudDoc-Team/urtc.git
