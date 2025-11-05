@@ -271,9 +271,6 @@
 [submodule "UCloudStack_v2.x"]
 	path = UCloudStack_v2.x
 	url = https://github.com/UCloudDoc-Team/UCloudStack_v2.x.git
-[submodule "uphone"]
-	path = uphone
-	url = https://github.com/UCloudDoc-Team/uphone.git
 [submodule "ucnam"]
 	path = ucnam
 	url = https://github.com/UCloudDoc-Team/ucnam.git
