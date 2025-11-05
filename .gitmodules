@@ -106,9 +106,6 @@
 [submodule "ukafka"]
 	path = ukafka
 	url = https://github.com/UCloudDoc-Team/ukafka.git
-[submodule "uflink"]
-	path = uflink
-	url = https://github.com/UCloudDoc-Team/uflink.git
 [submodule "register"]
 	path = register
 	url = https://github.com/UCloudDoc-Team/register.git
