@@ -259,9 +259,6 @@
 [submodule "cdk"]
 	path = cdk
 	url = https://github.com/UCloudDoc-Team/cdk.git
-[submodule "urlm"]
-	path = urlm
-	url = https://github.com/UCloudDoc-Team/urlm.git
 [submodule "opensdk-js"]
 	path = opensdk-js
 	url = https://github.com/UCloudDoc-Team/opensdk-js.git
