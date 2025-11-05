@@ -52,9 +52,6 @@
 [submodule "udb-mongodb"]
 	path = udb-mongodb
 	url = https://github.com/UCloudDoc-Team/udb-mongodb.git
-[submodule "udb-pgsql"]
-	path = udb-pgsql
-	url = https://github.com/UCloudDoc-Team/udb-pgsql.git
 [submodule "udb-sqlserver"]
 	path = udb-sqlserver
 	url = https://github.com/UCloudDoc-Team/udb-sqlserver.git
