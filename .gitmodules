@@ -109,9 +109,6 @@
 [submodule "uflink"]
 	path = uflink
 	url = https://github.com/UCloudDoc-Team/uflink.git
-[submodule "uiot-core"]
-	path = uiot-core
-	url = https://github.com/UCloudDoc-Team/uiot-core.git
 [submodule "register"]
 	path = register
 	url = https://github.com/UCloudDoc-Team/register.git
