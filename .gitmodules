@@ -289,9 +289,6 @@
 [submodule "upgsql"]
 	path = upgsql
 	url = https://github.com/UCloudDoc-Team/upgsql.git
-[submodule "data_classification"]
-	path = data_classification
-	url = https://github.com/UCloudDoc-Team/data_classification.git
 [submodule "udb_proxy"]
 	path = udb_proxy
 	url = git@github.com:UCloudDoc-Team/udb_proxy.git
