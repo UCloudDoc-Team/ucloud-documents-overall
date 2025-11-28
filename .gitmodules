@@ -220,9 +220,6 @@
 [submodule "usmc"]
 	path = usmc
 	url = https://github.com/UCloudDoc-Team/usmc.git
-[submodule "uiot-stack"]
-	path = uiot-stack
-	url = https://github.com/UCloudDoc-Team/uiot-stack.git
 [submodule "uxzone"]
 	path = uxzone
 	url = https://github.com/UCloudDoc-Team/uxzone.git
