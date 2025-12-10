@@ -202,9 +202,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/UCloudDoc-Team/api.git
-[submodule "utsdb"]
-	path = utsdb
-	url = https://github.com/UCloudDoc-Team/utsdb.git
 [submodule "uhybrid2.0"]
 	path = uhybrid2.0
 	url = https://github.com/UCloudDoc-Team/uhybrid2.0.git
