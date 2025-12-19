@@ -368,3 +368,6 @@
 [submodule "agent-sandbox"]
 	path = agent-sandbox
 	url = https://github.com/UCloudDoc-Team/agent-sandbox.git
+[submodule "nta"]
+	path = nta
+	url = https://github.com/UCloudDoc-Team/nta.git
