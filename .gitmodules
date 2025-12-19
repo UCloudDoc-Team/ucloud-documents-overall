@@ -365,3 +365,6 @@
 [submodule "aidb"]
 	path = aidb
 	url = https://github.com/UCloudDoc-Team/aidb.git
+[submodule "agent-sandbox"]
+	path = agent-sandbox
+	url = https://github.com/UCloudDoc-Team/agent-sandbox.git
