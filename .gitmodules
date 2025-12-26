@@ -371,3 +371,6 @@
 [submodule "nta"]
 	path = nta
 	url = https://github.com/UCloudDoc-Team/nta.git
+[submodule "internetfw"]
+	path = internetfw
+	url = https://github.com/UCloudDoc-Team/internetfw.git
