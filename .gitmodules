@@ -247,9 +247,6 @@
 [submodule "UCloudStack_v2.x"]
 	path = UCloudStack_v2.x
 	url = https://github.com/UCloudDoc-Team/UCloudStack_v2.x.git
-[submodule "ucnam"]
-	path = ucnam
-	url = https://github.com/UCloudDoc-Team/ucnam.git
 [submodule "globalssh"]
 	path = globalssh
 	url = https://github.com/UCloudDoc-Team/globalssh.git
