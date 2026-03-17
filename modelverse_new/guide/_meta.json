@@ -1,0 +1,9 @@
+{
+  "briefguide": "快速入门",
+  "dataset-manage": "数据集管理",
+  "model-evaluation": "模型评估",
+  "model-finetuning": "模型微调",
+  "model-manage": "模型管理",
+  "model-marketplace": "模型市场",
+  "service-manage": "服务管理"
+}

@@ -1,0 +1,12 @@
+{
+  "01-quick-start": "模板快速开始",
+  "03-user-and-work-dir": "用户与工作目录",
+  "04-cache": "缓存机制",
+  "05-base-image": "基础镜像",
+  "06-private-registries": "私有仓库",
+  "07-defining-template": "定义模板",
+  "08-start-and-ready-commands": "启动与就绪命令",
+  "09-build": "构建模板",
+  "10-logging": "构建日志",
+  "12-examples": "示例库"
+}

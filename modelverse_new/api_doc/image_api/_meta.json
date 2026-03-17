@@ -1,0 +1,20 @@
+{
+  "gemini-2.5-flash-image": "gemini-2.5-flash-image (Nano Banana)",
+  "gemini-3-pro-image": "gemini-3-pro-image (Nano Banana 2)",
+  "flux-2-pro": "flux-2-pro",
+  "flux-kontext-pro": "flux-kontext-pro",
+  "flux-pro-1.1": "flux-pro-1.1",
+  "black-forest-labs-flux.1-dev": "black-forest-labs/flux.1-dev",
+  "stepfun-ai-step1x-edit": "stepfun-ai/step1x-edit",
+  "black-forest-labs-flux-kontext-max": "black-forest-labs/flux-kontext-max",
+  "black-forest-labs-flux-kontext-max-multi": "black-forest-labs/flux-kontext-max/multi",
+  "black-forest-labs-flux-kontext-max-text-to-image": "black-forest-labs/flux-kontext-max/text-to-image",
+  "black-forest-labs-flux-kontext-pro": "black-forest-labs/flux-kontext-pro",
+  "black-forest-labs-flux-kontext-pro-multi": "black-forest-labs/flux-kontext-pro/multi",
+  "black-forest-labs-flux-kontext-pro-text-to-image": "black-forest-labs/flux-kontext-pro/text-to-image",
+  "Qwen-Qwen-Image-Edit": "Qwen/Qwen-Image-Edit",
+  "Qwen-Qwen-Image": "Qwen/Qwen-Image",
+  "gpt-image-1": "gpt-image-1",
+  "gpt-image-1.5": "gpt-image-1.5",
+  "doubao-seedream-4.5": "doubao-seedream-4.5"
+}

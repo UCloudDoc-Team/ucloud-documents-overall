@@ -1,0 +1,11 @@
+{
+  "01-lifecycle": "生命周期",
+  "08-list": "列表查询",
+  "09-connect-to-running-sandbox": "手动连接沙箱",
+  "06-metadata": "元数据管理",
+  "07-environment-variables": "环境变量",
+  "04-persistence": "数据持久化",
+  "10-internet-access": "网络访问",
+  "05-metrics": "指标监控",
+  "11-connect-bucket": "连接存储桶"
+}

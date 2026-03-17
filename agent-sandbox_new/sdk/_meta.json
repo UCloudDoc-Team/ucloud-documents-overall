@@ -1,0 +1,9 @@
+{
+  "rate-limit": "配额说明",
+  "13-code-interpreter": "Code Interpreter",
+  "14-desktop": "Desktop",
+  "claude-code": "Claude Code",
+  "sandbox": "沙箱管理",
+  "commands": "命令执行",
+  "filesystem": "文件系统"
+}

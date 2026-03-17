@@ -1,0 +1,13 @@
+{
+  "models": "如何获取模型列表",
+  "model-competi": "模型协议支持说明",
+  "api-expand": "API支持与UCloud扩展字段说明",
+  "openai_compatible": "OpenAI Chat Completions 说明",
+  "response_api": "OpenAI Response API 说明",
+  "embeddings": "Embeddings 向量嵌入",
+  "deepseek-ocr": "DeepSeek-OCR 模型调用示例",
+  "struct": "OpenAI 文本接口结构说明",
+  "doubao": "Doubao豆包模型思考功能参数说明",
+  "gemini_compatible": "Gemini 快速开始",
+  "claude_compatible": "Claude (Anthropic) 兼容说明"
+}

@@ -371,3 +371,6 @@
 [submodule "internetfw"]
 	path = internetfw
 	url = https://github.com/UCloudDoc-Team/internetfw.git
+[submodule "dcdn"]
+	path = dcdn
+	url = https://github.com/UCloudDoc-Team/dcdn.git

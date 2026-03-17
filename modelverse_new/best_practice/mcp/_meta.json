@@ -1,0 +1,5 @@
+{
+  "mcpgeneral": "MCP 简介",
+  "MCPServer": "通过 CLINE 接入 MCP 服务",
+  "MCPClient": "通过 UCloud API 实现 MCP Client"
+}
