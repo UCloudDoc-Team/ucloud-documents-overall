@@ -374,3 +374,6 @@
 [submodule "dcdn"]
 	path = dcdn
 	url = https://github.com/UCloudDoc-Team/dcdn.git
+[submodule "memorydb"]
+	path = memorydb
+	url = https://github.com/UCloudDoc-Team/memorydb.git
