@@ -377,3 +377,6 @@
 [submodule "memorydb"]
 	path = memorydb
 	url = https://github.com/UCloudDoc-Team/memorydb.git
+[submodule "maxir_memory"]
+	path = maxir_memory
+	url = https://github.com/UCloudDoc-Team/maxir_memory.git
