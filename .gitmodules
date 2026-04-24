@@ -304,9 +304,6 @@
 [submodule "uwan"]
 	path = uwan
 	url = https://github.com/UCloudDoc-Team/uwan.git
-[submodule "modelverse"]
-	path = modelverse
-	url = https://github.com/UCloudDoc-Team/modelverse.git
 [submodule "uas"]
 	path = uas
 	url = https://github.com/UCloudDoc-Team/uas.git
@@ -362,9 +359,6 @@
 [submodule "aidb"]
 	path = aidb
 	url = https://github.com/UCloudDoc-Team/aidb.git
-[submodule "agent-sandbox"]
-	path = agent-sandbox
-	url = https://github.com/UCloudDoc-Team/agent-sandbox.git
 [submodule "nta"]
 	path = nta
 	url = https://github.com/UCloudDoc-Team/nta.git
