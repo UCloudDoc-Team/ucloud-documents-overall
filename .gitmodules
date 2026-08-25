@@ -376,4 +376,4 @@
 	url = https://github.com/UCloudDoc-Team/maxir_memory.git
 [submodule "ses"]
 	path = ses
-	url = git@github.com:UCloudDoc-Team/ses.git
+	url = https://github.com/UCloudDoc-Team/ses.git
